@@ -1,15 +1,15 @@
 # Project Plan and Progress Log
 
-# 0 Personal Website
+# Personal Website
 
-## 0.1 Aliyun - www.cuishuaiwen.com
+## Aliyun - www.cuishuaiwen.com
 
-## 0.2 Github - 
+## Github - 
 
-# 1 Digital Space
+# Digital Space
 
-## 1.1 Perception
+## Perception
 
-## 1.2 Cognition
+## Cognition
 
-## 1.3 Actuation
+## Actuation
