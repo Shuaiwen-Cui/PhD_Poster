@@ -34,15 +34,24 @@ This file is for PhD study plan and progress log.
 # 👨‍🎓 VII - Thesis and Defence
 
 ========================== LOG ==========================
-# AY22/23
-no record
-# AY23/24
-## SEPTEMBER
-### Sep 13
-- Gaussian Process Regresssion Theory Foundation Summary []
-- Pseudo Code Refinement []
-- Programming on Xnode - Trial [] 
+✅ for finished
+❎ for to be finished
 
+# 📅 AY22/23
+no record
+# 📅 AY23/24
+## 9️⃣ SEPTEMBER
+### 🚀 Sep 13
+- Gaussian Process Regresssion Theory Foundation Summary []
+    refer to the book, give a brief summary
+- Pseudo Code Refinement []
+    sketch + pseudo Code
+- Programming on Xnode - Trial []
+    log + printout
+    prepare for the upcoming meeting
+
+### 🚀 Sep 14
+- TAC files preparation []
 
 
 
