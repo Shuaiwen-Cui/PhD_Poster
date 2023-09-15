@@ -42,16 +42,26 @@ no record
 # 📅 AY23/24
 ## 9️⃣ SEPTEMBER
 ### 🚀 Sep 13
-- Gaussian Process Regresssion Theory Foundation Summary []
+- Gaussian Process Regresssion Theory Foundation Summary [✅]
     refer to the book, give a brief summary
-- Pseudo Code Refinement []
+- Pseudo Code Refinement [✅]
     sketch + pseudo Code
-- Programming on Xnode - Trial []
+- Programming on Xnode - Trial [✅]
     log + printout
     prepare for the upcoming meeting
 
 ### 🚀 Sep 14
+- Weekly Meeting 64
+    - get down to earth, try to narrow down to code level [✅]
+
+
+
+### 🚀 Sep 15
 - TAC files preparation []
+- Meeting Summary []
+  - start from the essential algorithms, match with PC results
+  - try new 4g sim card
+  - CMSIS Library
 
 
 
