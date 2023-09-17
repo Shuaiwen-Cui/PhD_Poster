@@ -57,13 +57,17 @@ no record
 
 
 ### 🚀 Sep 15
-- TAC files preparation []
+- TAC files preparation
 - Meeting Summary []
   - start from the essential algorithms, match with PC results
   - try new 4g sim card
   - CMSIS Library
 
+### 🚀 Sep 16
+- TAC files preparation, expected to be finished on Sep 18th
 
+### 🚀 Sep 17
+- TAC files preparation, expected to be finished on Sep 18th
 
 
 
