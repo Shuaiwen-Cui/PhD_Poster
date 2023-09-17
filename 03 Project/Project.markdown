@@ -18,12 +18,17 @@
 
 ### = 2.3 Research
 - Status: yet to start
-- This page should include Research / Development / Project.
 
-### = 2.4 Blog
+### = 2.4 Development
+- Status: yet to start
+
+### = 2.5 Project
+- Status: yet to start
+
+### = 2.6 Blog
 - Status: to be enriched
 
-### = 2.5 Contact
+### = 2.7 Contact
 - Status: almost finished
 - The contact form part can be further refined.
 

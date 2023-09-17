@@ -1,6 +1,5 @@
 # Development Plan and Progress Log
 
-
 # Hardware
 ## 📟 MCU / MPU / SBC
 ### Arduino Series

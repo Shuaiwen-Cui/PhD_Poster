@@ -54,8 +54,6 @@ no record
 - Weekly Meeting 64
     - get down to earth, try to narrow down to code level [✅]
 
-
-
 ### 🚀 Sep 15
 - TAC files preparation
 - Meeting Summary []
