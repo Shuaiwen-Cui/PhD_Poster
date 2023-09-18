@@ -52,4 +52,9 @@
 ### 🚀 Sep 17
 - personal website - Blog & Contact [✅]
 
+### 🚀 Sep 18
+- personal website - Research & Development [✅]
+- note that the filter can not be reused, idealy, I need a filter in the Development page
 
+### 🚀 Sep 19
+- personal website - Project []
