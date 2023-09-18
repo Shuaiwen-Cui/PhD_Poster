@@ -76,10 +76,9 @@ no record
 - TAC files preparation, expected to be finished on Sep 18th
 
 ### 🚀 Sep 18
-- TAC files preparation, expected to be finished on Sep 18th []
-- Email to TAC Professors
-- Research GPR 
-- SATM []
+- TAC files preparation, expected to be finished on Sep 18th [✅]
+- Email to TAC Professors [✅]
+- Annual Report Pending for Prof Fu's comments and signature  [✅]
 
 ### 🚀 Sep 19 
 - Research
@@ -98,6 +97,7 @@ no record
 - TAC Meeting - Key to Seminar Room B
 - TAC Meeting Room Pre + Bottle Waters
 - TAC Meeting + Notes
+- Forms to be filled by Prof Yuen and Prof Yang []
 
 
 
