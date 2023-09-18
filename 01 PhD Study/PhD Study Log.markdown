@@ -17,6 +17,14 @@ This file is for PhD study plan and progress log.
 
 ## C - Online Displacement Estimation and Gaussian Process Regression and Stochastic Process Control
 
+### Displacement Estimation Theory
+
+### Displacement Implementation
+
+### Gaussian Process Regression Theory
+
+### Gaussian Process Regression Implementation
+
 ## D - Data Saturation Recovery
 
 # 💼 IV - Project
@@ -67,6 +75,29 @@ no record
 ### 🚀 Sep 17
 - TAC files preparation, expected to be finished on Sep 18th
 
+### 🚀 Sep 18
+- TAC files preparation, expected to be finished on Sep 18th []
+- Email to TAC Professors
+- Research GPR 
+- SATM []
+
+### 🚀 Sep 19 
+- Research
+- Microteaching Rehearsal
+- TAC Meeting Rehearsal
+
+### 🚀 Sep 20
+- GAP form fillout
+- Research + Pre
+  
+### 🚀 Sep 21
+- Weekly Meeting - GPR Implementation
+- Songs Pre
+
+### 🚀 Sep 22
+- TAC Meeting - Key to Seminar Room B
+- TAC Meeting Room Pre + Bottle Waters
+- TAC Meeting + Notes
 
 
 
