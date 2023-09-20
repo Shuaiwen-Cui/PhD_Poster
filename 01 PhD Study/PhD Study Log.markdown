@@ -75,31 +75,52 @@ no record
 ### 🚀 Sep 17
 - TAC files preparation, expected to be finished on Sep 18th
 
-### 🚀 Sep 18
+### 🚀 Sep 18 Mon
 - TAC files preparation, expected to be finished on Sep 18th [✅]
 - Email to TAC Professors [✅]
 - Annual Report Pending for Prof Fu's comments and signature  [✅]
 
 ### 🚀 Sep 19 
-- Research
-- Microteaching Rehearsal
-- TAC Meeting Rehearsal
+- TAC Meeting Rehearsal - est. time 30min around (1/3) [✅]
 
-### 🚀 Sep 20
-- GAP form fillout
-- Research + Pre
+### 🚀 Sep 20 
+- Research
+- TAC Meeting Rehearsal - est. time 30min around (2/3) []
+- Meeting with Prof Fu - TAC Meeting - Research Roadmap
+
+- GAP form fillout 
   
 ### 🚀 Sep 21
+- TAC Meeting Rehearsal - est. time 30min around (3/3) []
 - Weekly Meeting - GPR Implementation
 - Songs Pre
+- Dress & Computer & Laser Pen & Bottle Water
 
 ### 🚀 Sep 22
 - TAC Meeting - Key to Seminar Room B
 - TAC Meeting Room Pre + Bottle Waters
+- 13:00 ~ 14:00 seminar room to be determined
 - TAC Meeting + Notes
 - Forms to be filled by Prof Yuen and Prof Yang []
+- - Microteaching Preparation - slides & teaching appliance (1/2) []
+
+### 🚀 Sep 23
+- party - Tongji Alumini
+- Microteaching Preparation - plan and rehearsal (2/2) []
+
+### 🚀 Sep 24
+- review paper 1 []
+- review paper 2 []
 
 
+
+
+
+
+
+
+### 🚀 Sep 27
+- Quiz Invigilation 12:15 report 12:30 ~ 13:30
 
 
 

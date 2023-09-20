@@ -8,6 +8,11 @@
 
 ### ESP32 Series
 
+### Xnode
+#### 4G Modem
+
+#### Network Communication
+
 ### Raspberry Pi
 
 ### Jetson Nano
