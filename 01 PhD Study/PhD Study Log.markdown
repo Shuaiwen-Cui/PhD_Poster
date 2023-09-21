@@ -84,25 +84,27 @@ no record
 - TAC Meeting Rehearsal - est. time 30min around (1/3) [✅]
 
 ### 🚀 Sep 20 
+- Meeting with Prof Fu - TAC Meeting - Research Roadmap [✅]
 - Research
-- TAC Meeting Rehearsal - est. time 30min around (2/3) []
-- Meeting with Prof Fu - TAC Meeting - Research Roadmap
+  - CMSIS Learning
 
-- GAP form fillout 
-  
 ### 🚀 Sep 21
-- TAC Meeting Rehearsal - est. time 30min around (3/3) []
-- Weekly Meeting - GPR Implementation
+- Weekly Meeting - GPR Implementation [✅]
+- TAC Meeting Slides Preparation 
+- TAC Meeting Rehearsal - est. time 30min around (2/3) []
+
 - Songs Pre
 - Dress & Computer & Laser Pen & Bottle Water
 
 ### 🚀 Sep 22
+- TAC Meeting Rehearsal - est. time 30min around (3/3) []
 - TAC Meeting - Key to Seminar Room B
 - TAC Meeting Room Pre + Bottle Waters
 - 13:00 ~ 14:00 seminar room to be determined
 - TAC Meeting + Notes
 - Forms to be filled by Prof Yuen and Prof Yang []
-- - Microteaching Preparation - slides & teaching appliance (1/2) []
+- Microteaching Preparation - slides & teaching appliance (1/2) []
+- GAP form fillout 
 
 ### 🚀 Sep 23
 - party - Tongji Alumini
@@ -111,12 +113,6 @@ no record
 ### 🚀 Sep 24
 - review paper 1 []
 - review paper 2 []
-
-
-
-
-
-
 
 
 ### 🚀 Sep 27
