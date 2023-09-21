@@ -90,6 +90,7 @@ no record
 
 ### 🚀 Sep 21
 - Weekly Meeting - GPR Implementation [✅]
+- Python for Begineers (ch0 ~ch5)
 - TAC Meeting Slides Preparation 
 - TAC Meeting Rehearsal - est. time 30min around (2/3) []
 
