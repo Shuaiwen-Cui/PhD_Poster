@@ -103,6 +103,15 @@ no record
 - TAC Meeting Room Pre + Bottle Waters  [✅]
 - 13:00 ~ 14:00 seminar room to be determined  [✅]
 - TAC Meeting + Notes  [✅]
+  - Takeaways:
+  - Prof Yang:
+  - 1. add publications to the time table
+  - 2. strengthen the CE part
+  - 3. novelty
+  - Prof Yuen
+  - 1. focus on certain part
+  - 2. more innovative
+  - 3. try lab test data / field data
 - Forms to be filled by Prof Yuen and Prof Yang  [✅]
 - Sent the package to Soo Ching  [✅]
 - Microteaching Preparation - slides & teaching appliance (1/2) []
