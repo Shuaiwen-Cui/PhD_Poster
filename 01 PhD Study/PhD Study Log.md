@@ -92,18 +92,19 @@ no record
 - Weekly Meeting - GPR Implementation [✅]
 - Python for Begineers (ch0 ~ch5)
 - TAC Meeting Slides Preparation 
-- TAC Meeting Rehearsal - est. time 30min around (2/3) []
+- TAC Meeting Rehearsal - est. time 30min around (2/3) [✅]
 
 - Songs Pre
 - Dress & Computer & Laser Pen & Bottle Water
 
 ### 🚀 Sep 22
-- TAC Meeting Rehearsal - est. time 30min around (3/3) []
-- TAC Meeting - Key to Seminar Room B
-- TAC Meeting Room Pre + Bottle Waters
-- 13:00 ~ 14:00 seminar room to be determined
-- TAC Meeting + Notes
-- Forms to be filled by Prof Yuen and Prof Yang []
+- TAC Meeting Rehearsal - est. time 30min around (3/3) [✅]
+- TAC Meeting - Key to Seminar Room B  [✅]
+- TAC Meeting Room Pre + Bottle Waters  [✅]
+- 13:00 ~ 14:00 seminar room to be determined  [✅]
+- TAC Meeting + Notes  [✅]
+- Forms to be filled by Prof Yuen and Prof Yang  [✅]
+- Sent the package to Soo Ching  [✅]
 - Microteaching Preparation - slides & teaching appliance (1/2) []
 - GAP form fillout 
 
