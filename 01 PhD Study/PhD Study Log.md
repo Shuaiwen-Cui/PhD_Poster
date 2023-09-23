@@ -114,14 +114,16 @@ no record
   - 3. try lab test data / field data
 - Forms to be filled by Prof Yuen and Prof Yang  [✅]
 - Sent the package to Soo Ching  [✅]
-- Microteaching Preparation - slides & teaching appliance (1/2) []
-- GAP form fillout 
+
 
 ### 🚀 Sep 23
 - party - Tongji Alumini
-- Microteaching Preparation - plan and rehearsal (2/2) []
+- - Microteaching Preparation - slides & teaching appliance (1/2) []
+- GAP form fillout 
+
 
 ### 🚀 Sep 24
+- Microteaching Preparation - plan and rehearsal (2/2) []
 - review paper 1 []
 - review paper 2 []
 
