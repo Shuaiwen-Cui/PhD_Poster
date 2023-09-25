@@ -121,6 +121,7 @@ no record
 - Microteaching Preparation - plan and rehearsal (2/2) [✅]
 
 ### 🚀 Sep 25 Mon
+- HWG702 M4 Pre Homework [✅]
 - 13:00 HWG702 Microteaching Rehearsal
 - review paper 1 []
 - research
