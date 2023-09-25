@@ -94,9 +94,6 @@ no record
 - TAC Meeting Slides Preparation 
 - TAC Meeting Rehearsal - est. time 30min around (2/3) [✅]
 
-- Songs Pre
-- Dress & Computer & Laser Pen & Bottle Water
-
 ### 🚀 Sep 22
 - TAC Meeting Rehearsal - est. time 30min around (3/3) [✅]
 - TAC Meeting - Key to Seminar Room B  [✅]
@@ -117,17 +114,21 @@ no record
 
 
 ### 🚀 Sep 23
-- party - Tongji Alumini
-- - Microteaching Preparation - slides & teaching appliance (1/2) []
-- GAP form fillout 
-
+- party - Tongji Alumini [✅]
 
 ### 🚀 Sep 24
-- Microteaching Preparation - plan and rehearsal (2/2) []
+-  Microteaching Preparation - slides & teaching appliance (1/2) [✅]
+- Microteaching Preparation - plan and rehearsal (2/2) [✅]
+
+### 🚀 Sep 25 Mon
+- 13:00 HWG702 Microteaching Rehearsal
 - review paper 1 []
+- research
+- study
+
+### 🚀 Sep 26
+- research
 - review paper 2 []
-
-
 ### 🚀 Sep 27
 - Quiz Invigilation 12:15 report 12:30 ~ 13:30
 
