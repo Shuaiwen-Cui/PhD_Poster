@@ -122,16 +122,37 @@ no record
 
 ### 🚀 Sep 25 Mon
 - HWG702 M4 Pre Homework [✅]
-- 13:00 HWG702 Microteaching Rehearsal
+- 13:00 HWG702 Microteaching Rehearsal [✅]
+- HWG702 13:00 - 16:30 HIVE B4 LHS-TR+6 [✅]
+  - Summary of Feedback & Lessons
+  - Prepration:
+  - A - Supplement Materials, make sure they are properly distributed to the students.
+  - B - Teaching Plans better in hard copy
+  - Presentation
+  - Rehearsal For Better Time Control
+  - Contents:
+  - 1. Purpose/Values/Aims/Learning Outcomes
+  - 2. Introductory Example - try to be attractive
+  - 3. Brief Intro of the Terms
+  - Relational Level should be more evident
+  - Summary and Recap, better with one sentence
+- HWG702 Plan and Slides Modified - [✅]
 - review paper 1 []
-- research
-- study
+- study [✅]
 
 ### 🚀 Sep 26
 - research
 - review paper 2 []
+
+
 ### 🚀 Sep 27
 - Quiz Invigilation 12:15 report 12:30 ~ 13:30
+
+### 🚀 Oct 1 
+- HWG702 Assignment Preparation
+
+### 🚀 Oct 2 Mon
+- HWG702 Modified Assignments - 
 
 
 
