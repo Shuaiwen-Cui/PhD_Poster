@@ -137,23 +137,34 @@ no record
   - Relational Level should be more evident
   - Summary and Recap, better with one sentence
 - HWG702 Plan and Slides Modified - [✅]
-- review paper 1 []
 - study [✅]
 
 ### 🚀 Sep 26
-- research
+- python for beginners ch07-10 - [✅]
+- research 
+- review paper 1 []
 - review paper 2 []
 
-
 ### 🚀 Sep 27
-- Quiz Invigilation 12:15 report 12:30 ~ 13:30
+- Quiz Invigilation LT 2A 12:15 report 12:30 ~ 13:30
 
 ### 🚀 Oct 1 
 - HWG702 Assignment Preparation
 
 ### 🚀 Oct 2 Mon
 - HWG702 Modified Assignments - 
+## 🔟 Octomber
+### 🚀 Oct 24
+- Fly back to China
 
+
+## 1️⃣1️⃣ November
+### 🚀 Nov 19
+- Fly back to Singapore
+### 🚀 Nov 25
+- Exam Invigilation N1-B4C-09a 8:30 report 9:00-11:35
+
+## 1️⃣2️⃣ December
 
 
 
