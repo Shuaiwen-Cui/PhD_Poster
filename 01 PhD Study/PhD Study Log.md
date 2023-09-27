@@ -141,7 +141,9 @@ no record
 
 ### 🚀 Sep 26
 - python for beginners ch07-10 - [✅]
-- research 
+- research
+  - Xnode Programing CMSIS DSP LIB TEST - SUCCESSFUL!
+  - Continue to try new functions.
 - review paper 1 []
 - review paper 2 []
 
