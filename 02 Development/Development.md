@@ -50,5 +50,5 @@
 # FrontEnd
 ## HTML
 ### W3 Schools
-Mark: HTML Javascript
+Mark: HTML Entities
 
