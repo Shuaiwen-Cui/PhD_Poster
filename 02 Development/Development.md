@@ -50,5 +50,10 @@
 # FrontEnd
 ## HTML
 ### W3 Schools
-Mark: HTML Forms
-
+- HTML TUTORIALS - [✅]
+- HTML FORMS - [✅]
+- HTML GRAPHICS - [✅]
+- HTML MEDIA - [✅]
+- HTML APIS
+- HTML EXAMPLES
+- HTML REFERENCES
