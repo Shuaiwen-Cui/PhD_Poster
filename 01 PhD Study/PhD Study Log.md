@@ -142,14 +142,17 @@ no record
 ### 🚀 Sep 26
 - python for beginners ch07-10 - [✅]
 - research
-  - Xnode Programing CMSIS DSP LIB TEST - SUCCESSFUL!
-  - Continue to try new functions.
-- review paper 1 []
-- review paper 2 []
+
 
 ### 🚀 Sep 27
-- Quiz Invigilation LT 2A 12:15 report 12:30 ~ 13:30
+- Quiz Invigilation LT 2A 12:15 report 12:30 ~ 13:30 - [✅]
+- research
+  - Xnode Programing CMSIS DSP LIB TEST - SUCCESSFUL!
+  - Continue to try new functions.
 
+### 🚀 Sep 28
+- review paper 1 []
+- review paper 2 []
 ### 🚀 Oct 1 
 - HWG702 Assignment Preparation
 
