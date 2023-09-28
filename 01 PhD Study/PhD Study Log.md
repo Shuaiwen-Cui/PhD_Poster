@@ -161,6 +161,12 @@ no record
   - Load data from SD card, sscanf
 - review paper 1 []
 - review paper 2 []
+### 🚀 Sep 29
+- Xnode Programming
+  - V4 CMSIS DSP TEST
+  - V5 Import Data into Code
+  - V6 Try to load data from SD card, use sdcalloc(), and write to SD card
+
 
 
 ### 🚀 Oct 1 
@@ -168,10 +174,11 @@ no record
 
 ### 🚀 Oct 2 Mon
 - HWG702 Modified Assignments - 
+
+
 ## 🔟 Octomber
 ### 🚀 Oct 24
 - Fly back to China
-
 
 ## 1️⃣1️⃣ November
 ### 🚀 Nov 19
