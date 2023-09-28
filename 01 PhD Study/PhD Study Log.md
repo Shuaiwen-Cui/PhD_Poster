@@ -139,6 +139,7 @@ no record
 - HWG702 Plan and Slides Modified - [✅]
 - study [✅]
 
+
 ### 🚀 Sep 26
 - python for beginners ch07-10 - [✅]
 - research
@@ -151,8 +152,17 @@ no record
   - Continue to try new functions.
 
 ### 🚀 Sep 28
+- Weekly Meeting - [✅]
+  - Takeaways:
+  - Reading Data - sscanf
+  - Allocating Memory - sdalloc for large matrix calculation
+    - May need double pointer
+  - VS Studio for debugging
+  - Load data from SD card, sscanf
 - review paper 1 []
 - review paper 2 []
+
+
 ### 🚀 Oct 1 
 - HWG702 Assignment Preparation
 
