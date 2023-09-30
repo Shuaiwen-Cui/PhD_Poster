@@ -159,21 +159,23 @@ no record
     - May need double pointer
   - VS Studio for debugging
   - Load data from SD card, sscanf
-- review paper 1 []
-- review paper 2 []
+
 ### 🚀 Sep 29
 - Xnode Programming
   - V4 CMSIS DSP TEST
   - V5 Import Data into Code
   - V6 Try to load data from SD card, use sdcalloc(), and write to SD card
-
-
+- Github - to host Xnode_Code
+### 🚀 Sep 30
+- review paper 1 - [✅]
+- review paper 2 []
+- HWG702 Assignment Preparation - [✅]
+- HWG702 Modified Assignments Submission - [✅]
 
 ### 🚀 Oct 1 
-- HWG702 Assignment Preparation
+
 
 ### 🚀 Oct 2 Mon
-- HWG702 Modified Assignments - 
 
 
 ## 🔟 Octomber
