@@ -169,11 +169,18 @@ no record
 
 ### 🚀 Sep 30
 - review paper 1 - [✅]
-- review paper 2 []
 - HWG702 Assignment Preparation - [✅]
 - HWG702 Modified Assignments Submission - [✅]
 
 ### 🚀 Oct 1 
+- review paper 2 []
+
+
+
+
+
+
+
 
 
 ### 🚀 Oct 2 Mon
