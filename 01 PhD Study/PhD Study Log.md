@@ -168,25 +168,38 @@ no record
 - Github - to host Xnode_Code
 
 ### 🚀 Sep 30
-- review paper 1 - [✅]
+- review paper 7 - [✅]
 - HWG702 Assignment Preparation - [✅]
 - HWG702 Modified Assignments Submission - [✅]
 
-### 🚀 Oct 1 
-- review paper 2 []
-
-
-
-
-
-
-
-
-
-### 🚀 Oct 2 Mon
-
 
 ## 🔟 Octomber
+### 🚀 Oct 1 
+- Hello Algo CH01 & CH02 - [✅]
+- Dive into Deep Learning CH01 - [✅]
+  
+### 🚀 Oct 2 Mon
+- review paper 8 - [✅]
+- Python for Begineers CH16 - [✅]
+- Hello Algo CH03 - [✅]
+
+
+### 🚀 Oct 3
+- Python for Begineers CH17 - [✅]
+- Python for Begineers CH18 - [✅]
+- Python for Begineers CH19 - [✅]
+- Python for Begineers CH20 - [✅]
+- Hello Algo CH04 - [✅]
+  
+### 🚀 Oct 4
+- Dive into Deep Learning CH02 - []
+- Computer Sytem: A Programmer's Perspective CH02 - []
+- GPRSPC - Xnode Programming - []
+
+
+
+
+
 ### 🚀 Oct 24
 - Fly back to China
 
