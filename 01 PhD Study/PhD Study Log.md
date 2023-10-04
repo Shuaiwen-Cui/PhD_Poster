@@ -6,9 +6,24 @@ This file is for PhD study plan and progress log.
 # 🏫 I Administrative Stuff
 ## Thesis Advisory Committee
 ### Determine the TAC Members
+- Prof Yang Yaowen
+- Prof Yuen Kum Fai
 
+### Annual Report
+- First Time: Sep 22nd 2023 - For AY22/23
+
+### Qaulification Examination
+
+### Thesis & Defense
+
+## Progress Report
+- AY22/23 Submitted
+  - Two GC-TSS Seminar Endorsement to be solved
 
 # 📚 II Coursework
+## Main Coursework
+## HWG702
+## HWG704
 
 # 🏛  III Research
 ## A - Literature Review - Computing in IoT-based SHM
@@ -183,7 +198,6 @@ no record
 - Python for Begineers CH16 - [✅]
 - Hello Algo CH03 - [✅]
 
-
 ### 🚀 Oct 3
 - Python for Begineers CH17 - [✅]
 - Python for Begineers CH18 - [✅]
@@ -192,8 +206,9 @@ no record
 - Hello Algo CH04 - [✅]
   
 ### 🚀 Oct 4
-- Dive into Deep Learning CH02 - []
 - Computer Sytem: A Programmer's Perspective CH02 - []
+- Hello Algo CH05 - [✅]
+- Dive into Deep Learning CH02 - []
 - GPRSPC - Xnode Programming - []
 
 
