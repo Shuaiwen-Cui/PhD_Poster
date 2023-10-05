@@ -208,7 +208,10 @@ no record
 ### 🚀 Oct 4
 - Computer Sytem: A Programmer's Perspective CH02 - []
 - Hello Algo CH05 - [✅]
-- Dive into Deep Learning CH02 - []
+
+### 🚀 Oct 5
+- Hello Algo CH06 - [✅]
+- Dive into Deep Learning Progress - 2.2
 - GPRSPC - Xnode Programming - []
 
 
