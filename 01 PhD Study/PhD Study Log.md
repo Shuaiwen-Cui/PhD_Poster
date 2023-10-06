@@ -217,8 +217,9 @@ no record
 ### 🚀 Oct 6
 - Hello Algo CH07 - [✅]
 - Python for Beginners CH21-25 - [✅]
-- Dive into Deep Learning Progress
-- GPRSPC - Xnode Programming - []
+- Dive into Deep Learning Progress CH2 - [✅]
+- Dive into Deep Learning Progress CH18 - []
+- GPRSPC - Xnode Programming - Theory Foundation 
 
 
 ### 🚀 Oct 24
