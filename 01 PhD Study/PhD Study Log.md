@@ -223,6 +223,14 @@ no record
 ### 🚀 Oct 7
 - Dive into Deep Learning Progress CH18 - [✅]
 
+### 🚀 Oct 8
+- Python for Beginners CH26-35 - [✅]
+
+
+
+
+
+
 ### 🚀 Oct 24
 - Fly back to China
 
