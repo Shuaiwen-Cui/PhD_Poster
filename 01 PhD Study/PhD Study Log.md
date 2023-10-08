@@ -226,17 +226,19 @@ no record
 ### 🚀 Oct 8
 - Python for Beginners CH26-35 - [✅]
 
+### 🚀 Oct 9 Mon
+- GPR - Xnode Programming - GPR Algo Part - []
 
-
-
-
+### 🚀 Oct 10
+- GPR - Xnode Programming - Data Collection and IO Part - []
 
 ### 🚀 Oct 24
-- Fly back to China
+- Fly back to China 13:30 SG South China
 
 ## 1️⃣1️⃣ November
 ### 🚀 Nov 19
-- Fly back to Singapore
+- Fly back to Singapore 9:00 Qing Dao Scoot
+  
 ### 🚀 Nov 25
 - Exam Invigilation N1-B4C-09a 8:30 report 9:00-11:35
 
