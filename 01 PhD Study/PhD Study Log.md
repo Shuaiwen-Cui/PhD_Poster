@@ -228,9 +228,12 @@ no record
 
 ### 🚀 Oct 9 Mon
 - GPR - Xnode Programming - GPR Algo Part - []
-
+- Hello Algo CH08 - [✅]
+- 4G Function
+  
 ### 🚀 Oct 10
 - GPR - Xnode Programming - Data Collection and IO Part - []
+- GPR Logic
 
 ### 🚀 Oct 24
 - Fly back to China 13:30 SG South China
