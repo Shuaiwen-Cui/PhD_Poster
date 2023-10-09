@@ -225,15 +225,16 @@ no record
 
 ### 🚀 Oct 8
 - Python for Beginners CH26-35 - [✅]
+- Hello Algo CH08 - [✅]
 
 ### 🚀 Oct 9 Mon
 - GPR - Xnode Programming - GPR Algo Part - []
-- Hello Algo CH08 - [✅]
-- 4G Function
+- PID + RL
   
 ### 🚀 Oct 10
 - GPR - Xnode Programming - Data Collection and IO Part - []
 - GPR Logic
+- 4G Function
 
 ### 🚀 Oct 24
 - Fly back to China 13:30 SG South China
