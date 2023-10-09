@@ -229,10 +229,12 @@ no record
 
 ### 🚀 Oct 9 Mon
 - 4G Function - Solved by Hard Coding, sdcard.c four FTP sites values. - [✅] (cannot be configured by SD card currently)
-- GPR - Xnode Programming - GPR Algo Part - []
-- PID + RL
+
   
 ### 🚀 Oct 10
+- Hello Algo ch09 - [✅]
+- GPR - Xnode Programming - GPR Algo Part - []
+- PID + RL
 - GPR - Xnode Programming - Data Collection and IO Part - []
 - GPR Logic
 
