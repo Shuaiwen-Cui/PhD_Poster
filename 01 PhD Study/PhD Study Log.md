@@ -228,13 +228,14 @@ no record
 - Hello Algo CH08 - [✅]
 
 ### 🚀 Oct 9 Mon
+- 4G Function - Solved by Hard Coding, sdcard.c four FTP sites values. - [✅] (cannot be configured by SD card currently)
 - GPR - Xnode Programming - GPR Algo Part - []
 - PID + RL
   
 ### 🚀 Oct 10
 - GPR - Xnode Programming - Data Collection and IO Part - []
 - GPR Logic
-- 4G Function
+
 
 ### 🚀 Oct 24
 - Fly back to China 13:30 SG South China
