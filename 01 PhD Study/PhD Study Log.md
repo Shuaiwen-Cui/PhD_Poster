@@ -232,11 +232,15 @@ no record
 
   
 ### 🚀 Oct 10
-- Hello Algo ch09 - [✅]
-- GPR - Xnode Programming - GPR Algo Part - []
+- Hello Algo ch09, 10 - [✅]
+- GPR - Xnode Programming - GPR Algo Part - [✅]
 - PID + RL
 - GPR - Xnode Programming - Data Collection and IO Part - []
 - GPR Logic
+
+### 🚀 Oct 11
+- require verification with PC version - GPR - []
+- 
 
 
 ### 🚀 Oct 24
