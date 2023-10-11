@@ -4,6 +4,12 @@
 
 ## 📟 MCU / MPU / SBC
 ### Arduino Series
+#### Arduino Hardwares
+- [Hardware Families](https://www.arduino.cc/en/hardware)
+- [IDE](https://www.arduino.cc/en/software)
+- [Arduino Cloud / IOT Cloud](https://cloud.arduino.cc/)
+- [Tutorials](https://www.arduino.cc/en/Tutorial/HomePage)
+- [DOCs](https://docs.arduino.cc/)
 
 ### STM32 Series
 
