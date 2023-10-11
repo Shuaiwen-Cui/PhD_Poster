@@ -230,18 +230,15 @@ no record
 ### 🚀 Oct 9 Mon
 - 4G Function - Solved by Hard Coding, sdcard.c four FTP sites values. - [✅] (cannot be configured by SD card currently)
 
-  
 ### 🚀 Oct 10
 - Hello Algo ch09, 10 - [✅]
 - GPR - Xnode Programming - GPR Algo Part - [✅]
-- PID + RL
-- GPR - Xnode Programming - Data Collection and IO Part - []
-- GPR Logic
 
 ### 🚀 Oct 11
+- New 4G Modem Fix
+- GPR - Xnode Programming - Data Collection and IO Part - []
+- PID + RL
 - require verification with PC version - GPR - []
-- 
-
 
 ### 🚀 Oct 24
 - Fly back to China 13:30 SG South China
