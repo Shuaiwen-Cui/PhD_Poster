@@ -237,6 +237,7 @@ no record
 ### 🚀 Oct 11
 - New 4G Modem Fix
 - GPR - Xnode Programming - Data Collection and IO Part - []
+- Slides
 - PID + RL
 - require verification with PC version - GPR - []
 
