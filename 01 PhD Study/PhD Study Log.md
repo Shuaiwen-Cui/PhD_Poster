@@ -237,8 +237,14 @@ no record
 ### 🚀 Oct 11
 - d2l - 3.3 - [✅]
 - New 4G Modem Fix - [✅]
+
+### 🚀 Oct 12
+- Hello Algo ch11 - [✅]
+- Request for Dataset on Construction-induced Activities - sent
+- d2l - CH03 - [✅]
+- Xnode Long-term Deployment Plan
+- Server AWS
 - GPR - Xnode Programming - Data Collection and IO Part - []
-- Slides
 - PID + RL
 - require verification with PC version - GPR - []
 
