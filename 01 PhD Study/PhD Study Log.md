@@ -246,6 +246,10 @@ no record
 ### 🚀 Oct 13
 - Hello Algo ch12 - [✅]
 - Git Knowledge Study
+
+
+### 🚀 Oct 14
+- Hello Algo ch13 - [✅]
 - Xnode long-term Deployment Plan
 - Server AWS
 - GPR - Xnode Programming - Data Collection and IO Part - []
