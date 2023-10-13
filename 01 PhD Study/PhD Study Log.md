@@ -242,7 +242,11 @@ no record
 - Hello Algo ch11 - [✅]
 - Request for Dataset on Construction-induced Activities - sent
 - d2l - CH03 - [✅]
-- Xnode Long-term Deployment Plan
+
+### 🚀 Oct 13
+- Hello Algo ch12 - [✅]
+- Git Knowledge Study
+- Xnode long-term Deployment Plan
 - Server AWS
 - GPR - Xnode Programming - Data Collection and IO Part - []
 - PID + RL
