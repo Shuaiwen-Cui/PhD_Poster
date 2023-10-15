@@ -61,5 +61,3 @@
 
 ### 🚀 Sep 20
 
-### 🚀 Sep 21
-- personal website - Project []
