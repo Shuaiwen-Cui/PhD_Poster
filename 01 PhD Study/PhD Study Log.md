@@ -250,6 +250,12 @@ no record
 
 ### 🚀 Oct 14
 - Hello Algo ch13 - [✅]
+
+### 🚀 Oct 15
+- Latex VSCode
+- Overleaf
+
+### 🚀 Oct 16 Mon
 - Xnode long-term Deployment Plan
 - Server AWS
 - GPR - Xnode Programming - Data Collection and IO Part - []
@@ -260,7 +266,8 @@ no record
 
 
 
-
+### 🚀 Oct 23 Mon
+- Micro Teaching Week 10
 
 ### 🚀 Oct 24
 - Fly back to China 13:30 SG South China
