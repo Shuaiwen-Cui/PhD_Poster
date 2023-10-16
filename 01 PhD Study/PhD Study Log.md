@@ -252,13 +252,16 @@ no record
 - Hello Algo ch13 - [✅]
 
 ### 🚀 Oct 15
-- Latex VSCode
-- Overleaf
+- Latex VSCode - [✅]
+- Overleaf - [✅]
 
 ### 🚀 Oct 16 Mon
+- SPC
+- Xnode GPR File IO - []
+- Overall Workflow - []
+
 - Xnode long-term Deployment Plan
 - Server AWS
-- GPR - Xnode Programming - Data Collection and IO Part - []
 - PID + RL
 - require verification with PC version - GPR - []
 
