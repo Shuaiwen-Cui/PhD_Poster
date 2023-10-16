@@ -256,6 +256,10 @@ no record
 - Overleaf - [✅]
 
 ### 🚀 Oct 16 Mon
+
+
+### 🚀 Oct 17
+- Facade Inspection Plan
 - SPC
 - Xnode GPR File IO - []
 - Overall Workflow - []
@@ -265,7 +269,7 @@ no record
 - PID + RL
 - require verification with PC version - GPR - []
 
-
+### 🚀 Oct 18
 
 
 
