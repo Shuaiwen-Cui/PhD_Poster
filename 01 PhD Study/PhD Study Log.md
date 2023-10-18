@@ -264,19 +264,11 @@ no record
 - MicroTeaching Rehearsal 1 - []
 
 ### 🚀 Oct 18
-- Ticket Master 2 + 2 - []
-
-
-
-
-
-- Meeting with Prof 130pm at his office & Facade Inspection Plan - []
-- - Notify Dr Zhang Fan
-- Facade Inspection - Material Preparation - []
-- Reply to Mr Lim
-- Leave Report
-
-
+- Ticket Master 2 + 2 - [✅]
+- Meeting with Prof 130pm at his office & Facade Inspection Plan - [✅]
+- Notify Dr Zhang Fan - [✅]
+- Facade Inspection - Material Preparation - [✅] not ready yet
+- Reply to Mr Lim - [✅]
 
 - SPC
 - Overall Workflow - []
@@ -284,9 +276,15 @@ no record
 - Server AWS
 - PID + RL
 - NN
+- Leave Report
+
 
 ### 🚀 Oct 19
-- Weekly Meeting 
+- Weekly Meeting - []
+- Leave Report - []
+- Material Preparation - []
+
+
 
 
 
