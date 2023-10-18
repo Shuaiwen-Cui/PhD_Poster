@@ -247,7 +247,6 @@ no record
 - Hello Algo ch12 - [✅]
 - Git Knowledge Study
 
-
 ### 🚀 Oct 14
 - Hello Algo ch13 - [✅]
 
@@ -256,20 +255,38 @@ no record
 - Overleaf - [✅]
 
 ### 🚀 Oct 16 Mon
-
+- FILE IO BASICS - C Programming - [✅]
 
 ### 🚀 Oct 17
-- Facade Inspection Plan
-- SPC
-- Xnode GPR File IO - []
-- Overall Workflow - []
+- OpenCV VSCode C++ Env Config - [✅]
+- Xnode GPR File IO Test - [✅]
+- Facade Inspection Items Preparation
+- MicroTeaching Rehearsal 1 - []
 
+### 🚀 Oct 18
+- Ticket Master 2 + 2 - []
+
+
+
+
+
+- Meeting with Prof 130pm at his office & Facade Inspection Plan - []
+- - Notify Dr Zhang Fan
+- Facade Inspection - Material Preparation - []
+- Reply to Mr Lim
+- Leave Report
+
+
+
+- SPC
+- Overall Workflow - []
 - Xnode long-term Deployment Plan
 - Server AWS
 - PID + RL
-- require verification with PC version - GPR - []
+- NN
 
-### 🚀 Oct 18
+### 🚀 Oct 19
+- Weekly Meeting 
 
 
 
