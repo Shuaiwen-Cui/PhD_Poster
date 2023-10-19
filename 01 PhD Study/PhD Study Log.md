@@ -270,23 +270,29 @@ no record
 - Facade Inspection - Material Preparation - [✅] not ready yet
 - Reply to Mr Lim - [✅]
 
-- SPC
-- Overall Workflow - []
-- Xnode long-term Deployment Plan
+
 - Server AWS
 - PID + RL
 - NN
-- Leave Report
 
 
 ### 🚀 Oct 19
-- Weekly Meeting - []
+- Weekly Meeting - [✅]
 - Leave Report - []
-- Material Preparation - []
+- Material Preparation - [✅]
 
+### 🚀 Oct 20
+- Material Preparation in the morning - []
+- Depart to perminpin for Facade Inspection
+- Xnode Programming
+- Xnode long-term Deployment Plan
+- Leave Report
 
+### 🚀 Oct 21
+- Micro Teaching 
 
-
+### 🚀 Oct 22
+- Xnode Programming - Disp Est + 4G
 
 ### 🚀 Oct 23 Mon
 - Micro Teaching Week 10
