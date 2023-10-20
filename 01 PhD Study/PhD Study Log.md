@@ -278,12 +278,12 @@ no record
 
 ### 🚀 Oct 19
 - Weekly Meeting - [✅]
-- Leave Report - []
+- Leave Report - [✅]
 - Material Preparation - [✅]
 
 ### 🚀 Oct 20
 - Material Preparation in the morning - []
-- Depart to perminpin for Facade Inspection
+- Depart to perminpin for Facade Inspection 11- []
 - Xnode Programming
 - Xnode long-term Deployment Plan
 - Leave Report
