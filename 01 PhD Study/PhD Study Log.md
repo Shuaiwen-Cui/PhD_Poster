@@ -271,34 +271,41 @@ no record
 - Reply to Mr Lim - [✅]
 
 
-- Server AWS
-- PID + RL
-- NN
-
 
 ### 🚀 Oct 19
 - Weekly Meeting - [✅]
-- Leave Report - [✅]
+- Leave Report - []
 - Material Preparation - [✅]
 
 ### 🚀 Oct 20
-- Material Preparation in the morning - []
-- Depart to perminpin for Facade Inspection 11- []
-- Xnode Programming
-- Xnode long-term Deployment Plan
-- Leave Report
+- Material Preparation in the morning - [✅]
+- Depart to perminpin for Facade Inspection - [✅]
+- Report - [✅]
+- Xnode Programming 
 
 ### 🚀 Oct 21
-- Micro Teaching 
+- Computer Verification - Numerical Error Found! Propagation! How to reduce it?
+- x feedback based on itself, check gap and control limit.
 
 ### 🚀 Oct 22
+- Micro Teaching
 - Xnode Programming - Disp Est + 4G
+- fine-tune based on edge computing results
 
 ### 🚀 Oct 23 Mon
 - Micro Teaching Week 10
 
 ### 🚀 Oct 24
 - Fly back to China 13:30 SG South China
+
+
+- Server AWS
+- PID + RL
+- NN
+- Xnode long-term Deployment Plan
+- Leave Report
+
+
 
 ## 1️⃣1️⃣ November
 ### 🚀 Nov 19
