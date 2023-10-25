@@ -288,17 +288,22 @@ no record
 - x feedback based on itself, check gap and control limit.
 
 ### 🚀 Oct 22
-- Micro Teaching
-- Xnode Programming - Disp Est + 4G
-- fine-tune based on edge computing results
+- Micro Teaching - [✅]
+- Bug Location: Inverse of Matrix
 
 ### 🚀 Oct 23 Mon
-- Micro Teaching Week 10
+- Micro Teaching Week 10 - [✅]
 
 ### 🚀 Oct 24
-- Fly back to China 13:30 SG South China
+- Fly back to China 13:30 SG South China - [✅]
+
+### 🚀 Oct 25
 
 
+
+
+- Xnode Programming - Disp Est + 4G
+- fine-tune based on edge computing results
 - Server AWS
 - PID + RL
 - NN
