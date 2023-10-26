@@ -328,6 +328,11 @@ no record
 - Tunnel Deployment Meeting
   - AWS server - EC2 Server
 
+### 🚀 Oct 27
+- Reorganizing
+- PM
+  - Glasses
+  - Photo
   
 ## 1️⃣1️⃣ November
 ### 🚀 Nov 1

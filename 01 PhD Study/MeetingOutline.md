@@ -25,3 +25,4 @@
 
 - Tunnel Deployment Meeting
   - AWS server - EC2 Server
+  - Long term test
