@@ -296,20 +296,8 @@ no record
 ### 🚀 Oct 24
 - Fly back to China 13:30 SG South China - [✅]
 
+
 ### 🚀 Oct 25
-
-### 🚀 Oct 26
-- Group Meeting - []
-  - Facade Inspection
-  - GPRSPC Computing Issues
-  - PID
-
-- Tunnel Deployment Meeting
-  - AWS server - EC2 Server
-
-  
-
-
 - Xnode Programming - Disp Est + 4G
 - fine-tune based on edge computing results
 - Server AWS
@@ -317,8 +305,35 @@ no record
 - NN
 - Xnode long-term Deployment Plan
 
+### 🚀 Oct 26
+- Group Meeting - []
+  - Facade Inspection
+    - Hardware Preparation
+      - Wireless Sensing
+      - Wired Sensing
+    - Operation Guide
+      - What to carry?
+      - How to knock?
+  - GPRSPC Computing Issues
+    - Numerical Errors
+    - Possible Solutions:
+      - Scaling
+      - Bias
+      - Initial Computing on PC
+        - Inverse of Ktt (noised)
+  - PID Test
+    - to integrated within SATM
+    - then transit to RL
 
+- Tunnel Deployment Meeting
+  - AWS server - EC2 Server
+
+  
 ## 1️⃣1️⃣ November
+### 🚀 Nov 1
+Quiz Invigilation
+### 🚀 Nov 9
+Quiz Invigilation
 ### 🚀 Nov 19
 - Fly back to Singapore 9:00 Qing Dao Scoot
   
