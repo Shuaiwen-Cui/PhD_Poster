@@ -280,7 +280,6 @@ no record
 - Depart to perminpin for Facade Inspection - [✅]
 - Report - [✅]
 - Xnode Programming - [✅] 
-- Leave Report
 
 ### 🚀 Oct 21
 - Computer Verification - Numerical Error Found! Propagation! How to reduce it?
@@ -298,16 +297,6 @@ no record
 
 ### 🚀 Oct 25
 
-### 🚀 Oct 26
-- Group Meeting - []
-  - Facade Inspection
-  - GPRSPC Computing Issues
-  - PID
-
-- Tunnel Deployment Meeting
-  - AWS server - EC2 Server
-
-  
 
 
 - Xnode Programming - Disp Est + 4G
@@ -316,6 +305,8 @@ no record
 - PID + RL
 - NN
 - Xnode long-term Deployment Plan
+- Leave Report
+
 
 
 ## 1️⃣1️⃣ November
