@@ -329,14 +329,36 @@ no record
   - AWS server - EC2 Server
 
 ### 🚀 Oct 27
-- Reorganizing
+- Reorganizing - [✅] 
 - PM
   - Glasses
-  - Photo
-  
+  - Photo - [✅] 
+
+### 🚀 Oct 28
+
+### 🚀 Oct 29
+- Laptop Lenovo R9000P 16GB 1T RTX4060 - Place Order - [✅] 
+
+### 🚀 Oct 30 Mon
+- Paper Writing - Graphic Abstract - Graph Making
+- Reorganization
+
+- Remote Command; Disp Estimation
+- CMSIS Test Using STM32
+
+- Glass
+- An
+
+### 🚀 Oct 31
+- Remind Ziheng
+
 ## 1️⃣1️⃣ November
 ### 🚀 Nov 1
 Quiz Invigilation
+
+### 🚀 Nov 8
+Remind Xiangyu
+
 ### 🚀 Nov 9
 Quiz Invigilation
 ### 🚀 Nov 19
