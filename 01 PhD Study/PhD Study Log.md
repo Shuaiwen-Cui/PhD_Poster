@@ -331,7 +331,6 @@ no record
 ### 🚀 Oct 27
 - Reorganizing - [✅] 
 - PM
-  - Glasses
   - Photo - [✅] 
 
 ### 🚀 Oct 28
@@ -340,22 +339,34 @@ no record
 - Laptop Lenovo R9000P 16GB 1T RTX4060 - Place Order - [✅] 
 
 ### 🚀 Oct 30 Mon
-- Paper Writing - Graphic Abstract - Graph Making
-- Reorganization
+- Paper Writing - Graphic Abstract - Graph Making - [✅]
+
+### 🚀 Oct 31
+- Remind Ziheng - [✅]
+- Paper Writing - Graphic Abstract - Graph Making - [✅]
+- 12:30 Meeting with Hao Qiang
+
 
 - Remote Command; Disp Estimation
 - CMSIS Test Using STM32
 
-- Glass
-- An
 
-### 🚀 Oct 31
-- Remind Ziheng
+
+
 
 ## 1️⃣1️⃣ November
 ### 🚀 Nov 1
-Quiz Invigilation
+- House Rent
+- Quiz Invigilation
 
+### 🚀 Nov 2
+
+### 🚀 Nov 3
+- An
+
+
+### 🚀 Nov 7
+- Glasses
 ### 🚀 Nov 8
 Remind Xiangyu
 
@@ -368,7 +379,3 @@ Quiz Invigilation
 - Exam Invigilation N1-B4C-09a 8:30 report 9:00-11:35
 
 ## 1️⃣2️⃣ December
-
-
-
-
