@@ -296,7 +296,6 @@ no record
 ### 🚀 Oct 24
 - Fly back to China 13:30 SG South China - [✅]
 
-
 ### 🚀 Oct 25
 - Xnode Programming - Disp Est + 4G
 - fine-tune based on edge computing results
@@ -344,34 +343,30 @@ no record
 ### 🚀 Oct 31
 - Remind Ziheng - [✅]
 - Paper Writing - Graphic Abstract - Graph Making - [✅]
-- 12:30 Meeting with Hao Qiang
-
-
-- Remote Command; Disp Estimation
-- CMSIS Test Using STM32
-
-
-
-
 
 ## 1️⃣1️⃣ November
 ### 🚀 Nov 1
-- House Rent
-- Quiz Invigilation
+- Quiz Invigilation - [✅]
+- Paper Drafting - Introduction - [✅]
+  
+- Disp Estimation
+- Remote Command
+- Long Term Test
+- CMSIS Test Using STM32
 
 ### 🚀 Nov 2
 
 ### 🚀 Nov 3
 - An
 
-
 ### 🚀 Nov 7
 - Glasses
 ### 🚀 Nov 8
-Remind Xiangyu
-
+- Remind Xiangyu
+- GJZ Wedding Ceremony
 ### 🚀 Nov 9
 Quiz Invigilation
+- GJZ Wedding Ceremony
 ### 🚀 Nov 19
 - Fly back to Singapore 9:00 Qing Dao Scoot
   
@@ -379,3 +374,5 @@ Quiz Invigilation
 - Exam Invigilation N1-B4C-09a 8:30 report 9:00-11:35
 
 ## 1️⃣2️⃣ December
+### 🚀 Dec 01
+House Rent

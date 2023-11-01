@@ -26,3 +26,6 @@
 - Tunnel Deployment Meeting
   - AWS server - EC2 Server
   - Long term test
+
+## 1️⃣1️⃣ November
+### 🚀 Nov 2
