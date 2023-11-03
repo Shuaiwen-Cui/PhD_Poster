@@ -348,17 +348,18 @@ no record
 ### 🚀 Nov 1
 - Quiz Invigilation - [✅]
 - Paper Drafting - Introduction - [✅]
-  
+
+### 🚀 Nov 2
+- Weekly Meeting - [✅]
+
+
+### 🚀 Nov 3
+- Glass
+- An
 - Disp Estimation
 - Remote Command
 - Long Term Test
 - CMSIS Test Using STM32
-
-### 🚀 Nov 2
-
-### 🚀 Nov 3
-- An
-
 ### 🚀 Nov 7
 - Glasses
 ### 🚀 Nov 8
