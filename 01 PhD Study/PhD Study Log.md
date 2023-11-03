@@ -12,33 +12,65 @@ This file is for PhD study plan and progress log.
 ### Annual Report
 - First Time: Sep 22nd 2023 - For AY22/23
 
-### Qaulification Examination
+### Qualification Examination
+- Time Feb 2024
+- Requirements:
+  - 1 paper submitted
 
 ### Thesis & Defense
+- Estimated Time: May 2026
 
 ## Progress Report
-- AY22/23 Submitted
-  - Two GC-TSS Seminar Endorsement to be solved
+- AY22/23 - Submitted - Passed
+- AY23/24 - [] - []
+- AY24/25 - [] - []
 
 # 📚 II Coursework
 ## Main Coursework
+- Requirements fulfilled
 ## HWG702
+- Passed
 ## HWG704
 
 # 🏛  III Research
 ## A - Literature Review - Computing in IoT-based SHM
+- Reference Management - Zotero & Endnote
+- Paper Writing - Github Repo - [Paper - Computing in IoT-based Structural Health Monitoring](https://github.com/Shuaiwen-Cui/Paper-Computing_in_IoT-based_SHM.git)
+  - Abstract - [✅]
+  - Introduction - [✅]
+  - Data Infrastructure
+  - View 1
+  - View 2
+  - VIew 3
+  - Discussion
+  - Conclusions
 
 ## B - Smart Adaptive Triggering Mechanism
+- Smart
+  - Event Generation
+  - 1D-CNN for Event Classification
+- Adaptive
+  - Metric Definition
+  - Feedback Loop Control
+- Overall
+  - Prototyping Using Python
+  - Implementation on Sensors
+- Paper
 
 ## C - Online Displacement Estimation and Gaussian Process Regression and Stochastic Process Control
 
-### Displacement Estimation Theory
+- Displacement Estimation Theory
+  - Refer to Fernando's Paper
 
-### Displacement Implementation
+- Displacement Implementation
+  - Transplant from Tu's Code to the new version - []
 
-### Gaussian Process Regression Theory
+- Gaussian Process Regression Theory
+  - [Gaussian Process - D2L](https://d2l.ai/chapter_gaussian-processes/index.html)
 
-### Gaussian Process Regression Implementation
+- Gaussian Process Regression Implementation - []
+  - CMSIS
+  - Mind the Error
 
 ## D - Data Saturation Recovery
 
@@ -352,19 +384,26 @@ no record
 ### 🚀 Nov 2
 - Weekly Meeting - [✅]
 
-
 ### 🚀 Nov 3
-- Glass
 - An
 - Disp Estimation
 - Remote Command
 - Long Term Test
 - CMSIS Test Using STM32
+
+### 🚀 Nov 4
+- Glass - Pan Jia Yuan
+
+
 ### 🚀 Nov 7
-- Glasses
+- Glasses (Plan B)
+
+
 ### 🚀 Nov 8
 - Remind Xiangyu
 - GJZ Wedding Ceremony
+
+
 ### 🚀 Nov 9
 Quiz Invigilation
 - GJZ Wedding Ceremony
@@ -377,3 +416,10 @@ Quiz Invigilation
 ## 1️⃣2️⃣ December
 ### 🚀 Dec 01
 House Rent
+
+### 🚀 Dec 04
+- Genda Chen - Seminar
+  - Digital Twin in the Built Environment to Support Multifunctional Modeling for Broader Impacts A FREE WEBINAR December 5, 2023, 12:00 AM
+  - Date & Time	Dec 5, 2023 12:00 AM Beijing, Shanghai 
+  - Meeting ID	919 4088 5984
+  - Passcode	883628
