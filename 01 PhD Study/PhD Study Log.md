@@ -389,17 +389,18 @@ no record
 
 ### 🚀 Nov 4
 
-
 ### 🚀 Nov 5
-- Glass - Pan Jia Yuan
+
+### 🚀 Nov 6
+- Glass - Pan Jia Yuan - [✅]
+
 - Disp Estimation
 - Remote Command
 - Long Term Test
 - CMSIS Test Using STM32
 
 ### 🚀 Nov 7
-- Glasses (Plan B)
-
+- Go back to Shandong
 
 ### 🚀 Nov 8
 - Remind Xiangyu
