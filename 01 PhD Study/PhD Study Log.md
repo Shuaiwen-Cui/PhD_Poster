@@ -1,4 +1,4 @@
-# 😃 PhD Study Plan and Progress Log 
+# 😃 PhD Study Plan and Progress Log
 This file is for PhD study plan and progress log.
 
 ========================== OVER VIEW ==========================
@@ -394,22 +394,26 @@ no record
 ### 🚀 Nov 6
 - Glass - Pan Jia Yuan - [✅]
 
+### 🚀 Nov 7
+- Go back to Shandong - [✅]
+
+### 🚀 Nov 8
+- Remind Xiangyu - [✅]
+- GJZ Wedding Ceremony Pre 
+
+### 🚀 Nov 9
+- Quiz Invigilation
+- GJZ Wedding Ceremony
+
 - Disp Estimation
 - Remote Command
 - Long Term Test
 - CMSIS Test Using STM32
 
-### 🚀 Nov 7
-- Go back to Shandong
+### 🚀 Nov 18
+-  Depart to Qing Dao - Hotel
+-  Appointment for Vehicle
 
-### 🚀 Nov 8
-- Remind Xiangyu
-- GJZ Wedding Ceremony
-
-
-### 🚀 Nov 9
-Quiz Invigilation
-- GJZ Wedding Ceremony
 ### 🚀 Nov 19
 - Fly back to Singapore 9:00 Qing Dao Scoot
   
