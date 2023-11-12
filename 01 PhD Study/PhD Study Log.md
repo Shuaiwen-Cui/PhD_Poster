@@ -416,6 +416,8 @@ no record
 - CMSIS Test Using STM32
 
 ### 🚀 Nov 12
+- Gitbook - wait for reply
+- Docsify - Pages published https://shuaiwen-cui.github.io/StayHungry/
 
 ### 🚀 Nov 13 Mon
 
