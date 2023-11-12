@@ -399,16 +399,33 @@ no record
 
 ### 🚀 Nov 8
 - Remind Xiangyu - [✅]
-- GJZ Wedding Ceremony Pre 
+- GJZ Wedding Ceremony Pre - [✅]
 
 ### 🚀 Nov 9
-- Quiz Invigilation
-- GJZ Wedding Ceremony
+- Quiz Invigilation - [✅]
+- GJZ Wedding Ceremony - [✅]
 
+### 🚀 Nov 10
+- Weekly Meeting - Skipped
+- Tunnel Deployment - Skipped
+
+### 🚀 Nov 11
 - Disp Estimation
 - Remote Command
 - Long Term Test
 - CMSIS Test Using STM32
+
+### 🚀 Nov 12
+
+### 🚀 Nov 13 Mon
+
+### 🚀 Nov 14
+
+### 🚀 Nov 15
+
+### 🚀 Nov 16
+
+### 🚀 Nov 17
 
 ### 🚀 Nov 18
 -  Depart to Qing Dao - Hotel
@@ -416,9 +433,30 @@ no record
 
 ### 🚀 Nov 19
 - Fly back to Singapore 9:00 Qing Dao Scoot
+
+### 🚀 Nov 20 Mon
+
+### 🚀 Nov 21
+
+### 🚀 Nov 22
+
+### 🚀 Nov 23
+
+### 🚀 Nov 24
   
 ### 🚀 Nov 25
 - Exam Invigilation N1-B4C-09a 8:30 report 9:00-11:35
+
+### 🚀 Nov 26
+
+### 🚀 Nov 27
+
+### 🚀 Nov 28
+
+### 🚀 Nov 29
+
+### 🚀 Nov 30
+- Exam Invigilation HALL W 8:30 report 9:00-?
 
 ## 1️⃣2️⃣ December
 ### 🚀 Dec 01
@@ -430,3 +468,6 @@ House Rent
   - Date & Time	Dec 5, 2023 12:00 AM Beijing, Shanghai 
   - Meeting ID	919 4088 5984
   - Passcode	883628
+
+### 🚀 Dec 07
+- Exam Invigilation TR102 8:30 report 9:00-?
