@@ -420,6 +420,8 @@ no record
 - Docsify - Pages published https://shuaiwen-cui.github.io/StayHungry/
 
 ### 🚀 Nov 13 Mon
+- Blog Update
+- Stay Hungry - Booklist & Resourcelist incorporated
 
 ### 🚀 Nov 14
 

@@ -8,7 +8,7 @@
 ## - 2 Github - Shuaiwen-Cui.github.io
 
 - Template: [vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio/tree/master)
-- Structure: About / Resume / Research / Blog / Contact
+- Structure: About / Resume / Research / Development / Project / Blog / Contact
 ### = 2.1 About
 - Status: finished
   
@@ -31,6 +31,11 @@
 ### = 2.7 Contact
 - Status: almost finished
 - The contact form part can be further refined.
+- QRCode
+
+# 🌐 [ Tech Blog ]
+
+Structure: Introduction / Mylist / Skillset / Research / Development / Project 
 
 # 🎮 [ Digital Space ]
 
@@ -59,7 +64,7 @@
 ### 🚀 Sep 19
 - personal website - vistor heat map [✅]
 
-## 🔟 Octomber
+## 🔟 October
 
 ## 1️⃣1️⃣ November
 

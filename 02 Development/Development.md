@@ -45,6 +45,7 @@
 - GPR-SPC
 - 4G Modem
 - Network Communication
+
 ### - Raspberry Pi
 - Raspberry Pi Hardwares
 
@@ -54,6 +55,7 @@
 ### - Apple Series
 - Macbook Air M2 2022
 - Mac mini M1 2020
+  
 ### - Non-Apple Series
 - Thinkpad T470p 2017
 - Lenovo Legion R9000P 2023
@@ -83,7 +85,6 @@
 13. Zone
 
 # Platform
-
 
 # Perception
 
