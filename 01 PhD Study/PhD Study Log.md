@@ -424,12 +424,22 @@ no record
 - Stay Hungry - Booklist & Resourcelist incorporated
 
 ### 🚀 Nov 14
+- Blog Update - Control Theory
 
 ### 🚀 Nov 15
+- SATM - control part update started
 
 ### 🚀 Nov 16
+- Weekly Meeting Notes:
+  - back to PID control
+  - simplify the problem, only the first two parameter
+  - revise the model
+  - finish the estimator box
+  - the controller box can be removed for simplification purpose
 
 ### 🚀 Nov 17
+- check course time table HWG704 GSlink 1100hrs onwards
+- Jinxi, Ziliang
 
 ### 🚀 Nov 18
 -  Depart to Qing Dao - Hotel
