@@ -33,9 +33,9 @@
 - The contact form part can be further refined.
 - QRCode
 
-# 🌐 [ Tech Blog ]
+# 🌐 [ Tech Blog - Stay Hungry (hosted on Github)]
 
-Structure: Introduction / Mylist / Skillset / Research / Development / Project 
+Structure: Introduction / Mylist / Skillset / Research / DevEnv /Development / Project 
 
 # 🎮 [ Digital Space ]
 
@@ -67,6 +67,17 @@ Structure: Introduction / Mylist / Skillset / Research / Development / Project
 ## 🔟 October
 
 ## 1️⃣1️⃣ November
+### 🚀 Sep 14
+- Tech Blog Framework
+
+### 🚀 Sep 15
+- Tech Blog - Control
+
+### 🚀 Sep 16
+- Tech Blog - RL update
+
+### 🚀 Sep 17
+- Tech Blog - Decoration
 
 ## 1️⃣2️⃣ December
 
