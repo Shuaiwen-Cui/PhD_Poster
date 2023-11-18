@@ -438,26 +438,28 @@ no record
   - the controller box can be removed for simplification purpose
 
 ### 🚀 Nov 17
-- check course time table HWG704 GSlink 1100hrs onwards
-- Jinxi, Ziliang
 
 ### 🚀 Nov 18
 -  Depart to Qing Dao - Hotel
--  Appointment for Vehicle
+-  Appointment for Vehicle - 3：00 PM
+-  Appointment for Departure - when check-in 5:50 AM
 
 ### 🚀 Nov 19
 - Fly back to Singapore 9:00 Qing Dao Scoot
 
 ### 🚀 Nov 20 Mon
+- 4G Modem if not okay contact with Tu
 
 ### 🚀 Nov 21
 
 ### 🚀 Nov 22
+- Invigilation Instruction - 22 Nov 2023, at 10:30 am in CEE Meeting Room A (N1-1a-18)
 
 ### 🚀 Nov 23
 
 ### 🚀 Nov 24
-  
+- 【Xiangyu】Exam Invigilation - Nov 24 - N1-01A-11 - 1400 report - 1430 start
+
 ### 🚀 Nov 25
 - Exam Invigilation N1-B4C-09a 8:30 report 9:00-11:35
 
@@ -466,11 +468,13 @@ no record
 ### 🚀 Nov 27
 
 ### 🚀 Nov 28
+- Standby Invigilation - Nov 28 430 pm - Report to Soo Ching
 
 ### 🚀 Nov 29
 
 ### 🚀 Nov 30
-- Exam Invigilation HALL W 8:30 report 9:00-?
+Remind 【Xiangyu】 - Exam Invigilation - 830 Report Hall W Nov 30
+- check course time table HWG704 GSlink 1100hrs onwards
 
 ## 1️⃣2️⃣ December
 ### 🚀 Dec 01
@@ -482,6 +486,10 @@ House Rent
   - Date & Time	Dec 5, 2023 12:00 AM Beijing, Shanghai 
   - Meeting ID	919 4088 5984
   - Passcode	883628
+- Exam Invigilation - Dec 04 Mon TR102 - Report 4:30 pm - Start 5:00 pm
+
+### 🚀 Dec 05
+- Exam Invigilation - Dec 5 - TR102 - REPORT 430PM - START 500 PM
 
 ### 🚀 Dec 07
-- Exam Invigilation TR102 8:30 report 9:00-?
+- Remind 【Wang Yao】 Exam Invigilation - Dec 7 TR102 830 Report
