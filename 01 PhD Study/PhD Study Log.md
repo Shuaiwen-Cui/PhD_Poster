@@ -440,9 +440,7 @@ no record
 ### 🚀 Nov 17
 
 ### 🚀 Nov 18
--  Depart to Qing Dao - Hotel
--  Appointment for Vehicle - 3：00 PM
--  Appointment for Departure - when check-in 5:50 AM
+-  Appointment for Departure - when check-in 4:50 AM
 
 ### 🚀 Nov 19
 - Fly back to Singapore 9:00 Qing Dao Scoot
