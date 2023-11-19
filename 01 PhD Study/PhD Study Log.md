@@ -440,13 +440,14 @@ no record
 ### 🚀 Nov 17
 
 ### 🚀 Nov 18
--  Appointment for Departure - when check-in 4:50 AM
 
 ### 🚀 Nov 19
-- Fly back to Singapore 9:00 Qing Dao Scoot
+- Paper Writing - Computing in IoT-based SHM
 
 ### 🚀 Nov 20 Mon
 - 4G Modem if not okay contact with Tu
+  - Get the computer first from the lab
+  - Use Dev Kit to rule out the 4G Modem Issue
 
 ### 🚀 Nov 21
 

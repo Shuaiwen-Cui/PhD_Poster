@@ -67,17 +67,20 @@ Structure: Introduction / Mylist / Skillset / Research / DevEnv /Development / P
 ## 🔟 October
 
 ## 1️⃣1️⃣ November
-### 🚀 Sep 14
+### 🚀 Nov 14
 - Tech Blog Framework
 
-### 🚀 Sep 15
+### 🚀 Nov 15
 - Tech Blog - Control
 
-### 🚀 Sep 16
+### 🚀 Nov 16
 - Tech Blog - RL update
 
-### 🚀 Sep 17
+### 🚀 Nov 17
 - Tech Blog - Decoration
+
+### 🚀 Nov 19
+- Blog - Hardware / IDE updates
 
 ## 1️⃣2️⃣ December
 

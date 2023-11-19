@@ -24,7 +24,7 @@
 
 ### - STM32 Series
 - STM32 Hardwares
-    - [Hardware Families](https://www.st.com/en/    microcontrollers-microprocessors.html)
+    - [Hardware Families](https://www.st.com/en/microcontrollers-microprocessors.html)
       - STM32F407ZGT6
       - STM32F746G-Discovery
       - STM32F429ZI-Nucleo
