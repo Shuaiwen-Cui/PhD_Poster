@@ -1,5 +1,5 @@
 # usage: in git bash, input sh update.sh - windows; or in terminal input ./update.sh and click approve git for windows pop up to run it
-# usage: in terminal, input .\update.sh - mac / linux
+# usage: in terminal, input .\update.sh - mac / linux ? not sure
 
 echo '--------upload files start--------'   
 # enter the target folder
