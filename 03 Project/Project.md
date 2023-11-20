@@ -82,5 +82,10 @@ Structure: Introduction / Mylist / Skillset / Research / DevEnv /Development / P
 ### 🚀 Nov 19
 - Blog - Hardware / IDE updates
 
+### 🚀 Nov 20
+- Blog
+  - OS
+  - REMOTEDESKTOP
+
 ## 1️⃣2️⃣ December
 

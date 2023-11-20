@@ -448,6 +448,7 @@ no record
 - 4G Modem if not okay contact with Tu
   - Get the computer first from the lab
   - Use Dev Kit to rule out the 4G Modem Issue
+- SATM - Minimal Doable System
 
 ### 🚀 Nov 21
 
