@@ -447,10 +447,15 @@ no record
 ### 🚀 Nov 20 Mon
 - 4G Modem if not okay contact with Tu
   - Get the computer first from the lab
-  - Use Dev Kit to rule out the 4G Modem Issue
+  - Use Dev Kit to rule out the 4G Modem Issue - [✅]
+  - Issue Located
+    - UART_SEND - done
+    - UART_RECEIVE - no response
+
 - SATM - Minimal Doable System
 
 ### 🚀 Nov 21
+- Ask Tu / Kirill for the 4G Modem
 
 ### 🚀 Nov 22
 - Invigilation Instruction - 22 Nov 2023, at 10:30 am in CEE Meeting Room A (N1-1a-18)
