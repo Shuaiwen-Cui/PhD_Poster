@@ -399,11 +399,9 @@ no record
 
 ### 🚀 Nov 8
 - Remind Xiangyu - [✅]
-- GJZ Wedding Ceremony Pre - [✅]
 
 ### 🚀 Nov 9
 - Quiz Invigilation - [✅]
-- GJZ Wedding Ceremony - [✅]
 
 ### 🚀 Nov 10
 - Weekly Meeting - Skipped
@@ -413,10 +411,9 @@ no record
 - Disp Estimation
 - Remote Command
 - Long Term Test
-- CMSIS Test Using STM32
 
 ### 🚀 Nov 12
-- Gitbook - wait for reply
+- Gitbook
 - Docsify - Pages published https://shuaiwen-cui.github.io/StayHungry/
 
 ### 🚀 Nov 13 Mon
@@ -452,12 +449,12 @@ no record
     - UART_SEND - done
     - UART_RECEIVE - no response
 
-- SATM - Minimal Doable System
-
 ### 🚀 Nov 21
-- Ask Tu / Kirill for the 4G Modem
+- SATM - Minimal Doable System
+  - first version - [✅]
 
 ### 🚀 Nov 22
+- Ask Tu / Kirill for the 4G Modem
 - Invigilation Instruction - 22 Nov 2023, at 10:30 am in CEE Meeting Room A (N1-1a-18)
 
 ### 🚀 Nov 23
