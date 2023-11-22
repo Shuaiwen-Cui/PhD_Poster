@@ -452,6 +452,20 @@ no record
 ### 🚀 Nov 21
 - SATM - Minimal Doable System
   - first version - [✅]
+    - system
+      - event
+        - types: interested / not interested
+        - each event single value
+        - distribution - normal
+      - triggering system
+        - above threshold - interested and capture
+        - below threshold - not interested and ignore
+    - estimator
+      - assume we know the ignored ones
+      - use ground truth for feedback
+    - controller & planning
+      - capture an uninterested one, threshold goes up a little bit
+      - capture an interested one, threshold goes down a little bit
 - Ask Tu / Kirill for the 4G Modem
 
 ### 🚀 Nov 22
@@ -506,10 +520,22 @@ no record
         - At least two days before
         - Cc another RS
 
-- Xnode Connection with the Server - []
+- Xnode Connection with the Server - [✅]
   - Server IP:8.219.14.225
+  - MQTT Test - [✅]
+    - Broker OK
+    - Subscribe OK - Dr Shen's Computer
+    - Publish ? - DataSynch
+
+- Federated Learning Webinar 
+
+- SATM - Minimal Doable System
+  - second version -
 
 ### 🚀 Nov 23
+- Weekly Meeting
+- Tunnel Deployment
+  - 4G Modem - [✅]
 
 ### 🚀 Nov 24
 - 【Xiangyu】Exam Invigilation - Nov 24 - N1-01A-11 - 1400 report - 1430 start
