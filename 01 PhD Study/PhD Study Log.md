@@ -452,10 +452,17 @@ no record
 ### 🚀 Nov 21
 - SATM - Minimal Doable System
   - first version - [✅]
+- Ask Tu / Kirill for the 4G Modem
 
 ### 🚀 Nov 22
-- Ask Tu / Kirill for the 4G Modem
-- Invigilation Instruction - 22 Nov 2023, at 10:30 am in CEE Meeting Room A (N1-1a-18)
+- Xnode 4G Function Debugging - [✅]
+  - Replaced the middle and the bottom boards - turned out to be useful
+  - Antenna installed - useful and necessary
+  - Modified IP address - ready for next step tryouts
+- Invigilation Instruction
+  - 22 Nov 2023, at 10:30 am in CEE Meeting Room A (N1-1a-18)
+- Xnode Connection with the Server - []
+  - Server IP:8.219.14.225
 
 ### 🚀 Nov 23
 
