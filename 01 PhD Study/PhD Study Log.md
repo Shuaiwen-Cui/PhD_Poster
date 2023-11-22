@@ -461,6 +461,51 @@ no record
   - Modified IP address - ready for next step tryouts
 - Invigilation Instruction
   - 22 Nov 2023, at 10:30 am in CEE Meeting Room A (N1-1a-18)
+    - Invigilation Duty - Exam and Standby Exam
+    - Type      
+      - Decentralised - CEE
+      - Centralized - Large Room
+      - Standby - Standby
+    - Know where is the exam hall/venues
+      - Check the venue first 
+      - Be punctual for the duty
+    - Report time - 30 min earlier 
+      - Go before the exam start time
+      - Sign in - mark the attendance
+      - Distributing paper - question paper (face down) & answer book
+      - Check …  
+    - Listen to the CI’s instructions
+    - The students are not allowed to leave without permission
+    - Paper wedge at CI table - better to carry some
+    - Mark attendance / check pens / check calculator / ID card
+    - Don’t be too helpful - direct the student to the course coordinator / CI
+    - 1hr not allowed to enter
+    - 1 hr not allowed to leave - collect the answer book - need CI’s permission
+    - Not allowed to leave in the last 15 min
+    - Toilet - company
+    - Not feeling well  - CI
+    - Cheating - report to CI
+    - Phone ring - report to CI -  recognized as cheating
+    - Additional answer book - Yellow One
+    - One student can only have one green answer book
+    - Check the Matrix. No and No Name
+    - Don’t skip a student, if not filled, ask him/her to fill in
+    - Collect the books in sequence
+    - Check the total number of the answer books
+    - Ensure the students leave row by row
+    [Exam]
+      Refer the above
+
+    [Standby Exam]  
+    - Report the GSU 
+    - Mark the attendance
+    - Come to the lobby
+    - Wait for half an hour
+    - If want to swap
+        -  Write to Serene
+        - At least two days before
+        - Cc another RS
+
 - Xnode Connection with the Server - []
   - Server IP:8.219.14.225
 
