@@ -538,9 +538,9 @@ no record
   - 4G Modem - [✅]
 
 ### 🚀 Nov 24
-- 【Xiangyu】Exam Invigilation - Nov 24 - N1-01A-11 - 1400 report - 1430 start
 
 ### 🚀 Nov 25
+- dress properly
 - Exam Invigilation N1-B4C-09a 8:30 report 9:00-11:35
 
 ### 🚀 Nov 26
