@@ -531,7 +531,7 @@ no record
 
 ### 🚀 Nov 23
 - SATM - Minimal Doable System
-  - second version -
+  - second version
     - online metrics calculation
 - Weekly Meeting
 - Tunnel Deployment
