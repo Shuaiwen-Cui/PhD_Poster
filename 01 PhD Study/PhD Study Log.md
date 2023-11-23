@@ -529,10 +529,10 @@ no record
 
 - Federated Learning Webinar 
 
+### 🚀 Nov 23
 - SATM - Minimal Doable System
   - second version -
-
-### 🚀 Nov 23
+    - online metrics calculation
 - Weekly Meeting
 - Tunnel Deployment
   - 4G Modem - [✅]
