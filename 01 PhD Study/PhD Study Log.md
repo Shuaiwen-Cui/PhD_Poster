@@ -39,6 +39,11 @@ This file is for PhD study plan and progress log.
   - Abstract - [✅]
   - Introduction - [✅]
   - Data Infrastructure
+    - 2.1 Data Infrastructure Architecture - [✅]
+    - 2.2 Perception
+    - 2.3 Actuation
+    - 2.4 Network and Communication
+    - 2.5 Computing and Cognition
   - View 1
   - View 2
   - VIew 3
