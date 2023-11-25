@@ -433,7 +433,7 @@ no record
 
 ### 🚀 Nov 16
 - Weekly Meeting Notes:
-  - back to PID control
+  - back to PID control - X
   - simplify the problem, only the first two parameter
   - revise the model
   - finish the estimator box
@@ -545,8 +545,8 @@ no record
 ### 🚀 Nov 24
 
 ### 🚀 Nov 25
-- dress properly
-- Exam Invigilation N1-B4C-09a 8:30 report 9:00-11:35
+- Exam Invigilation N1-B4C-09a 8:30 report 9:00-11:35 - [✅]
+- Tensorflow
 
 ### 🚀 Nov 26
 
