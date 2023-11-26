@@ -4,32 +4,66 @@ This file is for PhD study plan and progress log.
 ========================== OVER VIEW ==========================
 
 # 🏫 I Administrative Stuff
-## Thesis Advisory Committee
+## 1.1 Thesis Advisory Committee (TAC)
+## Research Topic and Supervisor
+- Supervisor: Asst Prof Fu Yuguang
+- Proposed Research Topic: Distributed Intelligence Enabling IoT-framework for Structural Health Monitoring
+
 ### Determine the TAC Members
 - Prof Yang Yaowen
-- Prof Yuen Kum Fai
+- Asst Prof Yuen Kum Fai
 
 ### Annual Report
 - First Time: Sep 22nd 2023 - For AY22/23
+- QE: Feb 2024
+  - contact TAC members in advance
 
-### Qualification Examination
+### Qualification Examination - to make a list
 - Time Feb 2024
 - Requirements:
   - 1 paper submitted
+  - ...
 
 ### Thesis & Defense
 - Estimated Time: May 2026
 
-## Progress Report
+## 1.2 Progress Report
 - AY22/23 - Submitted - Passed
 - AY23/24 - [] - []
 - AY24/25 - [] - []
 
+### GAP
+- AY22/23
+
+- AY23/24
+
+- AY24/25
+
+- AY25/26
+
+## 1.3 Seminar Attendance
+### AY22/23 - Submitted 
+### AY23/24
+  - Integrating Autonomous Delivery Robots in Societies: A User-Centered Framework for Public Acceptance - Mrs. Koh Le Yi - CEE GSU - Aug 08, 2023
+  - Carbon-Negative Manufactured Aggregates with Added Self-Healing Function - Mr Chen Xi - CEE GSU - Aug 08, 2023
+
+## 1.4 Poster (Year 3)
+
+## 1.5 Lab Access
+- Material Lab - [✅]
+- PE CT to be done if required
+
 # 📚 II Coursework
+## Necessary
+ERWA01 - [✅]
+Safety Course - [✅]
+
 ## Main Coursework
 - Requirements fulfilled
+
 ## HWG702
 - Passed
+
 ## HWG704
 
 # 🏛  III Research
