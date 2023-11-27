@@ -33,13 +33,33 @@ This file is for PhD study plan and progress log.
 - AY24/25 - [] - []
 
 ### GAP
-- AY22/23
+- AY22/23 S1
 
-- AY23/24
+- AY22/23 S2
 
-- AY24/25
+- AY23/24 S1
+  - Teaching Assistance
+    - Live Streaming
+      - EG0001 & EG1001 - Prof Lum Kit Meng - Endorsed by Ong Shu Wen
+        - 1 walk through - 1 hr
+        - 4 classes - 4 x 2 hrs
+    - Quiz Invigilation
+      - Captain Tan Kim Hock 
+      - 1 quiz - 2 hrs
+  - Exam Invigilation
+    - [1] Nov 25 2023 - N1-B4C-09a - Report at 8:30  - duration 9:00-11:35
+      - time 2.5 hrs
+      - Endorsed by Lee Hong
 
-- AY25/26
+- AY23/24 S2
+
+- AY24/25 S1
+
+- AY24/25 S2
+
+- AY25/26 S1
+
+- AY25/26 S2
 
 ## 1.3 Seminar Attendance
 ### AY22/23 - Submitted 
