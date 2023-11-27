@@ -40,16 +40,22 @@ This file is for PhD study plan and progress log.
 - AY23/24 S1
   - Teaching Assistance
     - Live Streaming
-      - EG0001 & EG1001 - Prof Lum Kit Meng - Endorsed by Ong Shu Wen
+      - [1] EG0001 & EG1001 - Prof Lum Kit Meng - Endorsed by Ong Shu Wen - [✅]
         - 1 walk through - 1 hr
         - 4 classes - 4 x 2 hrs
     - Quiz Invigilation
-      - Captain Tan Kim Hock 
-      - 1 quiz - 2 hrs
+      - [1] Captain Tan Kim Hock - [✅] 
+        - time - 2 hrs
   - Exam Invigilation
-    - [1] Nov 25 2023 - N1-B4C-09a - Report at 8:30  - duration 9:00-11:35
-      - time 2.5 hrs
-      - Endorsed by Lee Hong
+    - Standard Exam Invigilation
+      - [1] Nov 25 2023 - N1-B4C-09a - Report at 8:30  - duration 9:00-11:35 - [✅]
+        - time 2.5 hrs
+        - Endorsed by Lee Hong
+      - [2]
+      - [3]
+    - Standby Exam Invigilation
+      - [1] Nov 28 2023 - GSU - Report at 4:30
+        - time 0.5 hr
 
 - AY23/24 S2
 
@@ -94,8 +100,8 @@ Safety Course - [✅]
   - Introduction - [✅]
   - Data Infrastructure
     - 2.1 Data Infrastructure Architecture - [✅]
-    - 2.2 Perception
-    - 2.3 Actuation
+    - 2.2 Perception - [✅]
+    - 2.3 Actuation - [✅]
     - 2.4 Network and Communication
     - 2.5 Computing and Cognition
   - View 1
@@ -605,11 +611,26 @@ no record
 ### 🚀 Nov 26
 
 ### 🚀 Nov 27
+- Paper - Computing in IoT-based SHM
+  - 2.2 Perception
+  - 2.3 Actuation
+- SATM
+- 4G
+- GPR-SPC
 
 ### 🚀 Nov 28
-- Standby Invigilation - Nov 28 430 pm - Report to Soo Ching
+> Paper - Computing in IoT-based SHM
+  - 2.4 Network and Communication - []
+
+> QE Oral Pre - Title: Investigation of Membrane Fouling during Semi-Closed Reverse Osmosis (SCRO) Desalination
+  - Time: 9.30am
+  - Venue: CEE Seminar Room A (N1-B1b-06)
+
+> Standby Invigilation - Nov 28 430 pm - Report to Soo Ching
 
 ### 🚀 Nov 29
+- Paper
+  - 2.5 Computing and Cognition - []
 
 ### 🚀 Nov 30
 Remind 【Xiangyu】 - Exam Invigilation - 830 Report Hall W Nov 30
