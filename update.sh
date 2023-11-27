@@ -1,5 +1,6 @@
-# usage: in git bash, input sh update.sh - windows; or in terminal input ./update.sh and click approve git for windows pop up to run it
-# usage: in terminal, input .\update.sh - mac / linux ? not sure
+# usage: in git bash, input 'sh update.sh' - windows; or in terminal input './update.sh' and click approve git for windows pop up to run it
+# usage: in terminal, input 'bash update.sh' to run it
+# usage: note that the quotation marks should not be input into the terminal
 
 echo '--------upload files start--------'   
 # enter the target folder
