@@ -49,12 +49,16 @@ This file is for PhD study plan and progress log.
   - Exam Invigilation
     - Standard Exam Invigilation
       - [1] Nov 25 2023 - N1-B4C-09a - Report at 8:30  - duration 9:00-11:35 - [✅]
-        - time 2.5 hrs
+        - time 3 hrs
         - Endorsed by Lee Hong
-      - [2]
-      - [3]
+      - [2] Dec 04 2023 - TR102 - Report at 4:30 - duration 5:00-7:35 - []
+        - time 3 hrs
+        - Endorsed by Lee Hong
+      - [3] Dec 05 2023 - TR102 - Report at 4:30 - duration 5:00-7:35 - []
+        - time 3 hrs
+        - Endorsed by Lee Hong
     - Standby Exam Invigilation
-      - [1] Nov 28 2023 - GSU - Report at 4:30
+      - [1] Nov 28 2023 - GSU - Report at 4:30 - [✅]
         - time 0.5 hr
 
 - AY23/24 S2
@@ -623,7 +627,7 @@ no record
 
 > Keil5 - How to build up a new project?
 
-> Standby Invigilation - Nov 28 430 pm - Report to Soo Ching
+> Standby Invigilation - Nov 28 430 pm - Report to Soo Ching - [✅]
 
 > Paper - Computing in IoT-based SHM
   - 2.4 Network and Communication - []
