@@ -614,21 +614,35 @@ no record
 - Paper - Computing in IoT-based SHM
   - 2.2 Perception
   - 2.3 Actuation
+
+
+### 🚀 Nov 28
+> QE Oral Pre - Title: Investigation of Membrane Fouling during Semi-Closed Reverse Osmosis (SCRO)  Desalination  - [✅]
+  - Time: 9.30am
+  - Venue: CEE Seminar Room A (N1-B1b-06)
+
+> Keil5 - How to build up a new project?
+
+> Standby Invigilation - Nov 28 430 pm - Report to Soo Ching
+
+> Paper - Computing in IoT-based SHM
+  - 2.4 Network and Communication - []
+
 - SATM
 - 4G
 - GPR-SPC
 
-### 🚀 Nov 28
-> Paper - Computing in IoT-based SHM
-  - 2.4 Network and Communication - []
-
-> QE Oral Pre - Title: Investigation of Membrane Fouling during Semi-Closed Reverse Osmosis (SCRO) Desalination
-  - Time: 9.30am
-  - Venue: CEE Seminar Room A (N1-B1b-06)
-
-> Standby Invigilation - Nov 28 430 pm - Report to Soo Ching
+- Pre for facade inspection
+  - hat
+  - devices 
+    - ask for Dr Shen
 
 ### 🚀 Nov 29
+- Facade Inspection
+  - 45 Jalan Permimpin
+  - 9 AM
+- Lecture
+  - 10:30 AM
 - Paper
   - 2.5 Computing and Cognition - []
 
