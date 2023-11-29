@@ -629,25 +629,29 @@ no record
 
 > Standby Invigilation - Nov 28 430 pm - Report to Soo Ching - [✅]
 
-> Paper - Computing in IoT-based SHM
-  - 2.4 Network and Communication - []
-
-- SATM
-- 4G
-- GPR-SPC
-
-- Pre for facade inspection
-  - hat
-  - devices 
-    - ask for Dr Shen
+> SATM
+  - grid search - [✅]
 
 ### 🚀 Nov 29
-- Facade Inspection
-  - 45 Jalan Permimpin
-  - 9 AM
-- Lecture
+> SATM
+  - Events Dataset
+  - Window Triggering Mechanism
+
+> RL
+  - Notes
+  - Q 
+  - A*
+  - Q*
+
+> 4G
+
+> GPR-SPC
+
+> Lecture
   - 10:30 AM
-- Paper
+
+> Paper
+  - 2.4 Network and Communication - []
   - 2.5 Computing and Cognition - []
 
 ### 🚀 Nov 30
