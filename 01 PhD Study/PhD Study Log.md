@@ -671,12 +671,28 @@ no record
   - Window Triggering Mechanism
 
 ### 🚀 Nov 30
+- Xnode
+  - Debug - Wire
+
 > 4G - []
- - try the ideas mentioned in the last time
+ - antenna
+ - battery
+ - new boards
 
-> Meeting
+## 1️⃣2️⃣ December
+### 🚀 Dec 01
+> check course time table HWG704 GSlink 1100hrs onwards - [✅]
 
-- check course time table HWG704 GSlink 1100hrs onwards
+> 8:30 House Rent
+
+> Xnode: Gateway - Leafnode Connection Test
+- all three leaf nodes programming for testing
+
+> 11:00 Meeting with Prof Fu - contact Prof Fu
+  - The laptop cannot identify the Xnode
+    - USB wire replaced - [✅]
+  - The gateway cannot identify the leaf node
+    - remain to be solved
 
 > RL
   - Notes
@@ -690,20 +706,23 @@ no record
   - 2.4 Network and Communication - []
   - 2.5 Computing and Cognition - []
 
-## 1️⃣2️⃣ December
-### 🚀 Dec 01
-House Rent
-
 ### 🚀 Dec 04
-- Genda Chen - Seminar
+> Genda Chen - Seminar
   - Digital Twin in the Built Environment to Support Multifunctional Modeling for Broader Impacts A FREE WEBINAR December 5, 2023, 12:00 AM
   - Date & Time	Dec 5, 2023 12:00 AM Beijing, Shanghai 
   - Meeting ID	919 4088 5984
   - Passcode	883628
-- Exam Invigilation - Dec 04 Mon TR102 - Report 4:30 pm - Start 5:00 pm
+> Exam Invigilation - Dec 04 Mon TR102 - Report 4:30 pm - Start 5:00 pm
 
 ### 🚀 Dec 05
-- Exam Invigilation - Dec 5 - TR102 - REPORT 430PM - START 500 PM
+> Edge Computing Talk - 3:00 pm - 4:00 pm
+Join Zoom Meeting
+https://ntu-sg.zoom.us/j/2222519483?pwd=bTJzVmltZlBndlk1emtsZVdtMWdqUT09
+
+Meeting ID: 222 251 9483 Passcode: 996878
+When Tuesday Dec 5, 2023 ⋅ 3pm – 4pm (Singapore Standard Time)
+
+> Exam Invigilation - Dec 5 - TR102 - REPORT 430PM - START 500 PM
 
 ### 🚀 Dec 07
 - Remind 【Wang Yao】 Exam Invigilation - Dec 7 TR102 830 Report

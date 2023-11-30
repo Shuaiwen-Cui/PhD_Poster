@@ -43,7 +43,6 @@
   - antenna
   - channel number
   - distance > 1 meter
-- email Tu
 
 - looks the xnode did not read the IP address correctly ...
 
