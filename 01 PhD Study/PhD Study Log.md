@@ -5,34 +5,35 @@ This file is for PhD study plan and progress log.
 
 # 🏫 I Administrative Stuff
 ## 1.1 Thesis Advisory Committee (TAC)
-## Research Topic and Supervisor
-- Supervisor: Asst Prof Fu Yuguang
+> Research Topic and Supervisor
 - Proposed Research Topic: Distributed Intelligence Enabling IoT-framework for Structural Health Monitoring
+- Supervisor: Asst Prof Fu Yuguang
 
-### Determine the TAC Members
+> Determine the TAC Members
 - Prof Yang Yaowen
 - Asst Prof Yuen Kum Fai
 
-### Annual Report
+> Annual Report
 - First Time: Sep 22nd 2023 - For AY22/23
 - QE: Feb 2024
   - contact TAC members in advance
 
-### Qualification Examination - to make a list
+> Qualification Examination - to make a list
 - Time Feb 2024
 - Requirements:
   - 1 paper submitted
   - ...
 
-### Thesis & Defense
+> Thesis & Defense
 - Estimated Time: May 2026
 
 ## 1.2 Progress Report
+> Overview
 - AY22/23 - Submitted - Passed
 - AY23/24 - [] - []
 - AY24/25 - [] - []
 
-### GAP
+> GAP
 - AY22/23 S1
 
 - AY22/23 S2
@@ -72,32 +73,54 @@ This file is for PhD study plan and progress log.
 - AY25/26 S2
 
 ## 1.3 Seminar Attendance
-### AY22/23 - Submitted 
-### AY23/24
-  - Integrating Autonomous Delivery Robots in Societies: A User-Centered Framework for Public Acceptance - Mrs. Koh Le Yi - CEE GSU - Aug 08, 2023
-  - Carbon-Negative Manufactured Aggregates with Added Self-Healing Function - Mr Chen Xi - CEE GSU - Aug 08, 2023
+> AY22/23 - Submitted 
+
+> AY23/24
+  1. Integrating Autonomous Delivery Robots in Societies: A User-Centered Framework for Public Acceptance - [✅] - Mrs. Koh Le Yi - CEE GSU - Aug 08, 2023
+  2. Carbon-Negative Manufactured Aggregates with Added Self-Healing Function - [✅] - Mr Chen Xi - CEE GSU - Aug 08, 2023
+  3. Investigation of Membrane Fouling during Se-Closed Reverse Osmosis (SCRO) Desalination - [✅] - Mr Xiao Yifu - CEE GSU - Nov 29, 2023
+  4. ‘Setting Effective KPIs to Achieve Maximum Results’ by Mr Jeffrey Williams - [✅] - Graduate College – Transferable Skills Series - Nov 29, 2023
+  5. Structural Stability and Design of Novel Stainless Steel Built-Up Section Members - Mr Jing Yannan - 4 December 2023, Monday - Time: 9.30am - CEE Seminar Room B (N1-B1b-16)
+  6. Effect of Shear Deformation on Behaviors of Reinforced Concrete Structural Members - Mr Lin Haoran -  4 December 2023, Monday - Time: 2.00pm - CEE Seminar Room B (N1-B1b-16)
+
+> AY24/25
+
+> AY25/26
 
 ## 1.4 Poster (Year 3)
 
 ## 1.5 Lab Access
-- Material Lab - [✅]
-- PE CT to be done if required
+> Online Study - [✅]
+
+> Material Lab - [✅]
+
+> PE CT to be done if required
 
 # 📚 II Coursework
-## Necessary
-ERWA01 - [✅]
-Safety Course - [✅]
+## 2.1 Necessary
+> ERWA01 - [✅]
 
-## Main Coursework
-- Requirements fulfilled
+> Safety Course - [✅]
 
-## HWG702
-- Passed
+## 2.2 Main Coursework
+> S1 
+- CV6103
+- CV6212
+- CV7001
 
-## HWG704
+> S2
+- CV6216
+- CV7003
+- EE6221
+
+## 2.3 HWG702
+> ~Passed
+
+## 2.4 HWG704
+> to check the curriculum
 
 # 🏛  III Research
-## A - Literature Review - Computing in IoT-based SHM
+## 3.1 Literature Review - Computing in IoT-based SHM
 - Reference Management - Zotero & Endnote
 - Paper Writing - Github Repo - [Paper - Computing in IoT-based Structural Health Monitoring](https://github.com/Shuaiwen-Cui/Paper-Computing_in_IoT-based_SHM.git)
   - Abstract - [✅]
@@ -114,7 +137,7 @@ Safety Course - [✅]
   - Discussion
   - Conclusions
 
-## B - Smart Adaptive Triggering Mechanism
+## 3.2 Smart Adaptive Triggering Mechanism
 - Smart
   - Event Generation
   - 1D-CNN for Event Classification
@@ -126,7 +149,7 @@ Safety Course - [✅]
   - Implementation on Sensors
 - Paper
 
-## C - Online Displacement Estimation and Gaussian Process Regression and Stochastic Process Control
+## 3.3 Online Displacement Estimation and Gaussian Process Regression and Stochastic Process Control
 
 - Displacement Estimation Theory
   - Refer to Fernando's Paper
@@ -141,19 +164,26 @@ Safety Course - [✅]
   - CMSIS
   - Mind the Error
 
-## D - Data Saturation Recovery
+## 3.4 Data Saturation Recovery
+
+
 
 # 💼 IV - Project
+## 4.1 Facade Inspection
+
+
 
 # 👔 V - Conference
-## A - EMI2023 [Finished]
+## 5.1 EMI2023 [Finished]
+
 
 # 📜 VI - Paper
-## A [Literature Review] - Computing in IoT-based Structural Health Monitoring.docx
+## 6.1 [Literature Review] - Computing in IoT-based Structural Health Monitoring.docx
 
-## B [Technical Paper] - Smart Adaptive Triggering Mechanism for MEMS-based Sensors in SHM
+## 6.2 [Technical Paper] - Smart Adaptive Triggering Mechanism for MEMS-based Sensors in SHM
 
-## C [Technical Paper] - Onboard Reference-Free Dynamic Displacement Estimation on Wireless Smart Sensors and its Application in Rapid Condition Assessment of Railroad Bridges
+## 6.3 [Technical Paper] - Onboard Reference-Free Dynamic Displacement Estimation on Wireless Smart Sensors and its Application in Rapid Condition Assessment of Railroad Bridges
+
 
 # 👨‍🎓 VII - Thesis and Defence
 
@@ -633,9 +663,20 @@ no record
   - grid search - [✅]
 
 ### 🚀 Nov 29
-> SATM
+> Lecture - [✅]
+  - 10:30 AM
+
+> SATM - [✅]
   - Events Dataset
   - Window Triggering Mechanism
+
+### 🚀 Nov 30
+> 4G - []
+ - try the ideas mentioned in the last time
+
+> Meeting
+
+- check course time table HWG704 GSlink 1100hrs onwards
 
 > RL
   - Notes
@@ -643,20 +684,11 @@ no record
   - A*
   - Q*
 
-> 4G
-
 > GPR-SPC
-
-> Lecture
-  - 10:30 AM
 
 > Paper
   - 2.4 Network and Communication - []
   - 2.5 Computing and Cognition - []
-
-### 🚀 Nov 30
-Remind 【Xiangyu】 - Exam Invigilation - 830 Report Hall W Nov 30
-- check course time table HWG704 GSlink 1100hrs onwards
 
 ## 1️⃣2️⃣ December
 ### 🚀 Dec 01

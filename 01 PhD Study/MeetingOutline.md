@@ -36,7 +36,6 @@
 
 ### 🚀 Nov 23
 > Weekly Meeting
-- Try traditional Controllers
 - Try RL
 
 > Tunnel Deployment Meeting
@@ -45,3 +44,21 @@
   - channel number
   - distance > 1 meter
 - email Tu
+
+- looks the xnode did not read the IP address correctly ...
+
+### 🚀 Nov 30
+> SATM
+- conventional optimization methods
+  - optimal threshold, duration
+- Dr Meng Dataset 
+
+- measurement error
+
+- Xnode GPR - speed up
+
+
+
+
+
+
