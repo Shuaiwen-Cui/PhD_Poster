@@ -683,8 +683,6 @@ no record
 ### 🚀 Dec 01
 > check course time table HWG704 GSlink 1100hrs onwards - [✅]
 
-> 8:30 House Rent
-
 > Xnode: Gateway - Leafnode Connection Test
 - all three leaf nodes programming for testing
 
@@ -693,6 +691,11 @@ no record
     - USB wire replaced - [✅]
   - The gateway cannot identify the leaf node
     - remain to be solved
+    - to email Kirill & Tu
+
+> Three.js Journey
+- registered as a student
+- started a branch on 'StayHungry' repo
 
 > RL
   - Notes
