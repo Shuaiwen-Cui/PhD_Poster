@@ -697,6 +697,7 @@ no record
 - registered as a student
 - started a branch on 'StayHungry' repo
 
+### 🚀 Dec 02
 > RL
   - Notes
   - Q 
