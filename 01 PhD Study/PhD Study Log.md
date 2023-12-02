@@ -699,9 +699,7 @@ no record
 
 ### 🚀 Dec 02
 - gimbal lock - quaternion
-
-
-
+- Three.js Journey - CH01-04
 
 ### 🚀 Dec 03
 > Email Kirill
