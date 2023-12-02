@@ -698,6 +698,18 @@ no record
 - started a branch on 'StayHungry' repo
 
 ### 🚀 Dec 02
+- gimbal lock - quaternion
+
+
+
+
+### 🚀 Dec 03
+> Email Kirill
+
+> Call
+
+> Swim
+
 > RL
   - Notes
   - Q 
