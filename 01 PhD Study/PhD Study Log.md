@@ -707,14 +707,12 @@ no record
 > Three.js Journey - CH07 Full Screen - [✅]
 > Three.js Journey - CH08 Geometry - []
 
+### 🚀 Dec 04
+> Email Kirill
 
-
-
-
+> GPR-SPC
 
 > Fu Hao Paper
-
-> Email Kirill
 
 > RL
   - Notes
@@ -722,13 +720,11 @@ no record
   - A*
   - Q*
 
-> GPR-SPC
-
 > Paper
   - 2.4 Network and Communication - []
   - 2.5 Computing and Cognition - []
 
-### 🚀 Dec 04
+
 > Genda Chen - Seminar
   - Digital Twin in the Built Environment to Support Multifunctional Modeling for Broader Impacts A FREE WEBINAR December 5, 2023, 12:00 AM
   - Date & Time	Dec 5, 2023 12:00 AM Beijing, Shanghai 
