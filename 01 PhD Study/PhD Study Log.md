@@ -699,14 +699,22 @@ no record
 
 ### 🚀 Dec 02
 - gimbal lock - quaternion
-- Three.js Journey - CH01-04
+- Three.js Journey - CH01-04 - [✅]
 
 ### 🚀 Dec 03
+> Three.js Journey - CH05 Animations - [✅]
+> Three.js Journey - CH06 Cameras - [✅]
+> Three.js Journey - CH07 Full Screen - [✅]
+> Three.js Journey - CH08 Geometry - []
+
+
+
+
+
+
+> Fu Hao Paper
+
 > Email Kirill
-
-> Call
-
-> Swim
 
 > RL
   - Notes
