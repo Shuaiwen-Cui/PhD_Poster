@@ -715,36 +715,34 @@ no record
 
 > RL
   - Notes
-  - Q 
-  - A*
-  - Q*
+  - Q Learning
 
-> GPR-SPC
-
-> Optimization Method
-
-
-> Paper
-  - 2.4 Network and Communication - []
-  - 2.5 Computing and Cognition - []
-
-
-
-> Genda Chen - Seminar
+### 🚀 Dec 05
+> Genda Chen - Seminar- [✅]
   - Digital Twin in the Built Environment to Support Multifunctional Modeling for Broader Impacts A FREE WEBINAR December 5, 2023, 12:00 AM
   - Date & Time	Dec 5, 2023 12:00 AM Beijing, Shanghai 
   - Meeting ID	919 4088 5984
   - Passcode	883628
 
-### 🚀 Dec 05
+> Remote Command
+
+> GPR-SPC
+- reprogramming
+
+> Optimization Method
+
+> Paper
+  - 2.4 Network and Communication - []
+  - 2.5 Computing and Cognition - []
+
 > Edge Computing Talk - 3:00 pm - 4:00 pm
 Join Zoom Meeting
 https://ntu-sg.zoom.us/j/2222519483?pwd=bTJzVmltZlBndlk1emtsZVdtMWdqUT09
 
 Meeting ID: 222 251 9483 Passcode: 996878
-When Tuesday Dec 5, 2023 ⋅ 3pm – 4pm (Singapore Standard Time)
+When Tuesday Dec 5, 2023 ⋅ 3:45 pm – 4:15 pm (Singapore Standard Time)
 
-> Exam Invigilation - Dec 5 - TR102 - REPORT 430PM - START 500 PM
+> Exam Invigilation - Dec 5 - TR102 - REPORT 430PM - START 500 PM - 700 PM
 
 ### 🚀 Dec 07
 - Remind 【Wang Yao】 Exam Invigilation - Dec 7 TR102 830 Report
