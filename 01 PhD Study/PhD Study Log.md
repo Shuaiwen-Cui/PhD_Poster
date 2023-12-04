@@ -724,13 +724,13 @@ no record
   - 2.4 Network and Communication - []
   - 2.5 Computing and Cognition - []
 
+> Exam Invigilation - Dec 04 Mon TR102 - Report 4:30 pm - Start 5:00 pm
 
 > Genda Chen - Seminar
   - Digital Twin in the Built Environment to Support Multifunctional Modeling for Broader Impacts A FREE WEBINAR December 5, 2023, 12:00 AM
   - Date & Time	Dec 5, 2023 12:00 AM Beijing, Shanghai 
   - Meeting ID	919 4088 5984
   - Passcode	883628
-> Exam Invigilation - Dec 04 Mon TR102 - Report 4:30 pm - Start 5:00 pm
 
 ### 🚀 Dec 05
 > Edge Computing Talk - 3:00 pm - 4:00 pm
