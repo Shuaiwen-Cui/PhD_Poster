@@ -52,10 +52,10 @@ This file is for PhD study plan and progress log.
       - [1] Nov 25 2023 - N1-B4C-09a - Report at 8:30  - duration 9:00-11:35 - [✅]
         - time 3 hrs
         - Endorsed by Lee Hong
-      - [2] Dec 04 2023 - TR102 - Report at 4:30 - duration 5:00-7:35 - []
+      - [2] Dec 04 2023 - TR102 - Report at 4:30 - duration 5:00-7:00 - [✅]
         - time 3 hrs
         - Endorsed by Lee Hong
-      - [3] Dec 05 2023 - TR102 - Report at 4:30 - duration 5:00-7:35 - []
+      - [3] Dec 05 2023 - TR102 - Report at 4:30 - duration 5:00-7:00 - []
         - time 3 hrs
         - Endorsed by Lee Hong
     - Standby Exam Invigilation
@@ -80,7 +80,7 @@ This file is for PhD study plan and progress log.
   2. Carbon-Negative Manufactured Aggregates with Added Self-Healing Function - [✅] - Mr Chen Xi - CEE GSU - Aug 08, 2023
   3. Investigation of Membrane Fouling during Se-Closed Reverse Osmosis (SCRO) Desalination - [✅] - Mr Xiao Yifu - CEE GSU - Nov 29, 2023
   4. ‘Setting Effective KPIs to Achieve Maximum Results’ by Mr Jeffrey Williams - [✅] - Graduate College – Transferable Skills Series - Nov 29, 2023
-  5. Effect of Shear Deformation on Behaviors of Reinforced Concrete Structural Members - Mr Lin Haoran -  4 December 2023, Monday - Time: 2.00pm - CEE Seminar Room B (N1-B1b-16)
+  5. Effect of Shear Deformation on Behaviors of Reinforced Concrete Structural Members - Mr Lin Haoran - [✅] -  4 December 2023, Monday - Time: 2.00pm - CEE Seminar Room B (N1-B1b-16)
 
 > AY24/25
 
@@ -711,9 +711,7 @@ no record
 
 > Fu Hao Paper - [✅]
 
-> Seminar - []
-
-> GPR-SPC
+> Exam Invigilation - Dec 04 Mon TR102 - Report 4:30 pm - Start 5:00 pm - [✅]
 
 > RL
   - Notes
@@ -721,11 +719,16 @@ no record
   - A*
   - Q*
 
+> GPR-SPC
+
+> Optimization Method
+
+
 > Paper
   - 2.4 Network and Communication - []
   - 2.5 Computing and Cognition - []
 
-> Exam Invigilation - Dec 04 Mon TR102 - Report 4:30 pm - Start 5:00 pm
+
 
 > Genda Chen - Seminar
   - Digital Twin in the Built Environment to Support Multifunctional Modeling for Broader Impacts A FREE WEBINAR December 5, 2023, 12:00 AM
