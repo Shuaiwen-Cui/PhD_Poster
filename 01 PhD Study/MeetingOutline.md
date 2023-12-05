@@ -57,6 +57,27 @@
 - Xnode GPR - speed up
 
 
+### 🚀 Dec 05
+- FL
+- Data Anomaly Detection
+
+> How to deploy the algo to the Xnode?
+
+
+(1) Tarutal's Algo
+(2) Fu Hao - MCU Programming
+(3) Xnode 
+
+
+(1) Python -> C (Jan)
+(2) C - Xnode (Feb)
+FL later
+(3) Federated Learning
+
+weekly / biweekly meeting
+
+
+
 
 
 

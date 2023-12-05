@@ -55,7 +55,7 @@ This file is for PhD study plan and progress log.
       - [2] Dec 04 2023 - TR102 - Report at 4:30 - duration 5:00-7:00 - [✅]
         - time 3 hrs
         - Endorsed by Lee Hong
-      - [3] Dec 05 2023 - TR102 - Report at 4:30 - duration 5:00-7:00 - []
+      - [3] Dec 05 2023 - TR102 - Report at 4:30 - duration 5:00-7:00 - [✅]
         - time 3 hrs
         - Endorsed by Lee Hong
     - Standby Exam Invigilation
@@ -724,6 +724,19 @@ no record
   - Meeting ID	919 4088 5984
   - Passcode	883628
 
+> Three.js Journey - CH09 debug UI - [✅]
+- add the debug UI at the first place
+
+> Edge Computing Talk - 3:45 pm – 4:15 pm
+Join Zoom Meeting
+https://ntu-sg.zoom.us/j/2222519483?pwd=bTJzVmltZlBndlk1emtsZVdtMWdqUT09
+
+Meeting ID: 222 251 9483 Passcode: 996878
+When Tuesday Dec 5, 2023 ⋅ 3:45 pm – 4:15 pm (Singapore Standard Time)
+
+> Exam Invigilation - Dec 5 - TR102 - REPORT 430PM - START 500 PM - 700 PM - [✅]
+
+### 🚀 Dec 06
 > Remote Command
 
 > GPR-SPC
@@ -735,14 +748,11 @@ no record
   - 2.4 Network and Communication - []
   - 2.5 Computing and Cognition - []
 
-> Edge Computing Talk - 3:00 pm - 4:00 pm
-Join Zoom Meeting
-https://ntu-sg.zoom.us/j/2222519483?pwd=bTJzVmltZlBndlk1emtsZVdtMWdqUT09
-
-Meeting ID: 222 251 9483 Passcode: 996878
-When Tuesday Dec 5, 2023 ⋅ 3:45 pm – 4:15 pm (Singapore Standard Time)
-
-> Exam Invigilation - Dec 5 - TR102 - REPORT 430PM - START 500 PM - 700 PM
-
 ### 🚀 Dec 07
 - Remind 【Wang Yao】 Exam Invigilation - Dec 7 TR102 830 Report
+
+> Meeting
+
+> Meeting
+
+> Xiangru
