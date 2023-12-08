@@ -46,6 +46,14 @@
 - 4G Modem
 - Network Communication
 
+> Base - Regular Version
+
+- Features to merge
+  - real-time collection
+  - disp estimation
+  - 4G modem
+  - radio test
+
 ### - Raspberry Pi
 - Raspberry Pi Hardwares
 

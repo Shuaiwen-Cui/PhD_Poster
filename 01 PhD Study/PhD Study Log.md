@@ -737,7 +737,63 @@ When Tuesday Dec 5, 2023 ⋅ 3:45 pm – 4:15 pm (Singapore Standard Time)
 > Exam Invigilation - Dec 5 - TR102 - REPORT 430PM - START 500 PM - 700 PM - [✅]
 
 ### 🚀 Dec 06
+> Dr Zou Yang from Aucland University
+- 2:30 pm - 3:30 pm
+- LT15
+- Notes:
+  - Title
+  - Topic: immersive technology
+  - Inspection with autonomous UAVs
+    - Categories:
+      - RGB - photogrammetry
+      - Lidar - point cloud
+      - Thermal - temperature
+    - Key Problems:
+      - Path Planning
+      - Autonomous Navigation
+      - Image Quality Check (real-time check)
+  - Automatic Damage Detection
+    - Semantic Segmentation
+      - geometric feature -> domain knowledge
+    - Make it more lightweight
+  - Image-to-BIM Registration
+  - VR for Inspection Training
+    - VR for training
+    - VR for inspection
+  - Future
+    - human-robot collaboration in infrastructure inspection
+    - Robotics for infrastructure maintenance
+
+> Radio Test - [✅]
+- to be addressed
+
+### 🚀 Dec 07
+Xnode
+- sometimes the connection issue can be caused by inappropriate radio channel or power
+- combo 1
+  - pwr 0
+  - chnl 26
+- combo 2
+  - pwr 5
+  - chnl 25
+
+> Meeting
+
+> Debug Enabling - Xnode
+
+> Meeting
+
+> Xiangru
+
 > Remote Command
+
+
+### 🚀 Dec 08
+> Dr Meng Data Process + CNN Code
+
+> Meeting with Si Hui
+
+> Disp Est
 
 > GPR-SPC
 - reprogramming
@@ -748,11 +804,5 @@ When Tuesday Dec 5, 2023 ⋅ 3:45 pm – 4:15 pm (Singapore Standard Time)
   - 2.4 Network and Communication - []
   - 2.5 Computing and Cognition - []
 
-### 🚀 Dec 07
-- Remind 【Wang Yao】 Exam Invigilation - Dec 7 TR102 830 Report
 
-> Meeting
 
-> Meeting
-
-> Xiangru

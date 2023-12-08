@@ -76,7 +76,15 @@ FL later
 
 weekly / biweekly meeting
 
+### 🚀 Dec 07
+> Xnode Debugging
+- power
+- channel
 
+> Xnode Displacement Estimation Function Transplantation
+- Data Structure
+
+- data size? (SensorData)
 
 
 
