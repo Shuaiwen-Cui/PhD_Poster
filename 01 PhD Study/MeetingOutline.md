@@ -84,7 +84,6 @@ weekly / biweekly meeting
 > Xnode Displacement Estimation Function Transplantation
 - Data Structure
 
-- data size? (SensorData)
 
 
 

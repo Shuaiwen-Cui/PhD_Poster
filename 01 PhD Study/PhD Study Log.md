@@ -785,13 +785,15 @@ Xnode
 
 > Xiangru
 
-> Remote Command
-
-
 ### 🚀 Dec 08
 > Dr Meng Data Process + CNN Code
 
+> Remote Command
+
 > Meeting with Si Hui
+
+### 🚀 Dec 09
+> Conference 
 
 > Disp Est
 
@@ -803,6 +805,4 @@ Xnode
 > Paper
   - 2.4 Network and Communication - []
   - 2.5 Computing and Cognition - []
-
-update
 
