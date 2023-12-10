@@ -797,6 +797,17 @@ Xnode
 
 > https://www.hackster.io/virgilvox/iot-robot-car-using-mqtt-2c8c55
 
+
+### 🚀 Dec 10
+> Conference
+image - point cloud - bim
+
+> Three.js Journey - CH10 - Textures - [✅]
+
+> gcc g++ make
+
+
+### 🚀 Dec 11
 > Disp Est
 
 > GPR-SPC
