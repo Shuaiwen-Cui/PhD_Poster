@@ -807,7 +807,9 @@ image - point cloud - bim
 > gcc g++ make
 
 
-### 🚀 Dec 11
+### 🚀 Dec 11 Mon
+> 4G
+
 > Disp Est
 
 > GPR-SPC
@@ -819,3 +821,5 @@ image - point cloud - bim
   - 2.4 Network and Communication - []
   - 2.5 Computing and Cognition - []
 
+### 🚀 Dec 12
+> Meeting
