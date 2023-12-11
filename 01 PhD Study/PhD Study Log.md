@@ -675,6 +675,7 @@ no record
 
 > 4G - []
  - antenna
+   - sometimes, you need to adjust the antenna orientation & sensor position
  - battery
  - new boards
 
@@ -808,9 +809,17 @@ image - point cloud - bim
 
 
 ### 🚀 Dec 11 Mon
+> Makefile
+
 > Cmake
 
 > 4G
+
+> MQTT - Paho - [✅]
+
+> MQTT IOT CAR - [✅]
+
+### 🚀 Dec 12 
 
 > Disp Est
 
@@ -823,5 +832,4 @@ image - point cloud - bim
   - 2.4 Network and Communication - []
   - 2.5 Computing and Cognition - []
 
-### 🚀 Dec 12
-> Meeting
+> Meeting - Edge Computing
