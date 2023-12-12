@@ -62,8 +62,6 @@
 - Data Anomaly Detection
 
 > How to deploy the algo to the Xnode?
-
-
 (1) Tarutal's Algo
 (2) Fu Hao - MCU Programming
 (3) Xnode 
@@ -84,7 +82,18 @@ weekly / biweekly meeting
 > Xnode Displacement Estimation Function Transplantation
 - Data Structure
 
+### 🚀 Dec 12 - Edge intelligence for Xnodes
+- Fu Hao' Code
+  - env building up
+  - calculate num of parameters
 
+
+
+
+
+
+### 🚀 Dec 14 - Weekly Meeting
+> mqtt - paho
 
 
 
