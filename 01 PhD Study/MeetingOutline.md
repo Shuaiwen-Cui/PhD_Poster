@@ -87,12 +87,10 @@ weekly / biweekly meeting
   - env building up
   - calculate num of parameters
 
-
-
-
-
-
 ### 🚀 Dec 14 - Weekly Meeting
+> GPR-SPC -  Remote Sensing
+
+### 🚀 Dec 14 - Tunnel Deployment Meeting
 > mqtt - paho
 
 
