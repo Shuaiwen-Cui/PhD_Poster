@@ -88,7 +88,34 @@ weekly / biweekly meeting
   - calculate num of parameters
 
 ### 🚀 Dec 14 - Weekly Meeting
-> GPR-SPC -  Remote Sensing
+> Xnode
+- Code Versions
+  - (1) Displacement Estimation & Live Streaming
+  - (2) Remote Sensing (no displacement estimation no 4G)
+  - (3) 4G
+- Connection Between Leaf Nodes and Gateway
+  - (1) version (1) OK (sometimes ok sometimes not)
+  - (2) version (2) OK (sometimes ok sometimes not)
+  - (3) version (3) ? (the log looks fine but never succeeded)
+- How to merge the features? - GPRSPC
+  - (1) Displacement Estimation
+  - (2) Data Retrieving 
+  - (3) 4G function to get temperature data
+- Currently Base Version - non disp est non 4G version
+  - Issue: the connection is not stable - sometimes no feedback
+- Work In Progress
+  - (1) Data Structure
+  - (2) Data to retrieve
+  - (3) Computing ~ Displacement Estimation Version V13
+    - max disp is calculated on leaf node
+    - only max disp is retrieved
+
+
+
+
+
+
+
 
 ### 🚀 Dec 14 - Tunnel Deployment Meeting
 > mqtt - paho
