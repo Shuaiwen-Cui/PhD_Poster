@@ -90,9 +90,9 @@ weekly / biweekly meeting
 ### 🚀 Dec 14 - Weekly Meeting
 > Xnode
 - Code Versions
-  - (1) Displacement Estimation & Live Streaming
-  - (2) Remote Sensing (no displacement estimation no 4G)
-  - (3) 4G
+  - (1) Displacement Estimation & Live Streaming (v13)
+  - (2) Remote Sensing (no displacement estimation no 4G) (v15)
+  - (3) 4G 
 - Connection Between Leaf Nodes and Gateway
   - (1) version (1) OK (sometimes ok sometimes not)
   - (2) version (2) OK (sometimes ok sometimes not)
@@ -120,6 +120,14 @@ weekly / biweekly meeting
 ### 🚀 Dec 14 - Tunnel Deployment Meeting
 > mqtt - paho
 
+### 🚀 Dec 15 - Meeting
+remote command
+CNN network
 
+to Dhruv
+
+> Share the C code ~ two weeks
+
+> CNN network
 
 
