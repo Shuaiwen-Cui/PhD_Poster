@@ -842,4 +842,8 @@ image - point cloud - bim
 ### 🚀 Dec 15
 
 ### 🚀 Dec 16
+
+### 🚀 Dec 17
+
+### 🚀 Dec 18 Mon
 > C Code to Dhruv
