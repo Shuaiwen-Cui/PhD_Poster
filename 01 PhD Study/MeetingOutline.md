@@ -110,13 +110,6 @@ weekly / biweekly meeting
     - max disp is calculated on leaf node
     - only max disp is retrieved
 
-
-
-
-
-
-
-
 ### 🚀 Dec 14 - Tunnel Deployment Meeting
 > mqtt - paho
 
@@ -129,5 +122,17 @@ to Dhruv
 > Share the C code ~ two weeks
 
 > CNN network
+
+### 🚀 Dec 21 - Tunnel Deployment Meeting
+> Test Log
+> 4G - OK
+> Synchronization OK
+> RemoteSensing - not OK
+> Check Status - not OK
+
+### 🚀 Dec 21 - Weekly Meeting
+
+Get Max Disp Data
+
 
 

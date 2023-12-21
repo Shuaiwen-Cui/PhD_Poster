@@ -850,12 +850,14 @@ image - point cloud - bim
 ### 🚀 Dec 19
 
 ### 🚀 Dec 20
-> C Code to Dhruv
-
-
-
-
+- 4G Version - OK - [✅]
+- Based on 4G version (Xnode-Cellular), Playground Code
 
 ### 🚀 Dec 21
+- compare the results
+- check with Tu / Kirill
 
-### 🚀 Dec 22 
+### 🚀 Dec 22
+- Meeting with Prof Fu - 2 pm
+
+> C Code to Dhruv
