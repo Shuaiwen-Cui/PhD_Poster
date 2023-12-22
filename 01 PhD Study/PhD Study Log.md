@@ -858,6 +858,7 @@ image - point cloud - bim
 - check with Tu / Kirill
 
 ### 🚀 Dec 22
-- Meeting with Prof Fu - 2 pm
+- Meeting with Prof Fu - 2 pm - [✅]
 
+### 🚀 Dec 23
 > C Code to Dhruv
