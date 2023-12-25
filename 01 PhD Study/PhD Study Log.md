@@ -861,4 +861,29 @@ image - point cloud - bim
 - Meeting with Prof Fu - 2 pm - [✅]
 
 ### 🚀 Dec 23
+
+### 🚀 Dec 24
+
+### 🚀 Dec 25  Mon
 > C Code to Dhruv
+- [] dnn / cnn on xnode
+- [] Remote Command
+- [] Disp Est
+- [] Paper - CH1
+- [] Paper - CH2
+
+### 🚀 Dec 26
+Edge Intelligence Meeting
+- [] Paper - CH3
+
+### 🚀 Dec 27
+- 4:30 pm - 5:30 pm - Meeting with Prof Fu - PROTECT
+- [] Paper - CH4
+
+### 🚀 Dec 28
+
+Weekly Meeting
+
+Tunnel Deployment Meeting
+- [] Paper - CH5
+

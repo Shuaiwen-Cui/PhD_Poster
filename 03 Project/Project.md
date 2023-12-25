@@ -33,9 +33,10 @@
 - The contact form part can be further refined.
 - QRCode
 
-# 🌐 [ Tech Blog - Stay Hungry (hosted on Github)]
-
+# 🌐 [ Tech Blog - Stay Hungry (hosted on Github)](Archived)
 Structure: Introduction / Mylist / Skillset / Research / DevEnv /Development / Project 
+
+# 🌐 [ Tech Blog - Infinity (hosted on Github and Cloud Server)]
 
 # 🎮 [ Digital Space ]
 
