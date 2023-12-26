@@ -869,23 +869,26 @@ image - point cloud - bim
 - [x] Paper - CH1
 
 ### 🚀 Dec 26
-- [ ] Paper - CH2
+- [x] Paper - CH2
+
+### 🚀 Dec 27
 > C Code to Dhruv
+
 - [ ] dnn / cnn on xnode
 - [ ] Remote Command
 - [ ] Disp Est
 
-Edge Intelligence Meeting - canceled
-- [ ] Paper - CH3
-
-### 🚀 Dec 27
 - 4:30 pm - 5:30 pm - Meeting with Prof Fu - PROTECT
-- [ ] Paper - CH4
+- slides for the workshop
 
 ### 🚀 Dec 28
 
 Weekly Meeting
 
 Tunnel Deployment Meeting
-- [ ] Paper - CH5
 
+Workshop 4 pm
+
+- [ ] Paper - CH3
+- [ ] Paper - CH4
+- [ ] Paper - CH5
