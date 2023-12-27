@@ -872,23 +872,50 @@ image - point cloud - bim
 - [x] Paper - CH2
 
 ### 🚀 Dec 27
-> C Code to Dhruv
+- [x] dnn review
+- [x] 4:30 pm - 5:30 pm - Meeting with Prof Fu - PROTECT
+- [x] slides for the workshop
 
-- [ ] dnn / cnn on xnode
-- [ ] Remote Command
-- [ ] Disp Est
-
-- 4:30 pm - 5:30 pm - Meeting with Prof Fu - PROTECT
-- slides for the workshop
+- [ ] verify the disp est algo
+- [ ] fetch the data back using remote command
 
 ### 🚀 Dec 28
-
-Weekly Meeting
-
-Tunnel Deployment Meeting
-
-Workshop 4 pm
-
+- [ ] Remote Command
+- [ ] Weekly Meeting
+- [ ] T unnel Deployment Meeting
+- [ ] Workshop 4 pm
+- [ ] C Code to Dhruv
+- [ ] Disp Est
 - [ ] Paper - CH3
 - [ ] Paper - CH4
 - [ ] Paper - CH5
+
+### 🚀 Dec 29
+
+### 🚀 Dec 30
+
+### 🚀 Dec 31
+
+## 1️⃣ January
+
+### 🚀 Jan 01
+
+### 🚀 Jan 15
+- [ ] PROTECT - Abstract Submission
+
+## 2️⃣ February
+
+## 3️⃣ March
+
+### 🚀 Mar 01
+- [ ] PROTECT - Extended Abstract Submission
+
+## 4️⃣ April
+
+## 5️⃣ May
+
+## 6️⃣ June
+
+## 7️⃣ July
+
+
