@@ -876,10 +876,9 @@ image - point cloud - bim
 - [x] 4:30 pm - 5:30 pm - Meeting with Prof Fu - PROTECT
 - [x] slides for the workshop
 
+### 🚀 Dec 28
 - [ ] verify the disp est algo
 - [ ] fetch the data back using remote command
-
-### 🚀 Dec 28
 - [ ] Remote Command
 - [ ] Weekly Meeting
 - [ ] T unnel Deployment Meeting
