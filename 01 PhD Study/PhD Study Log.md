@@ -877,15 +877,18 @@ image - point cloud - bim
 - [x] slides for the workshop
 
 ### 🚀 Dec 28
+
+- [x] Weekly Meeting
+- [ ] Tunnel Deployment Meeting
+- [ ] Workshop 4 pm
+- [ ] Paper - CH3
+
 - [ ] verify the disp est algo
 - [ ] fetch the data back using remote command
 - [ ] Remote Command
-- [ ] Weekly Meeting
-- [ ] T unnel Deployment Meeting
-- [ ] Workshop 4 pm
 - [ ] C Code to Dhruv
 - [ ] Disp Est
-- [ ] Paper - CH3
+
 - [ ] Paper - CH4
 - [ ] Paper - CH5
 
@@ -898,6 +901,9 @@ image - point cloud - bim
 ## 1️⃣ January
 
 ### 🚀 Jan 01
+
+### 🚀 Jan 02
+- [ ] 10 am - 11 am - Meeting with Prof Fu
 
 ### 🚀 Jan 15
 - [ ] PROTECT - Abstract Submission
