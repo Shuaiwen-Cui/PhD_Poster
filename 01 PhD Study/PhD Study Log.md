@@ -879,8 +879,12 @@ image - point cloud - bim
 ### 🚀 Dec 28
 
 - [x] Weekly Meeting
-- [ ] Tunnel Deployment Meeting
-- [ ] Workshop 4 pm
+- [x] Tunnel Deployment Meeting
+- [x] Workshop 4 pm
+
+### 🚀 Dec 29
+
+### 🚀 Dec 30
 - [ ] Paper - CH3
 
 - [ ] verify the disp est algo
@@ -892,9 +896,7 @@ image - point cloud - bim
 - [ ] Paper - CH4
 - [ ] Paper - CH5
 
-### 🚀 Dec 29
 
-### 🚀 Dec 30
 
 ### 🚀 Dec 31
 
