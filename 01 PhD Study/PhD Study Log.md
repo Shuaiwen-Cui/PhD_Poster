@@ -896,8 +896,6 @@ image - point cloud - bim
 - [ ] Paper - CH4
 - [ ] Paper - CH5
 
-
-
 ### 🚀 Dec 31
 
 ## 1️⃣ January
