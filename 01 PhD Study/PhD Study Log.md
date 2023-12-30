@@ -885,6 +885,12 @@ image - point cloud - bim
 ### 🚀 Dec 29
 
 ### 🚀 Dec 30
+
+### 🚀 Dec 31
+
+Rest
+
+## 1️⃣ January
 - [ ] Paper - CH3
 
 - [ ] verify the disp est algo
@@ -895,13 +901,6 @@ image - point cloud - bim
 
 - [ ] Paper - CH4
 - [ ] Paper - CH5
-
-
-
-### 🚀 Dec 31
-
-## 1️⃣ January
-
 ### 🚀 Jan 01
 
 ### 🚀 Jan 02
