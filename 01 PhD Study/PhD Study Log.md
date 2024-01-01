@@ -891,6 +891,10 @@ image - point cloud - bim
 Rest
 
 ## 1️⃣ January
+
+### 🚀 Jan 01
+
+
 - [ ] Paper - CH3
 
 - [ ] verify the disp est algo
@@ -901,8 +905,6 @@ Rest
 
 - [ ] Paper - CH4
 - [ ] Paper - CH5
-### 🚀 Jan 01
-
 ### 🚀 Jan 02
 - [ ] 10 am - 11 am - Meeting with Prof Fu
 
