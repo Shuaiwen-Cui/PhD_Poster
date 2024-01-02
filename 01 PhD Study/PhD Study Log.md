@@ -894,19 +894,22 @@ Rest
 
 ### 🚀 Jan 01
 
+### 🚀 Jan 02
+- [x] 10 am - 11 am - Meeting with Prof Fu
+- [x] Dhruv - C Code - Xnode
+
+### 🚀 Jan 02
+- [ ] Algo Validation - Xnode - Xnode Acc + Matlab Estimation
 
 - [ ] Paper - CH3
 
 - [ ] verify the disp est algo
 - [ ] fetch the data back using remote command
 - [ ] Remote Command
-- [ ] C Code to Dhruv
 - [ ] Disp Est
 
 - [ ] Paper - CH4
 - [ ] Paper - CH5
-### 🚀 Jan 02
-- [ ] 10 am - 11 am - Meeting with Prof Fu
 
 ### 🚀 Jan 15
 - [ ] PROTECT - Abstract Submission
