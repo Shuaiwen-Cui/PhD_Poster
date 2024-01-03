@@ -897,8 +897,12 @@ Rest
 ### 🚀 Jan 02
 - [x] 10 am - 11 am - Meeting with Prof Fu
 - [x] Dhruv - C Code - Xnode
+DSP Study
 
-### 🚀 Jan 02
+### 🚀 Jan 03
+ROS study, official guide
+
+### 🚀 Jan 04
 - [ ] Algo Validation - Xnode - Xnode Acc + Matlab Estimation
 
 - [ ] Paper - CH3
