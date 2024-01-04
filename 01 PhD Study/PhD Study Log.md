@@ -888,8 +888,6 @@ image - point cloud - bim
 
 ### 🚀 Dec 31
 
-Rest
-
 ## 1️⃣ January
 
 ### 🚀 Jan 01
@@ -914,17 +912,6 @@ ROS study, official guide
 
 - [ ] Paper - CH4
 - [ ] Paper - CH5
-
-
-
-### 🚀 Dec 31
-
-## 1️⃣ January
-
-### 🚀 Jan 01
-
-### 🚀 Jan 02
-- [ ] 10 am - 11 am - Meeting with Prof Fu
 
 ### 🚀 Jan 15
 - [ ] PROTECT - Abstract Submission
