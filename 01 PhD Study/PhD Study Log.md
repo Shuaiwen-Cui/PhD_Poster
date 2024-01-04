@@ -901,6 +901,9 @@ DSP Study
 ROS study, official guide
 
 ### 🚀 Jan 04
+- [x] Keil Get Started
+
+### 🚀 Jan 05
 - [ ] Algo Validation - Xnode - Xnode Acc + Matlab Estimation
 
 - [ ] Paper - CH3
