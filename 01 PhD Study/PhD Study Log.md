@@ -902,8 +902,26 @@ ROS study, official guide
 
 ### 🚀 Jan 04
 - [x] Keil Get Started
+  - [x] MDK Introduction
+  - [x] CMSIS
+- [x] C Language CH03 - Flow Control
 
 ### 🚀 Jan 05
+- [x] Keil Get Started 
+  - [x] Software Components
+  - [x] Create App
+
+- Paper Review + Embedded Architecture - Hardware Level
+
+### 🚀 Jan 06
+
+- [ ] Keil5 Chinese Manual
+- [ ] Keil4 Official Manual
+- [ ] Keil5 Official Manual
+
+
+
+
 - [ ] Algo Validation - Xnode - Xnode Acc + Matlab Estimation
 
 - [ ] Paper - CH3
