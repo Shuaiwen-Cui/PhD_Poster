@@ -913,14 +913,16 @@ ROS study, official guide
 
 ### 🚀 Jan 06
 - [x] Keil4 Official Manual
-- [ ] Algo Validation - Xnode - Xnode Acc + Matlab Estimation
-- [ ] verify the disp est algo
-- [ ] fetch the data back using remote command
-- [ ] Remote Command
-- [ ] Disp Est
-
+- [x] Algo Validation - Xnode - Xnode Acc + Matlab Estimation
+  - the detrend function to be added
+  - the coefficient to be multiplied
+  - high pass and low pass filter to be added
+- [x] verify the disp est algo
 
 ### 🚀 Jan 07
+- [ ] fetch the data back using remote command
+- [ ] Remote Command
+
 
 ### 🚀 Jan 08 Mon
 - [] Edge Intelligence - Weekly Meeting
