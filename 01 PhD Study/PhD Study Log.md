@@ -911,28 +911,37 @@ ROS study, official guide
   - [x] Software Components
   - [x] Create App
 
-- Paper Review + Embedded Architecture - Hardware Level
-
 ### 🚀 Jan 06
-
-- [ ] Keil5 Chinese Manual
-- [ ] Keil4 Official Manual
-- [ ] Keil5 Official Manual
-
-
-
-
+- [x] Keil4 Official Manual
 - [ ] Algo Validation - Xnode - Xnode Acc + Matlab Estimation
-
-- [ ] Paper - CH3
-
 - [ ] verify the disp est algo
 - [ ] fetch the data back using remote command
 - [ ] Remote Command
 - [ ] Disp Est
 
-- [ ] Paper - CH4
-- [ ] Paper - CH5
+
+### 🚀 Jan 07
+
+### 🚀 Jan 08 Mon
+- [] Edge Intelligence - Weekly Meeting
+
+- Paper Review + Embedded Architecture - Hardware Level
+
+### 🚀 Jan 09
+- [ ] Email Prof Fu -  Not able to attend the Sensor Prototype Meeting
+- [ ] Live Streaming Walk Through - EG0001 & EG1001 - report to CEE Undergraduate’s office at **9:30 am**
+
+
+### 🚀 Jan 10
+
+### 🚀 Jan 11
+
+### 🚀 Jan 12
+
+### 🚀 Jan 13
+
+### 🚀 Jan 14
+
 
 ### 🚀 Jan 15
 - [ ] PROTECT - Abstract Submission
