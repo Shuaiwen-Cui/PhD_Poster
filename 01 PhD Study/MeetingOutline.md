@@ -138,3 +138,9 @@ Get Max Disp Data
 
 ### 🚀 Dec 28 - Tunnel Deployment Meeting
 
+## 2️⃣0️⃣2️⃣4️⃣ January
+
+### 🚀 Jan 08 - Weekly Meeting
+- [ ] 0 displacement
+- [ ] Data Transmission
+

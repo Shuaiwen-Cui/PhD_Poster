@@ -920,7 +920,12 @@ ROS study, official guide
 - [x] verify the disp est algo
 
 ### 🚀 Jan 07
-- [ ] fetch the data back using remote command
+- [x] print the displacement estimation results
+  - all zero ?
+  - transimission error ?
+- [x] fetch the data back using remote command
+- [ ] load the data into the GPR process
+- [ ] modify the GPR process for better performance
 - [ ] Remote Command
 
 
