@@ -924,20 +924,22 @@ ROS study, official guide
   - all zero ?
   - transimission error ?
 - [x] fetch the data back using remote command
+
+### 🚀 Jan 08 Mon
+- [x] Edge Intelligence - Weekly Meeting
+- [x] Email Prof Fu -  Not able to attend the Sensor Prototype Meeting
+- [x] Talk with Dr Shen for WT-ICA-VMD deployment on Xnode
+### 🚀 Jan 09
+- [ ] **Live Streaming Walk Through** - EG0001 & EG1001 - report to CEE Undergraduate’s office at **9:30 am**
+
+- [ ] Unit Test
+- [ ] Abstract & Registration (conference & competition)
+
 - [ ] load the data into the GPR process
 - [ ] modify the GPR process for better performance
 - [ ] Remote Command
 
-
-### 🚀 Jan 08 Mon
-- [] Edge Intelligence - Weekly Meeting
-
 - Paper Review + Embedded Architecture - Hardware Level
-
-### 🚀 Jan 09
-- [ ] Email Prof Fu -  Not able to attend the Sensor Prototype Meeting
-- [ ] Live Streaming Walk Through - EG0001 & EG1001 - report to CEE Undergraduate’s office at **9:30 am**
-
 
 ### 🚀 Jan 10
 

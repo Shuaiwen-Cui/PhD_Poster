@@ -141,6 +141,33 @@ Get Max Disp Data
 ## 2️⃣0️⃣2️⃣4️⃣ January
 
 ### 🚀 Jan 08 - Weekly Meeting
-- [ ] 0 displacement
-- [ ] Data Transmission
+> Tried to print out the displacement, not succeeded
+- Leaf Node Issues
+  - [ ] The displacement values are all zero
+  - [ ] zero gap between two numbers
+  - [ ] not enough print line length: currently 120
+  - [ ] spikes: not sure reason
+- Transmission Issues
+  - [ ] Received data inconsistent with the sent data
+    - [ ] zero gap
+    - [ ] spikes
+
+> Matlab Code Check
+- [ ] Detrend - Slope & Offset
+- [ ] Scale Factor - 1/fs^2
+
+> Displacement Estimation Evaluation
+- [ ] Removed the displacement printout & Only use the max displacement for checking
+- [ ] On Xnode, the scale factor is applied (fs^2) 
+- [ ] Detrending is not applied yet
+
+> Takeaway
+1. Unit Test
+2. Two Days
+
+### Meeting With Tu & Kirill
+CMSIS 5? 
+DSP Functions
+
+
 
