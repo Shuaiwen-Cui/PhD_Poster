@@ -929,19 +929,37 @@ ROS study, official guide
 - [x] Edge Intelligence - Weekly Meeting
 - [x] Email Prof Fu -  Not able to attend the Sensor Prototype Meeting
 - [x] Talk with Dr Shen for WT-ICA-VMD deployment on Xnode
+
 ### 🚀 Jan 09
-- [ ] **Live Streaming Walk Through** - EG0001 & EG1001 - report to CEE Undergraduate’s office at **9:30 am**
+- [x] **Live Streaming Walk Through** - EG0001 & EG1001 - report to CEE Undergraduate’s office at **9:30 am**
+  - Check Device
+  - Login to the system
+    - .\professor
+    - ntuprof88
+  - Login to Teams
+    - NTU account
+  - Photos: beginning, during, end
 
 - [ ] Unit Test
-- [ ] Abstract & Registration (conference & competition)
+  - [ ] Acc Collection
+  - [ ] Filter for Displacement Estimation
+  - [ ] Store the Data in the memory
+  - [ ] Data Transmission
+  - [ ] Print Out the Data
+
 
 - [ ] load the data into the GPR process
 - [ ] modify the GPR process for better performance
 - [ ] Remote Command
-
+- [ ] Abstract & Registration (conference & competition)
 - Paper Review + Embedded Architecture - Hardware Level
 
 ### 🚀 Jan 10
+- [x] Meeting with Prof Fu - 9:30 am
+- [ ] Summarize the questions for Kirill and Tu
+
+- [ ] Abstract - PROTECT
+- [ ] Registration - PROTECT
 
 ### 🚀 Jan 11
 

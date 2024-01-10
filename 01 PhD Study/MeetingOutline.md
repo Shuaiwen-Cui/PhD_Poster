@@ -166,6 +166,26 @@ Get Max Disp Data
 2. Two Days
 
 ### Meeting With Tu & Kirill
+
+slides to show the progress
+
+>I GPR SPC
+- [ ] MATLAB results VS Xnode results - inconsistent
+  - filter - the same
+  - scale ?
+  - drift ?
+- [ ] Remote Command
+- [ ] 4G function transplant 
+
+>II Edge Intelligence
+- Keil 5?
+- CMSIS 5?
+- how to add new lib?
+- all declaration must before execution - example load data from csv, with no dim info, how to determine the size  of the array?
+
+
+
+
 CMSIS 5? 
 DSP Functions
 
