@@ -176,18 +176,60 @@ slides to show the progress
   - drift ?
 - [ ] Remote Command
 - [ ] 4G function transplant 
+- [ ] add disp to existing structure
 
 >II Edge Intelligence
 - Keil 5?
 - CMSIS 5?
-- how to add new lib?
+- how to add/update new lib?
 - all declaration must before execution - example load data from csv, with no dim info, how to determine the size  of the array?
 
-
+>WT-ICA-VMD
+CMSIS DSP advanced functions?
 
 
 CMSIS 5? 
 DSP Functions
 
+### 🚀 Jan 12 - Meeting for Xnode Dev
 
+#### Info
+Time: 12 Jan 2021, 11:00 - 12:00, Singapore Time
+Attendees: Prof Fu, Dr Tu Hoang, Dr Krill Mechitov, Me.
+Meeting Link: https://ntu-sg.zoom.us/j/2222519483?pwd=bTJzVmltZlBndlk1emtsZVdtMWdqUT09
+Meeting ID: 2222519483
+Passcode: 996878
+
+#### Agenda - Question List
+
+##### For General Purpose Development
+- Developer Documentation? Other references?
+- IDE
+  - KEIL MDK 5 ? (looks more convenient to import new libs)
+  - VSCode? (copilot + git)
+- CMSIS LIB
+  - Current Version - CMSIS 4, anyway to update to CMSIS 5?
+  - Influence on existing code?
+- Desirable Features Scattered in Different Versions
+  - Live Streaming
+  - Radio Test
+  - Remote Sensing *
+  - Cellular Network
+
+##### For Project Oriented Development - GPR SPC
+> Disp Estimation
+
+> Data Retrieving
+
+> GPR Computing
+
+##### For Project Oriented Development - Sudden Damage Detection
+> Transformations
+- Discrete Wavelet Transform (DWT)
+- Independent Component Analysis (ICA)
+- Variational Mode Decomposition (VMD)
+
+- No off-the-shelf lib for DWT, ICA, VMD
+
+> Large Volume Data Processing
 

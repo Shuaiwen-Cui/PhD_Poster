@@ -63,6 +63,11 @@ This file is for PhD study plan and progress log.
         - time 0.5 hr
 
 - AY23/24 S2
+  - Teaching Assistance
+    - Live Streaming
+      - [1] EG0001 & EG1001 - Prof Lum Kit Meng - Endorsed by Ong Shu Wen - [ ]
+        - 1 walk through - 1 hr - [✅]
+        - week 1 - 2 hrs - [ ]
 
 - AY24/25 S1
 
@@ -94,6 +99,14 @@ This file is for PhD study plan and progress log.
 > Material Lab - [✅]
 
 > PE CT to be done if required
+
+## 1.6 3MT
+
+
+
+
+
+
 
 # 📚 II Coursework
 ## 2.1 Necessary
@@ -128,8 +141,8 @@ This file is for PhD study plan and progress log.
     - 2.1 Data Infrastructure Architecture - [✅]
     - 2.2 Perception - [✅]
     - 2.3 Actuation - [✅]
-    - 2.4 Network and Communication
-    - 2.5 Computing and Cognition
+    - 2.4 Network and Communication - [✅]
+    - 2.5 Computing and Cognition - [✅]
   - View 1
   - View 2
   - VIew 3
@@ -956,14 +969,23 @@ ROS study, official guide
 
 ### 🚀 Jan 10
 - [x] Meeting with Prof Fu - 9:30 am
-- [ ] Summarize the questions for Kirill and Tu
 
-- [ ] Abstract - PROTECT
-- [ ] Registration - PROTECT
 
 ### 🚀 Jan 11
+- [ ] Xnode Function Reorganize
+- [ ] Summarize the questions for Kirill and Tu
+
 
 ### 🚀 Jan 12
+- [ ] Meeting
+  Time: 12 Jan 2021, 11:00 - 12:00, Singapore Time
+  Attendees: Prof Fu, Dr Tu Hoang, Dr Krill Mechitov, Me.
+  Meeting Link: https://ntu-sg.zoom.us/j/2222519483?pwd=bTJzVmltZlBndlk1emtsZVdtMWdqUT09
+  Meeting ID: 2222519483
+  Passcode: 996878  
+
+- [ ] Registration - PROTECT
+- [ ] Abstract - PROTECT
 
 ### 🚀 Jan 13
 
