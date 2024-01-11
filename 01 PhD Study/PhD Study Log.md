@@ -972,11 +972,12 @@ ROS study, official guide
 
 
 ### 🚀 Jan 11
-- [ ] Xnode Function Reorganize
-- [ ] Summarize the questions for Kirill and Tu
+- [x] Xnode Function Reorganize
+- [x] Summarize the questions for Kirill and Tu
 
 
 ### 🚀 Jan 12
+- [ ] Changi Airport
 - [ ] Meeting
   Time: 12 Jan 2021, 11:00 - 12:00, Singapore Time
   Attendees: Prof Fu, Dr Tu Hoang, Dr Krill Mechitov, Me.
@@ -986,11 +987,11 @@ ROS study, official guide
 
 - [ ] Registration - PROTECT
 - [ ] Abstract - PROTECT
+- [ ] 2:30 Course Registration
 
 ### 🚀 Jan 13
 
 ### 🚀 Jan 14
-
 
 ### 🚀 Jan 15
 - [ ] PROTECT - Abstract Submission
