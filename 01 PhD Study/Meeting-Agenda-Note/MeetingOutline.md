@@ -246,3 +246,5 @@ average peak
 send code to Tu
 
 send src code to Tu
+
+import lib to Keil, into installation directory, replace. lib / header file
