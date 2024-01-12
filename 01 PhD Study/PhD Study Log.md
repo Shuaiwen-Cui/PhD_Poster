@@ -977,8 +977,8 @@ ROS study, official guide
 
 
 ### 🚀 Jan 12
-- [ ] Changi Airport
-- [ ] Meeting
+- [x] Changi Airport
+- [x] Meeting
   Time: 12 Jan 2021, 11:00 - 12:00, Singapore Time
   Attendees: Prof Fu, Dr Tu Hoang, Dr Krill Mechitov, Me.
   Meeting Link: https://ntu-sg.zoom.us/j/2222519483?pwd=bTJzVmltZlBndlk1emtsZVdtMWdqUT09

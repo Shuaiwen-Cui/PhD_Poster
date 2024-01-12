@@ -233,3 +233,16 @@ Passcode: 996878
 
 > Large Volume Data Processing
 
+##### takeaway
+
+filter - blockwise
+
+remote command - utils.c
+
+merge functions - 4G based /  add 4G to v15
+
+average peak
+
+send code to Tu
+
+send src code to Tu
