@@ -985,7 +985,7 @@ ROS study, official guide
   Meeting ID: 2222519483
   Passcode: 996878  
 
-- [ ] Registration - PROTECT
+- [x] Registration - PROTECT
 - [ ] Abstract - PROTECT
 - [ ] 2:30 Course Registration
 
