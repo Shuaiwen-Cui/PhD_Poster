@@ -975,7 +975,6 @@ ROS study, official guide
 - [x] Xnode Function Reorganize
 - [x] Summarize the questions for Kirill and Tu
 
-
 ### 🚀 Jan 12
 - [x] Changi Airport
 - [x] Meeting
@@ -984,19 +983,58 @@ ROS study, official guide
   Meeting Link: https://ntu-sg.zoom.us/j/2222519483?pwd=bTJzVmltZlBndlk1emtsZVdtMWdqUT09
   Meeting ID: 2222519483
   Passcode: 996878  
-
-- [x] Registration - PROTECT
-- [ ] Abstract - PROTECT
-- [ ] 2:30 Course Registration
+- [x] 2:30 Course Registration
 
 ### 🚀 Jan 13
 
 ### 🚀 Jan 14
+- [x] Abstract - PROTECT
+- [ ] Abstract - Submission
+- [ ] Registration - PROTECT
 
-### 🚀 Jan 15
-- [ ] PROTECT - Abstract Submission
+
+### 🚀 Jan 15 Mon
+- [ ] 9:30 am - 11:00 am - @ Online - Weekly Meeting
+- [ ] Abstract Submission & Conference Registration
+- [ ] 2:00 pm @ Material Lab - Meeting with Dhruv & Fu Hao
+
+### 🚀 Jan 16 
+- [ ] 9:30 am - 10:30 am @ Online - Sensor Prototyping Meeting
+
+### 🚀 Jan 17
+- [ ] 4:00 pm - 7:00 pm @ N4.1 - B2-02 - Communication Course
+
+### 🚀 Jan 18
+- [ ] 8:30 am - 10:30 am @ LT1 - Live Streaming Week 1
+
+### 🚀 Jan 19
+
+### 🚀 Jan 20
+
+### 🚀 Jan 21
+
+### 🚀 Jan 22 Mon
+
+### 🚀 Jan 23
+
+### 🚀 Jan 24
+
+### 🚀 Jan 25
+
+### 🚀 Jan 26
+
+### 🚀 Jan 27
+
+### 🚀 Jan 28
+
+### 🚀 Jan 29 Mon
+
+### 🚀 Jan 30
+
+### 🚀 Jan 31
 
 ## 2️⃣ February
+
 
 ## 3️⃣ March
 
