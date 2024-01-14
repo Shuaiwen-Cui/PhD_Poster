@@ -989,13 +989,11 @@ ROS study, official guide
 
 ### 🚀 Jan 14
 - [x] Abstract - PROTECT
-- [ ] Abstract - Submission
-- [ ] Registration - PROTECT
-
 
 ### 🚀 Jan 15 Mon
 - [ ] 9:30 am - 11:00 am - @ Online - Weekly Meeting
 - [ ] Abstract Submission & Conference Registration
+- [ ] Student Competition Abstract Submission & Registration
 - [ ] 2:00 pm @ Material Lab - Meeting with Dhruv & Fu Hao
 
 ### 🚀 Jan 16 
