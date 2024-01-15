@@ -953,23 +953,11 @@ ROS study, official guide
     - NTU account
   - Photos: beginning, during, end
 
-- [ ] Unit Test
-  - [ ] Acc Collection
-  - [ ] Filter for Displacement Estimation
-  - [ ] Store the Data in the memory
-  - [ ] Data Transmission
-  - [ ] Print Out the Data
-
-
-- [ ] load the data into the GPR process
-- [ ] modify the GPR process for better performance
-- [ ] Remote Command
-- [ ] Abstract & Registration (conference & competition)
+- [x] Abstract & Registration (conference & competition)
 - Paper Review + Embedded Architecture - Hardware Level
 
 ### 🚀 Jan 10
 - [x] Meeting with Prof Fu - 9:30 am
-
 
 ### 🚀 Jan 11
 - [x] Xnode Function Reorganize
@@ -992,12 +980,15 @@ ROS study, official guide
 
 ### 🚀 Jan 15 Mon
 - [x] 9:30 am - 11:00 am - @ Online - Weekly Meeting
-- [ ] Abstract Submission & Conference Registration
-- [ ] Student Competition Abstract Submission & Registration
-- [ ] 2:00 pm @ Material Lab - Meeting with Dhruv & Fu Hao
+- [x] Abstract Submission
+- [x] Conference Registration
+- [x] 2:00 pm @ Material Lab - Meeting with Dhruv & Fu Hao
 
 ### 🚀 Jan 16 
 - [ ] 9:30 am - 10:30 am @ Online - Sensor Prototyping Meeting
+- [ ] load the data into the GPR process
+- [ ] modify the GPR process for better performance
+- [ ] Remote Command
 
 ### 🚀 Jan 17
 - [ ] 4:00 pm - 7:00 pm @ N4.1 - B2-02 - Communication Course
@@ -1033,18 +1024,65 @@ ROS study, official guide
 
 ## 2️⃣ February
 
+### 🚀 Feb 01
+- [] PROTECT2024 Notification - Abstract Acceptance Notification
+
+### 🚀 Feb 02
+
+### 🚀 Feb 03
+
+### 🚀 Feb 04
+
+### 🚀 Feb 05 Mon
+
+### 🚀 Feb 06
+
+### 🚀 Feb 07
+
+### 🚀 Feb 08
+
+### 🚀 Feb 09
+
+### 🚀 Feb 10
+
+### 🚀 Feb 11
 
 ## 3️⃣ March
 
 ### 🚀 Mar 01
-- [ ] PROTECT - Extended Abstract Submission
+- [ ] PROTECT - Extended Abstract Submission - for Student Competition (at least 3 pgs)
+- [ ] PROTECT - Full Paper Submission - for Conference (8-10 pgs)
+
+### 🚀 Mar 15
+
+
 
 ## 4️⃣ April
 
+### 🚀 Apr 15
+- [ ] PROTECT - Notification of Acceptance - Full Paper
+
+
+
 ## 5️⃣ May
+### 🚀 May 15
+- [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
+
 
 ## 6️⃣ June
 
 ## 7️⃣ July
 
+# 📅 AY24/25
+
+## 8️⃣ August
+
+### 🚀 Aug 14
+- [] PROTECT 2024
+
+### 🚀 Aug 15
+- [] PROTECT 2024
+
+### 🚀 Aug 16
+- [] PROTECT 2024
 
