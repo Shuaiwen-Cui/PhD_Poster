@@ -985,10 +985,11 @@ ROS study, official guide
 - [x] 2:00 pm @ Material Lab - Meeting with Dhruv & Fu Hao
 
 ### 🚀 Jan 16 
-- [ ] 9:30 am - 10:30 am @ Online - Sensor Prototyping Meeting
+- [x] 9:30 am - 10:30 am @ Online - Sensor Prototyping Meeting
 - [ ] load the data into the GPR process
 - [ ] modify the GPR process for better performance
 - [ ] Remote Command
+- [ ] STM32F746G-DISCO - Keil5/STM32CubeIDE - Get Started
 
 ### 🚀 Jan 17
 - [ ] 4:00 pm - 7:00 pm @ N4.1 - B2-02 - Communication Course
