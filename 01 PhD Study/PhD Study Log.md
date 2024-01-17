@@ -986,12 +986,14 @@ ROS study, official guide
 
 ### 🚀 Jan 16 
 - [x] 9:30 am - 10:30 am @ Online - Sensor Prototyping Meeting
-- [ ] load the data into the GPR process
-- [ ] modify the GPR process for better performance
-- [ ] Remote Command
+- [x] 3:00 pm - 4:00 pm @ Mat Lab with Dhruv
+- [x] blockwise filtering implementation - finished. Still cannot match the results from Matlab.
 - [ ] STM32F746G-DISCO - Keil5/STM32CubeIDE - Get Started
 
 ### 🚀 Jan 17
+- [ ] Remote Command
+- [ ] load the data into the GPR process
+- [ ] modify the GPR process for better performance
 - [ ] 4:00 pm - 7:00 pm @ N4.1 - B2-02 - Communication Course
 
 ### 🚀 Jan 18
