@@ -945,6 +945,7 @@ ROS study, official guide
 
 ### 🚀 Jan 09
 - [x] **Live Streaming Walk Through** - EG0001 & EG1001 - report to CEE Undergraduate’s office at **9:30 am**
+  - Venue: LT4
   - Check Device
   - Login to the system
     - .\professor
@@ -988,16 +989,16 @@ ROS study, official guide
 - [x] 9:30 am - 10:30 am @ Online - Sensor Prototyping Meeting
 - [x] 3:00 pm - 4:00 pm @ Mat Lab with Dhruv
 - [x] blockwise filtering implementation - finished. Still cannot match the results from Matlab.
-- [ ] STM32F746G-DISCO - Keil5/STM32CubeIDE - Get Started
 
 ### 🚀 Jan 17
+- [x] STM32F746G-DISCO - Keil5/STM32CubeIDE - Get Started
+- [x] 4:00 pm - 7:00 pm @ N4.1 - B2-02 - Communication Course
 - [ ] Remote Command
 - [ ] load the data into the GPR process
-- [ ] modify the GPR process for better performance
-- [ ] 4:00 pm - 7:00 pm @ N4.1 - B2-02 - Communication Course
+- [ ] modify the GPR process for better performance 
 
 ### 🚀 Jan 18
-- [ ] 8:30 am - 10:30 am @ LT1 - Live Streaming Week 1
+- [ ] 8:30 am - 10:30 am @ LT4 - Live Streaming Week 1  
 
 ### 🚀 Jan 19
 
