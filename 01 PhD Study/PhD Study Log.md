@@ -993,14 +993,18 @@ ROS study, official guide
 ### 🚀 Jan 17
 - [x] STM32F746G-DISCO - Keil5/STM32CubeIDE - Get Started
 - [x] 4:00 pm - 7:00 pm @ N4.1 - B2-02 - Communication Course
+
+
+### 🚀 Jan 18
+- [x] 8:30 am - 10:30 am @ LT4 - Live Streaming Week 1  
+
+
+
+### 🚀 Jan 19
+- [ ] Tu
 - [ ] Remote Command
 - [ ] load the data into the GPR process
 - [ ] modify the GPR process for better performance 
-
-### 🚀 Jan 18
-- [ ] 8:30 am - 10:30 am @ LT4 - Live Streaming Week 1  
-
-### 🚀 Jan 19
 
 ### 🚀 Jan 20
 
