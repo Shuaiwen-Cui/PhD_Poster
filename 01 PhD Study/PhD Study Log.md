@@ -999,14 +999,16 @@ ROS study, official guide
 - [x] 8:30 am - 10:30 am @ LT4 - Live Streaming Week 1  
 
 
-
 ### 🚀 Jan 19
+- [x] Meeting with Dhruv
+
+### 🚀 Jan 20
 - [ ] Tu
 - [ ] Remote Command
 - [ ] load the data into the GPR process
 - [ ] modify the GPR process for better performance 
 
-### 🚀 Jan 20
+- [ ] Liu
 
 ### 🚀 Jan 21
 
