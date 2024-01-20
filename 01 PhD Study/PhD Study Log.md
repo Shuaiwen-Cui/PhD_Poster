@@ -994,17 +994,18 @@ ROS study, official guide
 - [x] STM32F746G-DISCO - Keil5/STM32CubeIDE - Get Started
 - [x] 4:00 pm - 7:00 pm @ N4.1 - B2-02 - Communication Course
 
-
 ### 🚀 Jan 18
 - [x] 8:30 am - 10:30 am @ LT4 - Live Streaming Week 1  
-
-
+- [x] RustDesk Self-host Server
 
 ### 🚀 Jan 19
+- [ ] Dhruv
+- [ ] Haircut
+- [ ] L
 - [ ] Tu
 - [ ] Remote Command
 - [ ] load the data into the GPR process
-- [ ] modify the GPR process for better performance 
+- [ ] modify the GPR process for better performance
 
 ### 🚀 Jan 20
 
