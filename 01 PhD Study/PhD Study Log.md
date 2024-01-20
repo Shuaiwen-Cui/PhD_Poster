@@ -1002,6 +1002,7 @@ ROS study, official guide
 - [x] Meeting with Dhruv
 
 ### 🚀 Jan 20
+
 - [ ] Tu
 - [ ] Remote Command
 - [ ] load the data into the GPR process
