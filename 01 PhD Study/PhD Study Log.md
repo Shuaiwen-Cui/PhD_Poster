@@ -999,15 +999,15 @@ ROS study, official guide
 - [x] RustDesk Self-host Server
 
 ### 🚀 Jan 19
-- [ ] Dhruv
-- [ ] Haircut
-- [ ] L
+- [x] Meeting with Dhruv
+
+### 🚀 Jan 20
 - [ ] Tu
 - [ ] Remote Command
 - [ ] load the data into the GPR process
 - [ ] modify the GPR process for better performance
 
-### 🚀 Jan 20
+- [ ] Liu
 
 ### 🚀 Jan 21
 
