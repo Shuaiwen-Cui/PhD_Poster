@@ -1002,16 +1002,17 @@ ROS study, official guide
 - [x] Meeting with Dhruv
 
 ### 🚀 Jan 20
+- [x] Code Comments Translation -> Dhruv
+- [ ] SMT32H7IIT Test
+- [ ] Remote Command 
 
+### 🚀 Jan 21
 - [ ] Tu
 - [ ] Remote Command
 - [ ] load the data into the GPR process
 - [ ] modify the GPR process for better performance
 
 - [ ] Liu
-
-### 🚀 Jan 21
-
 ### 🚀 Jan 22 Mon
 
 ### 🚀 Jan 23
