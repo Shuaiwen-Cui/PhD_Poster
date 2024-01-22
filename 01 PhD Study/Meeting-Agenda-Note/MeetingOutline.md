@@ -248,3 +248,27 @@ send code to Tu
 send src code to Tu
 
 import lib to Keil, into installation directory, replace. lib / header file
+
+### 🚀 Jan 22 - Weekly Meeting
+
+Since Last Friday
+
+> Meeting with Dhruv - NN implementation on Xnode for anomaly detection
+
+> NN
+- Fu Hao's Code - comments -> english -> Dhruv
+
+> Environment Setup for STM32 
+
+- HW: STM32 
+- SW: STM32CubeMX + Keil MDK 5
+
+> Disp Estimation - Blockwise -> Tu
+
+> Remote Command
+- follow utility.c first to check acknowledgement
+- then do disp retrieve implementation
+
+
+
+

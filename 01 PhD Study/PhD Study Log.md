@@ -1002,22 +1002,30 @@ ROS study, official guide
 - [x] Meeting with Dhruv
 
 ### 🚀 Jan 20
-- [x] Code Comments Translation -> Dhruv
-- [ ] SMT32H7IIT Test
-- [ ] Remote Command 
+- [x] SMT32H7IIT Test
 
 ### 🚀 Jan 21
-- [ ] Tu
+- [x] Code Comments Translation -> Dhruv
+
+### 🚀 Jan 22 Mon
+- [x] Meeting Preparation
+  - [x] Files for Tu
+- [ ] Remote Command Implementation
+- [ ] 9:30 am - 11:00 am @ Online - Weekly Meeting
+
 - [ ] Remote Command
 - [ ] load the data into the GPR process
 - [ ] modify the GPR process for better performance
 
-- [ ] Liu
-### 🚀 Jan 22 Mon
+- [ ] Preparation for Sensor Prototyping Meeting
 
 ### 🚀 Jan 23
+- [ ] 9:30 am - 10:30 am @ Online - Sensor Prototyping Meeting
+- [ ] Liu
+- [ ] MS8001 Preview & Homework
 
 ### 🚀 Jan 24
+- [ ] Live Streaming Week 2
 
 ### 🚀 Jan 25
 
