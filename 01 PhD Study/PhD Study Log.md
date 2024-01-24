@@ -1017,16 +1017,28 @@ ROS study, official guide
 - [x] 9:30 am - 10:30 am @ Online - Sensor Prototyping Meeting
 - [x] Preparation for Sensor Prototyping Meeting
 - [x] MS8001 Preview & Homework
+- [x] Remote Command - not succeeded
 
-- [ ] Remote Command
+### 🚀 Jan 24
+- [x] MS8001 4pm - 7pm
+
+### 🚀 Jan 25
+- [ ] Live Streaming Week 2 - LT4 - 8:30 am - 10:30 am
+- [ ] Remote Command Test
+- [ ] Prof Fu Meeting 6pm
+
+- [ ] Liu
+- [ ] MS8001 Homework
 - [ ] load the data into the GPR process
 - [ ] modify the GPR process for better performance
 
-### 🚀 Jan 24
-- [ ] Liu
-- [ ] Live Streaming Week 2
 
-### 🚀 Jan 25
+
+
+
+
+
+
 
 ### 🚀 Jan 26
 
