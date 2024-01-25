@@ -68,6 +68,7 @@ This file is for PhD study plan and progress log.
       - [1] EG0001 & EG1001 - Prof Lum Kit Meng - Endorsed by Ong Shu Wen - [ ]
         - 1 walk through - 1 hr - [✅]
         - week 1 - 2 hrs - [x]
+        - week 2 - 2 hrs - [x]
 
 - AY24/25 S1
 
