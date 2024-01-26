@@ -1023,30 +1023,27 @@ ROS study, official guide
 - [x] MS8001 4pm - 7pm
 
 ### 🚀 Jan 25
-- [ ] Live Streaming Week 2 - LT4 - 8:30 am - 10:30 am
-- [ ] Remote Command Test
-- [ ] Prof Fu Meeting 6pm
+- [x] Live Streaming Week 2 - LT4 - 8:30 am - 10:30 am
+- [x] Remote Command Test
+- [x] Prof Fu Meeting 6pm
 
-- [ ] Liu
+- [x] Liu
+
+### 🚀 Jan 26
+- [x] PROTECT2024 Notification - Abstract Acceptance Notification
+- [x] PROTECT2024 Attendance Confirmation
+
 - [ ] MS8001 Homework
 - [ ] load the data into the GPR process
 - [ ] modify the GPR process for better performance
-
-
-
-
-
-
-
-
-
-### 🚀 Jan 26
 
 ### 🚀 Jan 27
 
 ### 🚀 Jan 28
 
 ### 🚀 Jan 29 Mon
+- [ ] Dhruv
+
 
 ### 🚀 Jan 30
 
@@ -1055,7 +1052,6 @@ ROS study, official guide
 ## 2️⃣ February
 
 ### 🚀 Feb 01
-- [] PROTECT2024 Notification - Abstract Acceptance Notification
 
 ### 🚀 Feb 02
 
@@ -1108,11 +1104,11 @@ ROS study, official guide
 ## 8️⃣ August
 
 ### 🚀 Aug 14
-- [] PROTECT 2024
+- [ ] PROTECT 2024
 
 ### 🚀 Aug 15
-- [] PROTECT 2024
+- [ ] PROTECT 2024
 
 ### 🚀 Aug 16
-- [] PROTECT 2024
+- [ ] PROTECT 2024
 
