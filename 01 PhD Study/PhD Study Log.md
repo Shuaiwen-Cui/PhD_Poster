@@ -1034,11 +1034,12 @@ ROS study, official guide
 - [x] PROTECT2024 Notification - Abstract Acceptance Notification
 - [x] PROTECT2024 Attendance Confirmation
 
+### 🚀 Jan 27
+- [ ] Remote Command
+
 - [ ] MS8001 Homework
 - [ ] load the data into the GPR process
 - [ ] modify the GPR process for better performance
-
-### 🚀 Jan 27
 
 ### 🚀 Jan 28
 
