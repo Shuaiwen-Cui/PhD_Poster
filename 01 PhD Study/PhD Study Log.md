@@ -1046,7 +1046,7 @@ ROS study, official guide
   - [x] week 2 homework
   - [x] week 3 tutorial
 
-- [ ] Dhruv
+
 - [ ] Disp Estimation
 - [ ] Remote Command
 - [ ] load the data into the GPR process
