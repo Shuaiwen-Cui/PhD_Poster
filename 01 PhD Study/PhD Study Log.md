@@ -1046,15 +1046,18 @@ ROS study, official guide
   - [x] week 2 homework
   - [x] week 3 tutorial
 
-
 - [ ] Disp Estimation
 - [ ] Remote Command
-- [ ] load the data into the GPR process
-- [ ] modify the GPR process for better performance
+- [ ] GPR
+
 
 ### 🚀 Jan 30
 - [ ] Sensor Prototyping Meeting 9:30 AM
-
+- [ ] Tu Feedback 
+  - [ ] to check the arm_fir_32 source code
+  - [ ] to check Tu's another implementation
+- MS8001 HW
+- [ ] Remote Command
 
 ### 🚀 Jan 31
 - [ ] MS8001 4pm - 7pm
