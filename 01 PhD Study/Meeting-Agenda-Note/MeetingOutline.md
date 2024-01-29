@@ -269,6 +269,35 @@ Since Last Friday
 - follow utility.c first to check acknowledgement
 - then do disp retrieve implementation
 
+### 🚀 Jan 29 - Weekly Meeting
+- [x] Remote Command Test - OK
+![RC](../2024-01/rc.png)
 
+- incorrect time
+![incorrect time](../2024-01/1706458267558.png)
+
+- snoozealarm commented out in app_sensor.c
+![snoozealarm](../2024-01/1706458489762.png)
+![snoozealarm](../2024-01/1706458794732.png)
+
+- keep snoozealarm in app_sensor.c and util_wakeup in other scripts
+![snoozealarm](../2024-01/resumesnoozealarm-checkstatus.png)
+
+- DataRetrieval
+  - 1. Displacement Estimation
+  - 2. Max Displacement Retrieval using Remote Command [*]
+  - 3. Gaussian Process Regression for Anomaly Detection
+
+- MaxDisp Retrieval Plan
+  - 1. Displacement Estimation
+    - SD Card: Path: \MaxDisp
+    - "Max Disp: CH01: %.6f\tCH02: %.6f\tCH03: %.6f\r\n"
+  - 2. Max Displacement Retrieval using Remote Command
+    - Only take the latest one
+    - Save to SD Card
+  - 3. Gaussian Process Regression for Anomaly Detection
+    - Load GPR Model from SD Card
+    - Read Value to check from SD Card
+    - Do GPR for Anomaly Detection
 
 

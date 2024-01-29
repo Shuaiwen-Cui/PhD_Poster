@@ -1035,19 +1035,21 @@ ROS study, official guide
 - [x] PROTECT2024 Attendance Confirmation
 
 ### 🚀 Jan 27
-- [ ] Remote Command
+- [x] DataRetrieval Study
 
-- [ ] MS8001 Homework
+### 🚀 Jan 28
+- [x] Review Paper Temporal View Finished
+
+### 🚀 Jan 29 Mon
+- [] Weekly Meeting 9:30 AM
+- [ ] Dhruv
+- [ ] Remote Command
 - [ ] load the data into the GPR process
 - [ ] modify the GPR process for better performance
 
-### 🚀 Jan 28
-
-### 🚀 Jan 29 Mon
-- [ ] Dhruv
-
-
 ### 🚀 Jan 30
+- [ ] Sensor Prototyping Meeting 9:30 AM
+- [ ] MS8001 Homework
 
 ### 🚀 Jan 31
 
