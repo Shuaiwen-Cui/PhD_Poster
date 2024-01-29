@@ -1041,17 +1041,23 @@ ROS study, official guide
 - [x] Review Paper Temporal View Finished
 
 ### 🚀 Jan 29 Mon
-- [] Weekly Meeting 9:30 AM
+- [x] Weekly Meeting 9:30 AM
+- [x] MS8001 Homework & Prestudy
+  - [x] week 2 homework
+  - [x] week 3 tutorial
+
 - [ ] Dhruv
+- [ ] Disp Estimation
 - [ ] Remote Command
 - [ ] load the data into the GPR process
 - [ ] modify the GPR process for better performance
 
 ### 🚀 Jan 30
 - [ ] Sensor Prototyping Meeting 9:30 AM
-- [ ] MS8001 Homework
+
 
 ### 🚀 Jan 31
+- [ ] MS8001 4pm - 7pm
 
 ## 2️⃣ February
 

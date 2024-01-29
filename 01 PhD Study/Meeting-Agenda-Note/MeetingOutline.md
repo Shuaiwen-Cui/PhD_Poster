@@ -273,15 +273,15 @@ Since Last Friday
 - [x] Remote Command Test - OK
 ![RC](../2024-01/rc.png)
 
-- incorrect time
+- Incorrect time
 ![incorrect time](../2024-01/1706458267558.png)
 
-- snoozealarm commented out in app_sensor.c
+<!-- - snoozealarm commented out in app_sensor.c
 ![snoozealarm](../2024-01/1706458489762.png)
 ![snoozealarm](../2024-01/1706458794732.png)
 
 - keep snoozealarm in app_sensor.c and util_wakeup in other scripts
-![snoozealarm](../2024-01/resumesnoozealarm-checkstatus.png)
+![snoozealarm](../2024-01/resumesnoozealarm-checkstatus.png) -->
 
 - DataRetrieval
   - 1. Displacement Estimation
