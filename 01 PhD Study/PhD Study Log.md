@@ -1046,11 +1046,12 @@ ROS study, official guide
   - [x] week 2 homework
   - [x] week 3 tutorial
 
-
-
-
 ### 🚀 Jan 30
-- [ ] Sensor Prototyping Meeting 9:30 AM
+- [x] Sensor Prototyping Meeting 9:30 AM
+- [x] MS8001 HW
+
+### 🚀 Jan 31
+- [ ] MS8001 4pm - 7pm
 - [ ] Tu Feedback 
   - [ ] to check the arm_fir_32 source code
   - [ ] to check Tu's another implementation
@@ -1059,10 +1060,6 @@ ROS study, official guide
 - [ ] Disp Estimation
 - [ ] Remote Command
 - [ ] GPR
-
-### 🚀 Jan 31
-- [ ] MS8001 4pm - 7pm
-
 ## 2️⃣ February
 
 ### 🚀 Feb 01
