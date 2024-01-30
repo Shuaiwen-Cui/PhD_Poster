@@ -1046,9 +1046,7 @@ ROS study, official guide
   - [x] week 2 homework
   - [x] week 3 tutorial
 
-- [ ] Disp Estimation
-- [ ] Remote Command
-- [ ] GPR
+
 
 
 ### 🚀 Jan 30
@@ -1058,6 +1056,9 @@ ROS study, official guide
   - [ ] to check Tu's another implementation
 - MS8001 HW
 - [ ] Remote Command
+- [ ] Disp Estimation
+- [ ] Remote Command
+- [ ] GPR
 
 ### 🚀 Jan 31
 - [ ] MS8001 4pm - 7pm
