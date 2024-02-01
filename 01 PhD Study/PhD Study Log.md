@@ -1054,18 +1054,18 @@ ROS study, official guide
 - [x] MS8001 4pm - 7pm
 
 ## 2️⃣ February
-
 ### 🚀 Feb 01
-- [ ] Rental Payment
-- [ ] Meeting with Prof Fu 9:30 AM
-- [ ] Tu Feedback 
-  - [ ] to check the arm_fir_32 source code
-  - [ ] to check Tu's another implementation
-- MS8001 HW
-- [ ] Remote Command
-- [ ] Disp Estimation
-- [ ] Remote Command
-- [ ] GPR
+- [x] Rental Payment
+- [x] Meeting with Prof Fu 9:30 AM
+- [ ] New Plan for Data Retrieval
+  - [ ] (1) Disp Estimation
+    - [ ] Tu Feedback 
+    - [ ] to check the arm_fir_32 source code
+    - [ ] to check Tu's another implementation
+  - [ ] (2) Data Sendback
+
+
+
 ### 🚀 Feb 02
 
 ### 🚀 Feb 03
