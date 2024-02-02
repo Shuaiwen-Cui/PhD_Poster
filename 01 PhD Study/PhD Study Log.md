@@ -1059,14 +1059,15 @@ ROS study, official guide
 - [x] Meeting with Prof Fu 9:30 AM
 
 ### 🚀 Feb 02
+- [x] Stronger Huang 
+
+### 🚀 Feb 03
 - [ ] New Plan for Data Retrieval
   - [ ] (1) Disp Estimation
     - [ ] Tu Feedback 
     - [ ] to check the arm_fir_32 source code
     - [ ] to check Tu's another implementation
   - [ ] (2) Data Sendback
-
-### 🚀 Feb 03
 -[ ] MS8001 Homework
 
 ### 🚀 Feb 04
