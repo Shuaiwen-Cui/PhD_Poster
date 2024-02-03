@@ -1062,13 +1062,13 @@ ROS study, official guide
 - [x] Stronger Huang 
 
 ### 🚀 Feb 03
+-[x] MS8001 Homework
 - [ ] New Plan for Data Retrieval
   - [ ] (1) Disp Estimation
     - [ ] Tu Feedback 
     - [ ] to check the arm_fir_32 source code
     - [ ] to check Tu's another implementation
   - [ ] (2) Data Sendback
--[ ] MS8001 Homework
 
 ### 🚀 Feb 04
 
