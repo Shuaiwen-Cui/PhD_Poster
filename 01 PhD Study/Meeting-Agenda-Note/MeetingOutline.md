@@ -382,3 +382,4 @@ LIST:
   - Remote Command 1 : Displacement Estimation on leaf nodes
   - Remote Command 2 : Max Displacement Retrieval to gateway node
   - downstream calculation: GPR for anomaly detection
+- [ ] data_8bittype -> SensorData sd
