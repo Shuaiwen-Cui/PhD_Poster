@@ -300,4 +300,73 @@ Since Last Friday
     - Read Value to check from SD Card
     - Do GPR for Anomaly Detection
 
+### 🚀 Feb 05 - Weekly Meeting
+- [ ] SD/NandFlash reset - it works
+```bash
+-------------------------------------------------------------------------------
+- Embedor Technologies Xnode Smart Sensor
+- * Base Version: 2.6
+- * MCU: LPC4357
+- * Core: ARM Cortex-M4F
+- * OS: FreeRTOS 10.2.1
+- * Sensor: 24-bit acceleration
+- * Core freq: 120 MHz
+- * >>> Feature Development <<<
+-------------------------------------------------------------------------------
 
+[>>> Progress Report <<<] SD card init success
+ [>>> Progress Report <<<] Remote command registration succeeded!
+- gateway node initialized at 2000-01-01 00:10:32
+
+- Choose application to run:
+- '1'  Remote sensing
+- '2'  Autonomous monitoring
+- '3'  Manually-triggered sensing
+- '4'  Event-triggered sensing
+- '5'  Retrieve sensor data
+- '6'  Check sensor status
+- '7'  Reset sensors
+- '8'  Change configuration
+- 'a'  Feature Development
+- Xnode> a
+
+- Choose action:
+- 'a'  Infrastructure Features
+- 'b'  Available Features
+- 'c'  In-development Features
+- 'd'  Return
+- Xnode> c
+
+[>>> Progress Report <<<] Option Selected - in-development features
+
+- Choose action from in-development features:
+- 'a'  test
+- 'b'  remote command test - for displacement estimation
+- 'c'  disp estimation in development
+- 'd'  Return
+- Xnode> c
+Disp estimation test.
+- preparing data
+yaffs: yaffs: yaffs_ll_init()
+yaffs: yaffs2_scan_backwards starts  intstartblk 1 intendblk 900...
+yaffs: yaffs2_scan_backwards block 733 is bad
+yaffs: 0 blocks to be sorted...
+yaffs: ...done
+yaffs: yaffs2_scan_backwards ends
+yaffs: Block summary
+yaffs: 0 blocks have illegal states
+yaffs: Unknown 0 blocks
+yaffs: Needs scan 0 blocks
+yaffs: Scanning 0 blocks
+yaffs: Empty 899 blocks
+yaffs: Allocating 0 blocks
+yaffs: Full 0 blocks
+yaffs: Dirty 0 blocks
+yaffs: Checkpoint 0 blocks
+yaffs: Collecting 0 blocks
+yaffs: Dead 1 blocks
+yaffs: yaffs: yaffs_guts_initialise() done.
+LIST:
+----: lost+found
+/nand/lost+found----
+```
