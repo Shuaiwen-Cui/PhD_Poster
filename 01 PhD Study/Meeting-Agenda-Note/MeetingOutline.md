@@ -370,3 +370,15 @@ LIST:
 ----: lost+found
 /nand/lost+found----
 ```
+
+- [ ] DataRetrieval Modification
+
+![original data retrieval](../2024-02/1.png)
+
+![max disp retrieval](../2024-02/2.png)
+
+- [ ] Remote Command Implementation
+  - Displacement Estimation - transplantation
+  - Remote Command 1 : Displacement Estimation on leaf nodes
+  - Remote Command 2 : Max Displacement Retrieval to gateway node
+  - downstream calculation: GPR for anomaly detection
