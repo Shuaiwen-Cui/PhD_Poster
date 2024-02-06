@@ -383,3 +383,5 @@ LIST:
   - Remote Command 2 : Max Displacement Retrieval to gateway node
   - downstream calculation: GPR for anomaly detection
 - [ ] unit_8 data_8bittype -> SensorData sd
+
+### 🚀 Feb 6 - Sensor Prototyping
