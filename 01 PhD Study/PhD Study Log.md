@@ -1064,21 +1064,20 @@ ROS study, official guide
 ### 🚀 Feb 03
 -[x] MS8001 Homework
 
-
 ### 🚀 Feb 04
 
 ### 🚀 Feb 05 Mon
 - [x] Weekly Meeting 9:30 AM
 
 ### 🚀 Feb 06
+
+### 🚀 Feb 07
 - [ ] New Plan for Data Retrieval
   - [ ] (1) Disp Estimation
     - [ ] Tu Feedback 
     - [ ] to check the arm_fir_32 source code
     - [ ] to check Tu's another implementation
   - [ ] (2) Data Sendback
-
-### 🚀 Feb 07
 - [ ] Quiz Invigilation - 12:15 PM report Hall C - 12:30 PM ~ 1:30 PM
 - [ ] MS8001 4pm - 7pm
 
