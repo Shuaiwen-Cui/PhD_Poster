@@ -385,3 +385,16 @@ LIST:
 - [ ] unit_8 data_8bittype -> SensorData sd
 
 ### 🚀 Feb 6 - Sensor Prototyping
+
+### 🚀 Feb 8 - Remote Command for Displacement Estimation
+- unpack data on leaf node
+- time out
+- time delay?
+- LED - not working
+
+- DataRetrieval
+- DisplacementEstimation
+  - 4 steps
+
+- Data Structure after transmission consistent or not?
+- Remotecommand_done - position? 

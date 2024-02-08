@@ -67,8 +67,10 @@ This file is for PhD study plan and progress log.
     - Live Streaming
       - [1] EG0001 & EG1001 - Prof Lum Kit Meng - Endorsed by Ong Shu Wen - [ ]
         - 1 walk through - 1 hr - [✅]
-        - week 1 - 2 hrs - [x]
-        - week 2 - 2 hrs - [x]
+        - week 1 - 2 hrs - [✅]
+        - week 2 - 2 hrs - [✅]
+    - Quiz Invigilation
+      - Quiz Invigilation - 12:15 PM report Hall C - 12:30 PM ~ 1:30 PM [✅]
 
 - AY24/25 S1
 
@@ -1072,22 +1074,20 @@ ROS study, official guide
 ### 🚀 Feb 06
 
 ### 🚀 Feb 07
-- [ ] New Plan for Data Retrieval
-  - [ ] (1) Disp Estimation
-    - [ ] Tu Feedback 
-    - [ ] to check the arm_fir_32 source code
-    - [ ] to check Tu's another implementation
-  - [ ] (2) Data Sendback
-- [ ] Quiz Invigilation - 12:15 PM report Hall C - 12:30 PM ~ 1:30 PM
-- [ ] MS8001 4pm - 7pm
+
+- [x] Quiz Invigilation - 12:15 PM report Hall C - 12:30 PM ~ 1:30 PM
+- [x] MS8001 4pm - 7pm
+
+- [ ] GPR
 
 ### 🚀 Feb 08
--[ ] Meeting With Prof Fu 9:30 AM
-
+- [ ] Meeting With Prof Fu 9:30 AM
 
 ### 🚀 Feb 09
+- [ ] CNY - Party
 
 ### 🚀 Feb 10
+- [ ] MS8001 Homework
 
 ### 🚀 Feb 11
 
