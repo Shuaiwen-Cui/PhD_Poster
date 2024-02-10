@@ -1074,7 +1074,6 @@ ROS study, official guide
 ### 🚀 Feb 06
 
 ### 🚀 Feb 07
-
 - [x] Quiz Invigilation - 12:15 PM report Hall C - 12:30 PM ~ 1:30 PM
 - [x] MS8001 4pm - 7pm
 
