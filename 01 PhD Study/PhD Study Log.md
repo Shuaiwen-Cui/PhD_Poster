@@ -1090,6 +1090,18 @@ ROS study, official guide
 
 ### 🚀 Feb 11
 
+### 🚀 Feb 12 Mon
+- [ ] MS8001 homework
+
+### 🚀 Feb 13
+
+### 🚀 Feb 14
+- [ ] MS8001 4pm - 7pm
+
+### 🚀 Feb 15
+
+### 🚀 Feb 16
+
 ## 3️⃣ March
 
 ### 🚀 Mar 01
