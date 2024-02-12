@@ -1077,13 +1077,11 @@ ROS study, official guide
 - [x] Quiz Invigilation - 12:15 PM report Hall C - 12:30 PM ~ 1:30 PM
 - [x] MS8001 4pm - 7pm
 
-- [ ] GPR
-
 ### 🚀 Feb 08
-- [ ] Meeting With Prof Fu 9:30 AM
+- [x] Meeting With Prof Fu 9:30 AM
 
 ### 🚀 Feb 09
-- [ ] CNY - Party
+- [x] CNY - Party
 
 ### 🚀 Feb 10
 - [ ] MS8001 Homework
@@ -1091,7 +1089,7 @@ ROS study, official guide
 ### 🚀 Feb 11
 
 ### 🚀 Feb 12 Mon
-- [ ] MS8001 homework
+- [x] MS8001 homework
 
 ### 🚀 Feb 13
 
