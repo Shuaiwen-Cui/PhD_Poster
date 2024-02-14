@@ -1094,9 +1094,16 @@ ROS study, official guide
 ### 🚀 Feb 13
 
 ### 🚀 Feb 14
-- [ ] MS8001 4pm - 7pm
+- [x] MS8001 Prestudy
+- [x] DSP time-freq chapter 11-12 
+- [x] Zijie Lunch
+- [x] MS8001 4pm - 7pm
 
 ### 🚀 Feb 15
+- [ ] Meeting with Dhruv - for STM32 handover
+- [ ] Paper
+- [ ] WSN - Remote Command
+- [ ] Conference - WT ICA VMD - C programming
 
 ### 🚀 Feb 16
 
