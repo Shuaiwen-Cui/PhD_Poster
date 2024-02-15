@@ -1100,8 +1100,8 @@ ROS study, official guide
 - [x] MS8001 4pm - 7pm
 
 ### 🚀 Feb 15
-- [ ] Meeting with Dhruv - for STM32 handover
 - [ ] Paper
+- [ ] Meeting with Dhruv - for STM32 handover
 - [ ] WSN - Remote Command
 - [ ] Conference - WT ICA VMD - C programming
 
