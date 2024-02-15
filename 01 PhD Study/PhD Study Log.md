@@ -1100,12 +1100,17 @@ ROS study, official guide
 - [x] MS8001 4pm - 7pm
 
 ### 🚀 Feb 15
-- [ ] Paper
-- [ ] Meeting with Dhruv - for STM32 handover
-- [ ] WSN - Remote Command
-- [ ] Conference - WT ICA VMD - C programming
+IDEAS:
+- Agent-driven distributed intelligence enabling IoT-framework for SHM
+- edge + cloud : MCU + MPU (Nvidia Jetson Nano / AGX ) 
 
 ### 🚀 Feb 16
+- [ ] Meeting with Dhruv - for STM32 handover
+  - [ ] STFT
+  - [ ] STM32 for Google Net
+- [ ] Paper
+- [ ] WSN - Remote Command
+- [ ] Conference - WT ICA VMD - C programming
 
 ## 3️⃣ March
 
