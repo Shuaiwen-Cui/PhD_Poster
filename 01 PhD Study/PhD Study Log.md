@@ -1105,19 +1105,20 @@ IDEAS:
 - edge + cloud : MCU + MPU (Nvidia Jetson Nano / AGX ) 
 
 ### 🚀 Feb 16
-- [ ] Meeting with Dhruv - for STM32 handover
-  - [ ] DEV ENV Setup
-    - [ ] VSCode Embedded IDE Setup
-      - [ ] Compiler - ARMCC (AC5) - can be found under keil 4 path / ARMCLANG (AC6) - can be found under keil 5 path
-      - [ ] Project Configuration
-    - [ ] Keil 5 Setup
-  - [ ] Test Proj & STFT
+- [x] Meeting with Dhruv - for STM32 handover
+  - [x] DEV ENV Setup
+    - [x] VSCode Embedded IDE Setup
+      - [x] Compiler - ARMCC (AC5) - can be found under keil 4 path / ARMCLANG (AC6) - can be found under keil 5 path
+      - [x] Project Configuration
+    - [x] Keil 5 Setup
+  - [x] Test Proj & STFT
+  - [x] FATFS - to be added
+- [] KEIL MDK 6 Test
 
+### 🚀 Feb 17
 - [ ] Paper
 - [ ] WSN - Remote Command
 - [ ] Conference - WT ICA VMD - C programming
-
-### 🚀 Feb 17
 
 ### 🚀 Feb 18
 
