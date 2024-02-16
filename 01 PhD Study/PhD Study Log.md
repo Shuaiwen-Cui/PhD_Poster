@@ -1106,11 +1106,42 @@ IDEAS:
 
 ### 🚀 Feb 16
 - [ ] Meeting with Dhruv - for STM32 handover
-  - [ ] STFT
-  - [ ] STM32 for Google Net
+  - [ ] DEV ENV Setup
+    - [ ] VSCode Embedded IDE Setup
+      - [ ] Compiler - ARMCC (AC5) - can be found under keil 4 path / ARMCLANG (AC6) - can be found under keil 5 path
+      - [ ] Project Configuration
+    - [ ] Keil 5 Setup
+  - [ ] Test Proj & STFT
+
 - [ ] Paper
 - [ ] WSN - Remote Command
 - [ ] Conference - WT ICA VMD - C programming
+
+### 🚀 Feb 17
+
+### 🚀 Feb 18
+
+### 🚀 Feb 19 Mon
+
+### 🚀 Feb 20
+
+### 🚀 Feb 21
+
+### 🚀 Feb 22
+
+### 🚀 Feb 23
+
+### 🚀 Feb 24
+
+### 🚀 Feb 25
+
+### 🚀 Feb 26 Mon
+
+### 🚀 Feb 27
+
+### 🚀 Feb 28
+
+### 🚀 Feb 29
 
 ## 3️⃣ March
 
