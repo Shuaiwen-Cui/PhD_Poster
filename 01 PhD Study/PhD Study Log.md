@@ -1116,9 +1116,10 @@ IDEAS:
 - [] KEIL MDK 6 Test
 
 ### 🚀 Feb 17
+- [ ] Conference - WT ICA VMD - C programming
 - [ ] Paper
 - [ ] WSN - Remote Command
-- [ ] Conference - WT ICA VMD - C programming
+
 
 ### 🚀 Feb 18
 
