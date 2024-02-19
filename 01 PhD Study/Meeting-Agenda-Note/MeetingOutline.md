@@ -398,3 +398,46 @@ LIST:
 
 - Data Structure after transmission consistent or not?
 - Remotecommand_done - position? 
+
+### 🚀 Feb 19 - Weekly Meeting
+
+- **Tasks on Agenda**
+  - Reomote Command for Displacement Estimation
+    - LED time counting
+  - Qualifying Exam (**Time-Sensitive**)
+  - Conference - PROTECT2024 (**Time-Sensitive**)
+    - Extended Abstract Submission - March 1
+    - Full Paper Submission - March 15
+
+- **Study Focuses**
+  - Embedded System Development
+    - STM32-based
+      - Recommanded by Fu Hao
+      - Many resources available for study
+    - DSP Implementation
+      - CMSIS-DSP
+    - Neural Network Implementation
+      - Google Net Implementation
+        - Setup the dev-kit for Dhruv
+        - Raw Data - (STFT - CNN)
+  - Digital Signal Processing
+    - **Wavelet Transform**
+    - **Independent Component Analysis**
+    - **Variational Mode Decomposition**
+    - Empirical Mode Decomposition
+  - Reinforcement Learning
+    - Basics
+    - Markov Decision Process (MDP)
+    - Q-Learning
+    - ...
+
+- **PhD Study Topic**
+  - Proposed Topic
+    - Distributed Intelligence Enabling IoT Framework for Structural Health Monitoring
+  - Problem
+    - Too generic
+    - Need to narrow down the scope
+  - Idea
+    - Inspiration: Reinforcement Learning: Agent - Environment
+    - IoT-WSN: **multi-agent system**
+    - Things to try: Federated Learning, Reinforcement Learning, Game Theory, GNN (Graph Neural Network) 

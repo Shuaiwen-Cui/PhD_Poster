@@ -1116,13 +1116,14 @@ IDEAS:
 - [x] KEIL MDK 6 Test
 
 ### 🚀 Feb 17
-- [x] D2L - CH06
-- [ ] Conference - WT ICA VMD - C programming
-- [ ] Paper
-- [ ] WSN - Remote Command
-
 
 ### 🚀 Feb 18
+- [x] D2L - CH06&07 
+- [x] DSP
+  - [x] EMD
+  - [x] VMD Getting Started
+  - [x] DWT & CWT
+  - [x] ICA   
 
 ### 🚀 Feb 19 Mon
 
