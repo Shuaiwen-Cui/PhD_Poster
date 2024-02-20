@@ -1126,6 +1126,7 @@ IDEAS:
   - [x] ICA   
 
 ### 🚀 Feb 19 Mon
+- [x] Sensor Prototyping Meeting 9:30 AM
 
 ### 🚀 Feb 20
 

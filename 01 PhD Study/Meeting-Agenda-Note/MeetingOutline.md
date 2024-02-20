@@ -441,3 +441,23 @@ LIST:
     - Inspiration: Reinforcement Learning: Agent - Environment
     - IoT-WSN: **multi-agent system**
     - Things to try: Federated Learning, Reinforcement Learning, Game Theory, GNN (Graph Neural Network) 
+
+### 🚀 Feb 20 - Sensor Prototype Meeting
+
+May 28  --- Make a presentation at EMI 2024, Chicago.
+
+
+Tasks: 
+1.	CNN for data anomaly classification: [low accuracy]   -- 1 month in Mar
+Compile and implement CNN in Xnodes for data anomaly classification 
+1.1	CNN code in STM32 [Fu Hao completed CNN & STFT in C in STM32]  
+1.2	CNN code in Xnode for inference [??]; CNN code in computer for training [easy]
+
+2.	GoogleNet with compression for classification: [high accuracy]   -- 2 months in April & May
+Done for simulation and python (Tarutal’s paper)
+Not yet: Xnode and C language
+2.1	GoogleNet with compression & Model in Python in PC [Tarutal done]
+2.2	GoogleNet with compression in C language in PC  [3 weeks]
+2.3	GoogleNet/C in STM32? & Training in PC and Inference in STM32  [2 weeks]
+2.4	GoogleNet/C in Xnode [2 weeks]
+2.5	GoogleNet/C results comparison with Tartual’s paper [1 week – 3 slides]
