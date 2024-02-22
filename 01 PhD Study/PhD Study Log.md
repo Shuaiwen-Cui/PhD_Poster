@@ -70,7 +70,7 @@ This file is for PhD study plan and progress log.
         - week 1 - 2 hrs - [✅]
         - week 2 - 2 hrs - [✅]
     - Quiz Invigilation
-      - Quiz Invigilation - 12:15 PM report Hall C - 12:30 PM ~ 1:30 PM [✅]
+      - [1] Quiz Invigilation - Feb 7 2024 - 12:15 PM report Hall C - 12:30 PM ~ 1:30 PM [✅]
 
 - AY24/25 S1
 
