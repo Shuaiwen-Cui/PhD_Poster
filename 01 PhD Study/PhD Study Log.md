@@ -89,6 +89,8 @@ This file is for PhD study plan and progress log.
   3. Investigation of Membrane Fouling during Se-Closed Reverse Osmosis (SCRO) Desalination - [✅] - Mr Xiao Yifu - CEE GSU - Nov 29, 2023
   4. ‘Setting Effective KPIs to Achieve Maximum Results’ by Mr Jeffrey Williams - [✅] - Graduate College – Transferable Skills Series - Nov 29, 2023
   5. Effect of Shear Deformation on Behaviors of Reinforced Concrete Structural Members - Mr Lin Haoran - [✅] -  4 December 2023, Monday - Time: 2.00pm - CEE Seminar Room B (N1-B1b-16)
+  6. Integrating Workforce Planning and Scheduling for Intelligent  Manufacture of Prefabricated Bathroom Unit - Han Jinchi, Dec 13, 2023
+  7. preparing for an Academic Career - Dr Elaine Walsh - Dec 27, 2023
 
 > AY24/25
 
