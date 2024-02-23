@@ -461,3 +461,10 @@ Not yet: Xnode and C language
 2.3	GoogleNet/C in STM32? & Training in PC and Inference in STM32  [2 weeks]
 2.4	GoogleNet/C in Xnode [2 weeks]
 2.5	GoogleNet/C results comparison with Tartual’s paper [1 week – 3 slides]
+
+
+### 🚀 Feb 23 - Meeting with Prof Fu
+- [ ] None-task, Before, remotecommand_done, test ok, white LED observed
+- [ ] None-task, After, remotecommand_done, test not ok, white LED not observed, all zero
+- [ ] None-task, After, "static removed", remotecommand_done, test not ok, all zero - nothing to do with static
+- [ ] Task
