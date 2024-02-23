@@ -1140,6 +1140,11 @@ IDEAS:
 
 ### 🚀 Feb 24
 
+- [ ] SG Airshow 2024
+- [ ] Sentosa
+- [ ] GPR-SPC
+
+
 ### 🚀 Feb 25
 
 ### 🚀 Feb 26 Mon
