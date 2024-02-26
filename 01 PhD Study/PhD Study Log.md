@@ -1145,6 +1145,8 @@ IDEAS:
 
 
 ### 🚀 Feb 26 Mon
+- [x] Task-based RC finished
+- [ ] Try to mimic Tu's code, not finished yet. 
 
 ### 🚀 Feb 27
 
