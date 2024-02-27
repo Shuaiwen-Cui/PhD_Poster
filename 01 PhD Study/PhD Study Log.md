@@ -71,6 +71,7 @@ This file is for PhD study plan and progress log.
         - week 2 - 2 hrs - [✅]
     - Quiz Invigilation
       - [1] Quiz Invigilation - Feb 7 2024 - 12:15 PM report Hall C - 12:30 PM ~ 1:30 PM [✅]
+      - [2] Quiz Invigilation - Feb 27 2024 - 11:10 AM - 12:20 HALL C [✅] - Prof Yang En-Hua
 
 - AY24/25 S1
 
