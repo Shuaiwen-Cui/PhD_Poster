@@ -58,7 +58,7 @@ This file is for PhD study plan and progress log.
       - [3] Dec 05 2023 - TR102 - Report at 4:30 - duration 5:00-7:00 - [✅]
         - time 3 hrs
         - Endorsed by Lee Hong
-    - Standby Exam Invigilation
+    - Standby Exam Invigilation 
       - [1] Nov 28 2023 - GSU - Report at 4:30 - [✅]
         - time 0.5 hr
 
