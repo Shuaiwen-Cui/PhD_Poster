@@ -1158,11 +1158,11 @@ IDEAS:
 ## 3️⃣ March
 
 ### 🚀 Mar 01
-- [ ] PROTECT - Extended Abstract Submission - for Student Competition (at least 3 pgs)
-- [ ] PROTECT - Full Paper Submission - for Conference (8-10 pgs)
 
 ### 🚀 Mar 15
-
+- [ ] Data Retrieval - Xnode
+- [ ] PROTECT - Extended Abstract Submission - for Student Competition (at least 3 pgs)
+- [ ] PROTECT - Full Paper Submission - for Conference (8-10 pgs)
 
 
 ## 4️⃣ April
