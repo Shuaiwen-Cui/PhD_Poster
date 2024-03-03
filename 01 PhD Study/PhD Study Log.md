@@ -1159,6 +1159,17 @@ IDEAS:
 
 ### 🚀 Mar 01
 
+### 🚀 Mar 02
+
+### 🚀 Mar 03
+- [ ] Data Retrieval - Xnode
+
+### 🚀 Mar 04 Mon
+
+### 🚀 Mar 05
+
+
+
 ### 🚀 Mar 15
 - [ ] Data Retrieval - Xnode
 - [ ] PROTECT - Extended Abstract Submission - for Student Competition (at least 3 pgs)
