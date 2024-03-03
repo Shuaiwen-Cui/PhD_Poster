@@ -1162,7 +1162,7 @@ IDEAS:
 ### 🚀 Mar 02
 
 ### 🚀 Mar 03
-- [ ] Data Retrieval - Xnode
+- [?] Data Retrieval - Xnode
 
 ### 🚀 Mar 04 Mon
 
