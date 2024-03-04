@@ -1165,6 +1165,10 @@ IDEAS:
 - [?] Data Retrieval - Xnode
 
 ### 🚀 Mar 04 Mon
+- [x] Weekly Meeting 9:30 AM
+  - [ ] Xnode Programming
+  - [ ] Meeting with Tu
+  - [ ] Transfer Learning - Si Hui
 
 ### 🚀 Mar 05
 
