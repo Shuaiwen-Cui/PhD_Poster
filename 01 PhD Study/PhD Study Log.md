@@ -1171,6 +1171,10 @@ IDEAS:
   - [ ] Transfer Learning - Si Hui
 
 ### 🚀 Mar 05
+- [x] reset storage
+  -[ ] check storage
+- [ ] remote sensing - only 1 time sensing, check gw, sn data
+- [ ] read from storage, fetch data, check data
 
 
 
