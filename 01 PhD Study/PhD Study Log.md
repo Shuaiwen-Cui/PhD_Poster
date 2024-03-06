@@ -1172,10 +1172,13 @@ IDEAS:
 
 ### 🚀 Mar 05
 - [x] reset storage
-  -[ ] check storage
-- [ ] remote sensing - only 1 time sensing, check gw, sn data
-- [ ] read from storage, fetch data, check data
+  -[x] check storage
+- [x] remote sensing - only 1 time sensing, check gw, sn data
+- [x] read from storage, fetch data, check data
 
+### 🚀 Mar 06
+- [ ] MS8001 HOMEWORK
+- [ ] disp est function integration
 
 
 ### 🚀 Mar 15
