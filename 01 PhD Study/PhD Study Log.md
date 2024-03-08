@@ -1177,15 +1177,29 @@ IDEAS:
 - [x] read from storage, fetch data, check data
 
 ### 🚀 Mar 06
-- [ ] MS8001 HOMEWORK
-- [ ] disp est function integration
+- [x] MS8001 HOMEWORK
 
+### 🚀 Mar 07
+- [x] disp est function integration, to be improved
+
+### 🚀 Mar 08
+- [x] Meeting with Adi 2pm
+- [x] Online Lecture
+- [x] write down displacement
+- [x] improved disp estimation implementation
+- [ ] comparison
+- [ ] GPR integration
+
+### 🚀 Mar 09
+- [ ] Lunch
+- [ ] Dinner
+- [ ] Review
+- [ ] Review Homework
 
 ### 🚀 Mar 15
-- [ ] Data Retrieval - Xnode
+- [x] Data Retrieval - Xnode
 - [ ] PROTECT - Extended Abstract Submission - for Student Competition (at least 3 pgs)
 - [ ] PROTECT - Full Paper Submission - for Conference (8-10 pgs)
-
 
 ## 4️⃣ April
 
