@@ -1187,14 +1187,22 @@ IDEAS:
 - [x] Online Lecture
 - [x] write down displacement
 - [x] improved disp estimation implementation
-- [ ] comparison
-- [ ] GPR integration
+- [x] comparison
+
 
 ### 🚀 Mar 09
-- [ ] Lunch
-- [ ] Dinner
+- [x] Lunch
+- [x] Dinner
+
+
+### 🚀 Mar 10
+- [ ] weekly meeting 9:30 AM
+- [ ] Meeting with Tu
+- [ ] GPR-SPC
+- [ ] GPR integration
 - [ ] Review
 - [ ] Review Homework
+
 
 ### 🚀 Mar 15
 - [x] Data Retrieval - Xnode
