@@ -468,3 +468,7 @@ Not yet: Xnode and C language
 - [ ] None-task, After, remotecommand_done, test not ok, white LED not observed, all zero
 - [ ] None-task, After, "static removed", remotecommand_done, test not ok, all zero - nothing to do with static
 - [ ] Task
+
+### 🚀 March 18 - Weekly Meeting
+- [x] Algorithm Integration: Displacement Estimation + Remote Command Data Transmission + Gaussian Process Regression + Stochastic Process Control
+- [ ] Displacement Estimation to be improved

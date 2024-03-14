@@ -1196,15 +1196,24 @@ IDEAS:
 
 
 ### 🚀 Mar 10
-- [ ] weekly meeting 9:30 AM
-- [ ] Meeting with Tu
-- [ ] GPR-SPC
-- [ ] GPR integration
-- [ ] Review
-- [ ] Review Homework
 
+### 🚀 Mar 11 Mon
+- [x] weekly meeting 9:30 AM
+- [x] Meeting with Tu
+- [x] GPR-SPC
+
+### 🚀 Mar 12 
+- [x] GPR integration
+
+### 🚀 Mar 13
+- [x] Review Homework MS8001
+- [x] GPR Test
+
+### 🚀 Mar 14
+- [x] displacement estimation + RC + GPR
 
 ### 🚀 Mar 15
+- [ ] discuss with Dr Shen about the New Node Plan
 - [x] Data Retrieval - Xnode
 - [ ] PROTECT - Extended Abstract Submission - for Student Competition (at least 3 pgs)
 - [ ] PROTECT - Full Paper Submission - for Conference (8-10 pgs)
