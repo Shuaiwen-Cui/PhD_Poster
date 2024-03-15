@@ -1213,8 +1213,13 @@ IDEAS:
 - [x] displacement estimation + RC + GPR
 
 ### 🚀 Mar 15
-- [ ] discuss with Dr Shen about the New Node Plan
+- [x] discuss with Dr Shen about the New Node Plan
 - [x] Data Retrieval - Xnode
+
+### 🚀 Mar 16
+
+
+### 🚀 Mar 17
 - [ ] PROTECT - Extended Abstract Submission - for Student Competition (at least 3 pgs)
 - [ ] PROTECT - Full Paper Submission - for Conference (8-10 pgs)
 
