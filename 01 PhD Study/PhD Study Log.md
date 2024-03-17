@@ -1218,10 +1218,32 @@ IDEAS:
 
 ### 🚀 Mar 16
 
-
 ### 🚀 Mar 17
+- [x] 51 practice
+- [ ] DSP setup 
 - [ ] PROTECT - Extended Abstract Submission - for Student Competition (at least 3 pgs)
 - [ ] PROTECT - Full Paper Submission - for Conference (8-10 pgs)
+
+
+### 🚀 Mar 18 Mon
+- [ ] Weekly Meeting 10:30 AM - 11:00 AM
+- [ ] MS8001 Homework
+- [ ] MS8001 PRESENTATION 1
+- [ ] SENSOR PROTOTYPING
+
+### 🚀 Mar 19
+- [ ] SENSOR PROTOTYPING 9:30 AM
+- [ ] 朱晗NTU visit
+
+### 🚀 Mar 20
+- [ ] MS8001 PRESENTATION 1
+- [ ] HAND LASER POINTER TO XING ZIJIE
+
+### 🚀 Mar 21
+- [ ] CN-SG Football Match 8:30 PM
+  - [ ] costume 
+
+### 🚀 Mar 22
 
 ## 4️⃣ April
 

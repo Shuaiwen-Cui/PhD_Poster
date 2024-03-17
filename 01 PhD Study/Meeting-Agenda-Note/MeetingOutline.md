@@ -472,3 +472,8 @@ Not yet: Xnode and C language
 ### 🚀 March 18 - Weekly Meeting
 - [x] Algorithm Integration: Displacement Estimation + Remote Command Data Transmission + Gaussian Process Regression + Stochastic Process Control
 - [ ] Displacement Estimation to be improved
+- [ ] STM32-based Development
+  - [ ] framework build up
+  - [ ] displacement estimation
+  - [ ] sensor prototyping
+  - [ ] cnn / googlenet 
