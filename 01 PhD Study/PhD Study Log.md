@@ -1226,16 +1226,16 @@ IDEAS:
 
 ### 🚀 Mar 18 Mon
 - [x] Weekly Meeting 10:30 AM - 11:00 AM
-- [ ] DSP STUDY - DISP EST
-- [ ] MS8001 Homework
-- [ ] MS8001 PRESENTATION 1
-- [ ] SENSOR PROTOTYPING
+- [x] DSP STUDY - DISP EST
 
 ### 🚀 Mar 19
-- [ ] SENSOR PROTOTYPING 9:30 AM
-- [ ] 朱晗NTU visit 6:00 PM PIE+DURIAN
+- [x] SENSOR PROTOTYPING 9:30 AM
+- [x] MS8001 Homework
+- [x] MS8001 PRESENTATION 1
+- [x] 朱晗NTU visit 6:00 PM PIE+DURIAN
 
 ### 🚀 Mar 20
+- [ ] Meeting with Prof Fu 9:30 AM - DISP EST
 - [ ] MS8001 PRESENTATION 1
 - [ ] HAND LASER POINTER TO XING ZIJIE
 - [ ] Check Distributed Computing Framework For Edge Computing

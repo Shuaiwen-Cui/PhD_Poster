@@ -473,7 +473,7 @@ Not yet: Xnode and C language
 - [x] Algorithm Integration: Displacement Estimation + Remote Command Data Transmission + Gaussian Process Regression + Stochastic Process Control
 - [ ] Displacement Estimation to be improved
 - [ ] STM32-based Development
-  - [ ] framework build up
+  - [x] framework build up
   - [ ] displacement estimation
   - [ ] sensor prototyping
   - [ ] cnn / googlenet 
