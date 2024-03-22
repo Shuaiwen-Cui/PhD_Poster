@@ -1241,10 +1241,12 @@ IDEAS:
 - [ ] Check Distributed Computing Framework For Edge Computing
 
 ### 🚀 Mar 21
-- [ ] Ticket + Shirt
-- [ ] CN-SG Football Match 8:30 PM
+- [x] IOT PROTOTYPING - ADITYA 4:00 PM
+- [x] Ticket + Shirt
+- [x] CN-SG Football Match 8:30 PM
 
 ### 🚀 Mar 22
+- [ ] Algo Validation
 
 ## 4️⃣ April
 
