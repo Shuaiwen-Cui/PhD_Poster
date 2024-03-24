@@ -1244,9 +1244,21 @@ IDEAS:
 - [x] IOT PROTOTYPING - ADITYA 4:00 PM
 - [x] Ticket + Shirt
 - [x] CN-SG Football Match 8:30 PM
-
+  
 ### 🚀 Mar 22
-- [ ] Algo Validation
+- [x] Algo Validation
+
+### 🚀 Mar 23
+
+### 🚀 Mar 24
+- [ ] STM32
+
+### 🚀 Mar 25 Mon
+- [ ] Weekly Meeting
+  - Algo Validation
+- [ ] QE
+- [ ] PROTECT
+- [ ] GOOGLE NET
 
 ## 4️⃣ April
 
@@ -1254,7 +1266,7 @@ IDEAS:
 - [ ] PROTECT - Notification of Acceptance - Full Paper
 
 
-
+    
 ## 5️⃣ May
 ### 🚀 May 15
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
