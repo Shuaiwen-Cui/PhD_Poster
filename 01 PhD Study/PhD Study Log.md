@@ -1265,14 +1265,14 @@ IDEAS:
     - matlab - padding start & end
     - xnode - full filtering, then remove the end part
     - alignment
+- 51
+### 🚀 Mar 26
 - [ ] Paper Outline - for Prof Fu Revision
 - [ ] SI HUI VPN
 - [ ] SI HUI HOROVOD
 - [ ] QE
 - [ ] PROTECT
 - [ ] GOOGLE NET
-
-### 🚀 Mar 26
 
 ### 🚀 Mar 27
 
