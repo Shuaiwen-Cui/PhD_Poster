@@ -1251,14 +1251,35 @@ IDEAS:
 ### 🚀 Mar 23
 
 ### 🚀 Mar 24
-- [ ] STM32
+- [x] STM32
 
 ### 🚀 Mar 25 Mon
-- [ ] Weekly Meeting
-  - Algo Validation
+- [x] Weekly Meeting
+  - Algo Validation - dataset from Tu
+    - Data Process
+      - (1) how the filter is generated
+      - (2) LP HP
+      - (3) scaling
+  - Algo Validation - my own data
+    - raw acc
+    - matlab - padding start & end
+    - xnode - full filtering, then remove the end part
+    - alignment
+- [ ] Paper Outline - for Prof Fu Revision
+- [ ] SI HUI VPN
+- [ ] SI HUI HOROVOD
 - [ ] QE
 - [ ] PROTECT
 - [ ] GOOGLE NET
+
+### 🚀 Mar 26
+
+### 🚀 Mar 27
+
+### 🚀 Mar 28
+- [ ] Finish Paper
+
+### 🚀 Mar 29
 
 ## 4️⃣ April
 
