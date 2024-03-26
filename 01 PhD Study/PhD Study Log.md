@@ -1267,15 +1267,19 @@ IDEAS:
     - alignment
 - 51
 ### 🚀 Mar 26
+- [x] 51 TIMER
+- [x] 51 Serial Communication
+- [x] 51 LED Matrix
+- [x] Fu Hao - SETUP ENV
+
+### 🚀 Mar 27
+- [ ] STM32 Setup
 - [ ] Paper Outline - for Prof Fu Revision
 - [ ] SI HUI VPN
 - [ ] SI HUI HOROVOD
 - [ ] QE
 - [ ] PROTECT
 - [ ] GOOGLE NET
-
-### 🚀 Mar 27
-
 ### 🚀 Mar 28
 - [ ] Finish Paper
 
