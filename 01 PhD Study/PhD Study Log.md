@@ -1273,6 +1273,8 @@ IDEAS:
 - [x] Fu Hao - SETUP ENV
 
 ### 🚀 Mar 27
+- [x] Review Paper - chapter 1 & 2
+- [ ] Online Displacement Estimation  
 - [ ] STM32 Setup
 - [ ] Paper Outline - for Prof Fu Revision
 - [ ] SI HUI VPN
@@ -1280,7 +1282,10 @@ IDEAS:
 - [ ] QE
 - [ ] PROTECT
 - [ ] GOOGLE NET
+
 ### 🚀 Mar 28
+- [ ] Review Paper - chapter 3 & 4
+- [ ] 10 AM MAYDAY
 - [ ] Finish Paper
 
 ### 🚀 Mar 29
