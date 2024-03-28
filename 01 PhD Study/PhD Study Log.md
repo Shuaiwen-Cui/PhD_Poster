@@ -1277,16 +1277,18 @@ IDEAS:
 - [ ] Online Displacement Estimation  
 - [ ] STM32 Setup
 - [ ] Paper Outline - for Prof Fu Revision
-- [ ] SI HUI VPN
+- [x] SI HUI VPN
 - [ ] SI HUI HOROVOD
 - [ ] QE
 - [ ] PROTECT
 - [ ] GOOGLE NET
 
 ### 🚀 Mar 28
-- [ ] Review Paper - chapter 3 & 4
+
 - [ ] 10 AM MAYDAY
+- [ ] Review Paper - chapter 3 & 4
 - [ ] Finish Paper
+- [ ] Meeting with Aditya 4 PM
 
 ### 🚀 Mar 29
 
