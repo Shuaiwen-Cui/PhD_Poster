@@ -1274,25 +1274,42 @@ IDEAS:
 
 ### 🚀 Mar 27
 - [x] Review Paper - chapter 1 & 2
+- [x] SI HUI VPN
+
+### 🚀 Mar 28
+- [x] Meeting with Aditya 4 PM
+
+### 🚀 Mar 29
+- [ ] Review Paper - chapter 3 & 4
+- [ ] Finish Paper
 - [ ] Online Displacement Estimation  
 - [ ] STM32 Setup
 - [ ] Paper Outline - for Prof Fu Revision
-- [x] SI HUI VPN
 - [ ] SI HUI HOROVOD
 - [ ] QE
 - [ ] PROTECT
 - [ ] GOOGLE NET
 
-### 🚀 Mar 28
-
-- [ ] 10 AM MAYDAY
-- [ ] Review Paper - chapter 3 & 4
-- [ ] Finish Paper
-- [ ] Meeting with Aditya 4 PM
-
-### 🚀 Mar 29
-
 ## 4️⃣ April
+
+### 🚀 Apr 01
+- [ ] House Rent
+
+### 🚀 Apr 02 Mon
+- [ ] Weekly Meeting 9:30
+
+### 🚀 Apr 03
+
+### 🚀 Apr 04
+
+### 🚀 Apr 05
+
+### 🚀 Apr 06
+
+### 🚀 Apr 07
+
+### 🚀 Apr 08 Mon
+
 
 ### 🚀 Apr 15
 - [ ] PROTECT - Notification of Acceptance - Full Paper
