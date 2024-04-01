@@ -1282,22 +1282,23 @@ IDEAS:
 ### 🚀 Mar 29
 
 ### 🚀 Mar 30
-- [ ] Review Paper - chapter 3 & 4
-- [ ] Finish Paper
-- [ ] Online Displacement Estimation  
-- [ ] STM32 Setup
-- [ ] Paper Outline - for Prof Fu Revision
-- [ ] SI HUI HOROVOD
-- [ ] QE
-- [ ] PROTECT
-- [ ] GOOGLE NET
+
 
 ### 🚀 Mar 31
 
 ## 4️⃣ April
 
 ### 🚀 Apr 01
-- [ ] House Rent
+- [x] House Rent
+- [ ] Paper Writing
+- [ ] Horovod 
+- [ ] Review Paper - chapter 3 & 4
+- [ ] Finish Paper
+- [ ] Online Displacement Estimation  
+- [ ] STM32 Setup
+- [ ] QE
+- [ ] PROTECT
+- [ ] GOOGLE NET
 
 ### 🚀 Apr 02 Mon
 - [ ] Weekly Meeting 9:30
