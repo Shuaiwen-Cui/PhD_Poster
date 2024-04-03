@@ -1301,9 +1301,12 @@ IDEAS:
 - [ ] GOOGLE NET
 
 ### 🚀 Apr 02 Mon
-- [ ] Weekly Meeting 9:30
+- [x] Weekly Meeting 9:30
 
 ### 🚀 Apr 03
+- [x] MS8001 Slides Preparation
+- [x] MS8001 Pre 2nd Presentation
+- [ ] MS8001 Closing Part Repreparation
 
 ### 🚀 Apr 04
 
