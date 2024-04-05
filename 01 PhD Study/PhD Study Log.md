@@ -1303,8 +1303,13 @@ IDEAS:
 - [x] IoT Sensor Prototype Meeting 3:30 PM - 4:30 PM
 
 ### 🚀 Apr 05
-- [ ] Xudong Xnode Configuration
 - [ ] Paper Writing
+  - [ ] Chapter 2 - 
+  - [ ] Chapter 3 - 
+  - [ ] Chapter 4
+  - [ ] Chapter 5
+- [ ] Xudong Xnode Configuration
+
 - [ ] Horovod 
 - [ ] Review Paper - chapter 3 & 4
 - [ ] Finish Paper
