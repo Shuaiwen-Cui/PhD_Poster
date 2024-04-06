@@ -1303,30 +1303,38 @@ IDEAS:
 - [x] IoT Sensor Prototype Meeting 3:30 PM - 4:30 PM
 
 ### 🚀 Apr 05
-- [ ] Paper Writing
-  - [ ] Chapter 2 - 
-  - [ ] Chapter 3 - 
+- [x] Paper Writing - Chapter 2 
+
+
+### 🚀 Apr 06
+- [x] Lunch with Zhu Han
+- [x] Meeting with Aditya
+- [x] Paper Writing - Chapter 2 
+- [x] Xudong Xnode Configuration
+
+### 🚀 Apr 07
+- [ ] !!! Horovod 
+- [ ] Finish Paper
+  - [ ] Chapter 3
   - [ ] Chapter 4
   - [ ] Chapter 5
-- [ ] Xudong Xnode Configuration
-
-- [ ] Horovod 
-- [ ] Review Paper - chapter 3 & 4
-- [ ] Finish Paper
-- [ ] Online Displacement Estimation  
+- [ ] Review Paper - chapter 3 & 4 
 - [ ] STM32 Setup
 - [ ] QE
 - [ ] PROTECT
 - [ ] GOOGLE NET
 
-### 🚀 Apr 06
-- [ ] Lunch with Zhu Han
-- [ ] Meeting with Aditya
-
-
-### 🚀 Apr 07
-
 ### 🚀 Apr 08 Mon
+- [ ] Weekly Meeting 9:30
+  - [ ] GPR Anomaly Detection
+- [ ] QUIZ INVIGILLATION 4:00 Report to Hall C - Prof Qian 4:30 - 5:30
+- [ ] Ticket Back From Guangzhou 5.4
+- [ ] Tickets Leaving Hongkong 5.1
+- [ ] Pre for MS8001 Presentation
+
+### 🚀 Apr 09
+- [ ] MS8001 - PRE - closing Part
+
 
 
 ### 🚀 Apr 15
