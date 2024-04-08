@@ -72,6 +72,7 @@ This file is for PhD study plan and progress log.
     - Quiz Invigilation
       - [1] Quiz Invigilation - Feb 7 2024 - 12:15 PM report Hall C - 12:30 PM ~ 1:30 PM [✅]
       - [2] Quiz Invigilation - Feb 27 2024 - 11:10 AM - 12:20 HALL C [✅] - Prof Yang En-Hua
+      - [3] Quiz Invigilation - Apr 08 2024 - 16:30 AM - 17:30 HALL C [✅] - Prof Qian Shunzhi
 
 - AY24/25 S1
 
