@@ -1326,17 +1326,36 @@ IDEAS:
 - [ ] GOOGLE NET
 
 ### 🚀 Apr 08 Mon
-- [ ] Weekly Meeting 9:30
-  - [ ] GPR Anomaly Detection
-- [ ] QUIZ INVIGILLATION 4:00 Report to Hall C - Prof Qian 4:30 - 5:30
-- [ ] Ticket Back From Guangzhou 5.4
-- [ ] Tickets Leaving Hongkong 5.1
-- [ ] Pre for MS8001 Presentation
+- [x] Weekly Meeting 9:30
+- [x] QUIZ INVIGILLATION 4:00 Report to Hall C - Prof Qian 4:30 - 5:30
+- [x] Pre for MS8001 Presentation
 
 ### 🚀 Apr 09
-- [ ] MS8001 - PRE - closing Part
+- [x] MS8001 - PRE - closing Part
 
 
+### 🚀 Apr 10
+- [ ] Meeting with Prof Fu - Paper Discussion 
+- [ ] Ticket Back From Guangzhou 5.4
+- [ ] Tickets Leaving Hongkong 5.1
+- [ ] HAJI LANE
+
+
+### 🚀 Apr 11
+
+### 🚀 Apr 12
+
+### 🚀 Apr 13
+
+### 🚀 Apr 14
+
+### 🚀 Apr 15 Mon
+
+### 🚀 Apr 16
+- [ ] 3MT Preparation
+
+### 🚀 Apr 17
+- [ ] 3MT 
 
 ### 🚀 Apr 15
 - [ ] PROTECT - Notification of Acceptance - Full Paper
