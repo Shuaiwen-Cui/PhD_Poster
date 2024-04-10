@@ -1335,11 +1335,10 @@ IDEAS:
 
 
 ### 🚀 Apr 10
-- [ ] Meeting with Prof Fu - Paper Discussion 
+- [x] Meeting with Prof Fu - Paper Discussion 
+- [x] HAJI LANE
 - [ ] Ticket Back From Guangzhou 5.4
 - [ ] Tickets Leaving Hongkong 5.1
-- [ ] HAJI LANE
-
 
 ### 🚀 Apr 11
 
@@ -1350,6 +1349,7 @@ IDEAS:
 ### 🚀 Apr 14
 
 ### 🚀 Apr 15 Mon
+- [ ] PROTECT - Notification of Acceptance - Full Paper
 
 ### 🚀 Apr 16
 - [ ] 3MT Preparation
@@ -1358,7 +1358,6 @@ IDEAS:
 - [ ] 3MT 
 
 ### 🚀 Apr 15
-- [ ] PROTECT - Notification of Acceptance - Full Paper
 
 
     
