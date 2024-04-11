@@ -1333,16 +1333,19 @@ IDEAS:
 ### 🚀 Apr 09
 - [x] MS8001 - PRE - closing Part
 
-
 ### 🚀 Apr 10
 - [x] Meeting with Prof Fu - Paper Discussion 
 - [x] HAJI LANE
-- [ ] Ticket Back From Guangzhou 5.4
-- [ ] Tickets Leaving Hongkong 5.1
 
 ### 🚀 Apr 11
+- [x] IoT Prototyping Meeting 3:30 PM - 4:30 PM
+- [x] Paper WSN
 
 ### 🚀 Apr 12
+- [ ] Setup STM32
+- [ ] Validation
+- [ ] Ticket Back From Guangzhou 5.4
+- [ ] Tickets Leaving Hongkong 5.1
 
 ### 🚀 Apr 13
 
@@ -1359,8 +1362,6 @@ IDEAS:
 
 ### 🚀 Apr 15
 
-
-    
 ## 5️⃣ May
 ### 🚀 May 15
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
