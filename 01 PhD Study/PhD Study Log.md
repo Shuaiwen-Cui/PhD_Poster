@@ -1345,13 +1345,15 @@ IDEAS:
 - [x] Setup STM32
   - [x] CMSIS DSP
   - [x] CMSIS NN
+
+### 🚀 Apr 13
 - [ ] Validation
 - [ ] Ticket Back From Guangzhou 5.4
 - [ ] Tickets Leaving Hongkong 5.1
-
-### 🚀 Apr 13
+- [ ] Paper
 
 ### 🚀 Apr 14
+- [ ] LRC Birthday - FLOWERS
 
 ### 🚀 Apr 15 Mon
 - [ ] PROTECT - Notification of Acceptance - Full Paper
