@@ -1342,7 +1342,9 @@ IDEAS:
 - [x] Paper WSN
 
 ### 🚀 Apr 12
-- [ ] Setup STM32
+- [x] Setup STM32
+  - [x] CMSIS DSP
+  - [x] CMSIS NN
 - [ ] Validation
 - [ ] Ticket Back From Guangzhou 5.4
 - [ ] Tickets Leaving Hongkong 5.1
