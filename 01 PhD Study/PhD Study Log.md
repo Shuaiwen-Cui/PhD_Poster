@@ -1347,19 +1347,28 @@ IDEAS:
   - [x] CMSIS NN
 
 ### 🚀 Apr 13
-- [ ] Validation
-- [ ] Ticket Back From Guangzhou 5.4
-- [ ] Tickets Leaving Hongkong 5.1
-- [ ] Paper
+- [x] Ticket Back From Guangzhou 5.4
 
 ### 🚀 Apr 14
-- [ ] LRC Birthday - FLOWERS
+- [ ] Validation
+  - [x] MATLAB
+  - [x] PYTHON
+  - [ ] STM32
+    - something wrong with the file system or loading data (smaller SD card / enabling functions / try 正点原子)
+    - CMSIS DSP issues
+- [ ] Paper
+
+- [ ] ABSTRACT
+- [ ] RL
+- [ ] QE
 
 ### 🚀 Apr 15 Mon
 - [ ] PROTECT - Notification of Acceptance - Full Paper
 
 ### 🚀 Apr 16
 - [ ] 3MT Preparation
+- [ ] Tickets Leaving Hongkong 5.1
+
 
 ### 🚀 Apr 17
 - [ ] 3MT 
