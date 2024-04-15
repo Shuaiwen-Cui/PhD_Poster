@@ -1353,27 +1353,58 @@ IDEAS:
 - [ ] Validation
   - [x] MATLAB
   - [x] PYTHON
-  - [ ] STM32
+  - [x] STM32
     - something wrong with the file system or loading data (smaller SD card / enabling functions / try 正点原子)
     - CMSIS DSP issues
+
+### 🚀 Apr 15 Mon
+- [ ] weekly meeting 9:30
+  - [1] Paper All done but the verification section
+  - [2] Verification with STM32
+    - Xnode -> Xudong
+    - Xnode Implementation - pointwise
+    - STM32 for verification - batchwise
+    - STM32 for verification
+      - fewer samples allowed (need to enlarge the heap and stack sizes)
+    - Results
+      - same parameters - inconsistent results (may caused by kernel functions)
+      - [x] need to recode PC side code for consistency
+      - prediction value same; confidence interval value different 
+
+### 🚀 Apr 16
+- [ ] 3MT Preparation
+
+### 🚀 Apr 17
+- [ ] MS8001 3MT 
 - [ ] Paper
 
 - [ ] ABSTRACT
 - [ ] RL
 - [ ] QE
 
-### 🚀 Apr 15 Mon
+
+### 🚀 Apr 18
+
+### 🚀 Apr 19
+
+### 🚀 Apr 20
+
+
+### 🚀 Apr 21
+
+### 🚀 Apr 22 Mon
+- [ ] Tickets Leaving Hongkong 5.1
 - [ ] PROTECT - Notification of Acceptance - Full Paper
 
-### 🚀 Apr 16
-- [ ] 3MT Preparation
-- [ ] Tickets Leaving Hongkong 5.1
 
 
-### 🚀 Apr 17
-- [ ] 3MT 
 
-### 🚀 Apr 15
+
+
+
+
+
+
 
 ## 5️⃣ May
 ### 🚀 May 15
