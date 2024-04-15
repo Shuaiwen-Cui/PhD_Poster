@@ -1375,7 +1375,9 @@ IDEAS:
 - [ ] !!! Standby Exam Invigilation Swap
 
 ### 🚀 Apr 16
+- [ ] Make the graph, finish the write up
 - [ ] 3MT Preparation
+- [ ] Prof Fu Slides
 
 ### 🚀 Apr 17
 - [ ] MS8001 3MT 
