@@ -1358,7 +1358,7 @@ IDEAS:
     - CMSIS DSP issues
 
 ### 🚀 Apr 15 Mon
-- [ ] weekly meeting 9:30
+- [x] weekly meeting 9:30
   - [1] Paper All done but the verification section
   - [2] Verification with STM32
     - Xnode -> Xudong
@@ -1370,13 +1370,15 @@ IDEAS:
       - same parameters - inconsistent results (may caused by kernel functions)
       - [x] need to recode PC side code for consistency
       - prediction value same; confidence interval value different 
+
+### 🚀 Apr 16
+- [x] Make the graph, finish the write up
+- [ ] 3pm meeting with Prof Fu at N1-1-c96
+- [ ] 跟傅老师请假，系统请假
 - [ ] Prof Fu Presentation in China - SLIDES Edge Intelligence for SHM 内容包括模型和实测。30页左右内容，讲40分钟。另一份是edge intelligence for SHM，由帅文牵头，于潇和沈伟辅助。内容包括data anomaly, GPR/SPC和实测。也是一样的长度。
 - [ ] PUB SLIDES PREPARATION
 - [ ] !!! Standby Exam Invigilation Swap
-
-### 🚀 Apr 16
-- [ ] Make the graph, finish the write up
-- [ ] 3MT Preparation
+- [ ] !!! 3MT Preparation
 - [ ] Prof Fu Slides
 
 ### 🚀 Apr 17
