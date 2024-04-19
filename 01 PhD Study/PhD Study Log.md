@@ -1370,27 +1370,25 @@ IDEAS:
 
 ### 🚀 Apr 18
 - [x] IoT sensor prototyping 3:30 pm
-- [ ] Prof Fu Presentation in China - SLIDES Edge Intelligence for SHM 内容包括模型和实测。30页左右内容，讲40分钟。另一份是edge intelligence for SHM，由帅文牵头，于潇和沈伟辅助。内容包括data anomaly, GPR/SPC和实测。也是一样的长度。
-- [ ] PUB SLIDES PREPARATION
-- [ ] Paper
-- [ ] 跟傅老师请假，系统请假
-- [ ] !!! Standby Exam Invigilation Swap
-- [ ] Prof Fu Slides
-- [ ] Review Paper - chapter 3 & 4 
-- [ ] QE
-- [ ] PROTECT
-- [ ] GOOGLE NET
-- [ ] ABSTRACT
-- [ ] RL
-- [ ] QE
-
 
 ### 🚀 Apr 19
+- [x] Prof Fu Presentation in China - SLIDES Edge Intelligence for SHM 内容包括模型和实测。30页左右内容，讲40分钟。另一份是edge intelligence for SHM，由帅文牵头，于潇和沈伟辅助。内容包括data anomaly, GPR/SPC和实测。也是一样的长度。
+- [x] Paper
+- [x] !!! Standby Exam Invigilation Swap
 
 ### 🚀 Apr 20
-
+- [ ] QE
+- [ ] Review Paper - chapter 3 & 4 
+- [ ] PROTECT
+  - [ ] ABSTRACT
+- [ ] PUB SLIDES PREPARATION
+- [ ] GOOGLE NET
+- [ ] RL
 
 ### 🚀 Apr 21
+- [ ] 跟傅老师请假，系统请假
+
+
 
 ### 🚀 Apr 22 Mon
 - [ ] Tickets Leaving Hongkong 5.1
