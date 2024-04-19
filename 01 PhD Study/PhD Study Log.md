@@ -1391,18 +1391,8 @@ IDEAS:
 
 
 ### 🚀 Apr 22 Mon
-- [ ] Tickets Leaving Hongkong 5.1
+- [x] Tickets Leaving Hongkong 5.1
 - [ ] PROTECT - Notification of Acceptance - Full Paper
-
-
-
-
-
-
-
-
-
-
 
 ## 5️⃣ May
 ### 🚀 May 15
