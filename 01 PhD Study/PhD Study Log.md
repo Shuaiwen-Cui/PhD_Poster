@@ -1378,6 +1378,7 @@ IDEAS:
 - [x] 51 - RTC  
 
 ### 🚀 Apr 20
+- [ ] pub visit slides length / ddl?
 - [ ] QE
 - [ ] Review Paper - chapter 3 & 4 
 - [ ] PROTECT
