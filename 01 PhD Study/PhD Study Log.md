@@ -1375,6 +1375,7 @@ IDEAS:
 - [x] Prof Fu Presentation in China - SLIDES Edge Intelligence for SHM 内容包括模型和实测。30页左右内容，讲40分钟。另一份是edge intelligence for SHM，由帅文牵头，于潇和沈伟辅助。内容包括data anomaly, GPR/SPC和实测。也是一样的长度。
 - [x] Paper
 - [x] !!! Standby Exam Invigilation Swap
+- [x] 51 - RTC  
 
 ### 🚀 Apr 20
 - [ ] QE
@@ -1387,7 +1388,7 @@ IDEAS:
 
 ### 🚀 Apr 21
 - [ ] 跟傅老师请假，系统请假
-
+- [ ] PUB VISIT DEMO
 
 
 ### 🚀 Apr 22 Mon
