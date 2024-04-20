@@ -1378,7 +1378,11 @@ IDEAS:
 - [x] 51 - RTC  
 
 ### 🚀 Apr 20
-- [ ] pub visit slides length / ddl?
+- [x] pub visit slides length / ddl?
+
+### 🚀 Apr 21
+- [ ] 跟傅老师请假，系统请假
+- [ ] PUB VISIT DEMO
 - [ ] QE
 - [ ] Review Paper - chapter 3 & 4 
 - [ ] PROTECT
@@ -1386,11 +1390,7 @@ IDEAS:
 - [ ] PUB SLIDES PREPARATION
 - [ ] GOOGLE NET
 - [ ] RL
-
-### 🚀 Apr 21
-- [ ] 跟傅老师请假，系统请假
-- [ ] PUB VISIT DEMO
-
+- [ ] NUS Xnode 17:00
 
 ### 🚀 Apr 22 Mon
 - [x] Tickets Leaving Hongkong 5.1
