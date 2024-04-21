@@ -1389,7 +1389,7 @@ IDEAS:
 - [ ] PUB SLIDES PREPARATION
 - [ ] GOOGLE NET
 - [ ] RL
-- [ ] NUS Xnode 17:00
+- [x] NUS Xnode 17:00
 - [ ] 跟傅老师请假，系统请假
 
 
