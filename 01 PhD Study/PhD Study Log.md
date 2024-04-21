@@ -1381,7 +1381,6 @@ IDEAS:
 - [x] pub visit slides length / ddl?
 
 ### 🚀 Apr 21
-- [ ] 跟傅老师请假，系统请假
 - [ ] PUB VISIT DEMO
 - [ ] QE
 - [ ] Review Paper - chapter 3 & 4 
@@ -1391,6 +1390,8 @@ IDEAS:
 - [ ] GOOGLE NET
 - [ ] RL
 - [ ] NUS Xnode 17:00
+- [ ] 跟傅老师请假，系统请假
+
 
 ### 🚀 Apr 22 Mon
 - [x] Tickets Leaving Hongkong 5.1
