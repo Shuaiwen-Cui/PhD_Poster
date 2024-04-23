@@ -1381,21 +1381,20 @@ IDEAS:
 - [x] pub visit slides length / ddl?
 
 ### 🚀 Apr 21
+- [x] NUS Xnode 17:00
+
+### 🚀 Apr 22 Mon
+- [x] Tickets Leaving Hongkong 5.1
+- [ ] PUB SLIDES PREPARATION
 - [ ] PUB VISIT DEMO
+- [ ] 跟傅老师请假，系统请假
+- [ ] PROTECT - Notification of Acceptance - Full Paper 
 - [ ] QE
 - [ ] Review Paper - chapter 3 & 4 
 - [ ] PROTECT
   - [ ] ABSTRACT
-- [ ] PUB SLIDES PREPARATION
 - [ ] GOOGLE NET
 - [ ] RL
-- [x] NUS Xnode 17:00
-- [ ] 跟傅老师请假，系统请假
-
-
-### 🚀 Apr 22 Mon
-- [x] Tickets Leaving Hongkong 5.1
-- [ ] PROTECT - Notification of Acceptance - Full Paper
 
 ## 5️⃣ May
 ### 🚀 May 15
