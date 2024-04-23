@@ -1385,8 +1385,14 @@ IDEAS:
 
 ### 🚀 Apr 22 Mon
 - [x] Tickets Leaving Hongkong 5.1
-- [ ] PUB SLIDES PREPARATION
-- [ ] PUB VISIT DEMO
+- [x] PUB SLIDES PREPARATION
+- [x] PUB VISIT DEMO
+
+### 🚀 Apr 23
+- [x] PUB VISIT
+- [x] Xnode livestreaming
+
+### 🚀 Apr 24
 - [ ] 跟傅老师请假，系统请假
 - [ ] PROTECT - Notification of Acceptance - Full Paper 
 - [ ] QE
