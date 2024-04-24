@@ -1393,7 +1393,9 @@ IDEAS:
 - [x] Xnode livestreaming
 
 ### 🚀 Apr 24
-- [ ] 跟傅老师请假，系统请假
+- [x] 跟傅老师请假，系统请假
+  
+### 🚀 Apr 25
 - [ ] PROTECT - Notification of Acceptance - Full Paper 
 - [ ] QE
 - [ ] Review Paper - chapter 3 & 4 
@@ -1401,6 +1403,20 @@ IDEAS:
   - [ ] ABSTRACT
 - [ ] GOOGLE NET
 - [ ] RL
+
+### 🚀 Apr 26
+
+### 🚀 Apr 27
+
+
+### 🚀 Apr 28
+
+### 🚀 Apr 29 Mon
+
+### 🚀 Apr 30
+
+
+
 
 ## 5️⃣ May
 ### 🚀 May 15
