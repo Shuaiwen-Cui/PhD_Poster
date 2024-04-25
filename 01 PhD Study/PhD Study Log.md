@@ -1396,12 +1396,14 @@ IDEAS:
 - [x] 跟傅老师请假，系统请假
   
 ### 🚀 Apr 25
+- [ ] Review Paper - chapter 3 & 4 
+- [ ] SATM
+- [ ] FL
 - [ ] PROTECT - Notification of Acceptance - Full Paper 
 - [ ] QE
-- [ ] Review Paper - chapter 3 & 4 
 - [ ] PROTECT
-  - [ ] ABSTRACT
-- [ ] GOOGLE NET
+- [ ] ABSTRACT
+- [ ] TRANSFORM NET
 - [ ] RL
 
 ### 🚀 Apr 26
