@@ -1396,9 +1396,10 @@ IDEAS:
 - [x] 跟傅老师请假，系统请假
   
 ### 🚀 Apr 25
-- [ ] Review Paper - chapter 3 & 4 
+- [x] Review Paper - chapter 3
 
 ### 🚀 Apr 26
+- [ ] Review Paper - chapter 4
 - [ ] SATM
 - [ ] FL
 - [ ] PROTECT - Notification of Acceptance - Full Paper 
@@ -1408,6 +1409,7 @@ IDEAS:
 - [ ] TRANSFORM NET
 - [ ] RL
 
+idea: transfer learning for SATM
 
 ### 🚀 Apr 27
 
