@@ -1401,8 +1401,13 @@ IDEAS:
 ### 🚀 Apr 26
 - [x] Review Paper - chapter 4
 - [x] Review Paper - chapter 5
-- [ ] Review Paper - chapter 6
-- [ ] Review Paper - chapter 7 
+- [x] Review Paper - chapter 6
+- [x] Review Paper - chapter 7 
+
+### 🚀 Apr 27
+- [x] Review Paper - last check and send to co-authors
+
+### 🚀 Apr 28
 - [ ] SATM
 - [ ] FL
 - [ ] PROTECT - ABSTRACT & FULL PAPER
@@ -1414,11 +1419,6 @@ IDEAS:
 - [ ] RL
 
 idea: transfer learning for SATM
-
-### 🚀 Apr 27
-
-
-### 🚀 Apr 28
 
 ### 🚀 Apr 29 Mon
 
