@@ -1408,6 +1408,10 @@ IDEAS:
 - [x] Review Paper - last check and send to co-authors
 
 ### 🚀 Apr 28
+- [x] Setup STM32H743 for mac programming
+- [ ] 
+
+### 🚀 Apr 29 Mon
 - [ ] SATM
 - [ ] FL
 - [ ] PROTECT - ABSTRACT & FULL PAPER
@@ -1419,15 +1423,12 @@ IDEAS:
 - [ ] RL
 
 idea: transfer learning for SATM
-
-### 🚀 Apr 29 Mon
-
 ### 🚀 Apr 30
 
 
-
-
 ## 5️⃣ May
+
+
 ### 🚀 May 15
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
 
