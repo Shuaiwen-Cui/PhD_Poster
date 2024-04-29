@@ -1409,7 +1409,6 @@ IDEAS:
 
 ### 🚀 Apr 28
 - [x] Setup STM32H743 for mac programming
-- [ ] 
 
 ### 🚀 Apr 29 Mon
 - [ ] SATM
