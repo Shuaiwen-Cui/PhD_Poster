@@ -1221,7 +1221,7 @@ IDEAS:
 
 ### 🚀 Mar 17
 - [x] 51 practice
-- [ ] DSP setup 
+- [x] DSP setup 
 - [ ] PROTECT - Extended Abstract Submission - for Student Competition (at least 3 pgs)
 - [ ] PROTECT - Full Paper Submission - for Conference (8-10 pgs)
 
@@ -1236,10 +1236,10 @@ IDEAS:
 - [x] 朱晗NTU visit 6:00 PM PIE+DURIAN
 
 ### 🚀 Mar 20
-- [ ] Meeting with Prof Fu 9:30 AM - DISP EST
-- [ ] MS8001 PRESENTATION 1
-- [ ] HAND LASER POINTER TO XING ZIJIE
-- [ ] Check Distributed Computing Framework For Edge Computing
+- [x] Meeting with Prof Fu 9:30 AM - DISP EST
+- [x] MS8001 PRESENTATION 1
+- [x] HAND LASER POINTER TO XING ZIJIE
+- [x] Check Distributed Computing Framework For Edge Computing
 
 ### 🚀 Mar 21
 - [x] IOT PROTOTYPING - ADITYA 4:00 PM
@@ -1411,22 +1411,40 @@ IDEAS:
 - [x] Setup STM32H743 for mac programming
 
 ### 🚀 Apr 29 Mon
-- [ ] SATM
-- [ ] FL
-- [ ] PROTECT - ABSTRACT & FULL PAPER
-- [ ] PROTECT - Notification of Acceptance - Full Paper 
-- [ ] QE
-- [ ] PROTECT
-- [ ] ABSTRACT
-- [ ] TRANSFORM NET
-- [ ] RL
 
-idea: transfer learning for SATM
 ### 🚀 Apr 30
-
 
 ## 5️⃣ May
 
+### 🚀 May 01
+- [x] Paper-GPR-SPC-Revision
+
+### 🚀 May 02
+- [x] SATM MODEL 1 & MODEL 3
+
+### 🚀 May 03
+- [x] Manuscript Revision
+- [ ] PROTECT Preparation
+- [ ] PROTECT - ABSTRACT & FULL PAPER
+- [ ] PROTECT - Notification of Acceptance - Full Paper 
+idea: transfer learning for SATM
+- [ ] FL
+- [ ] RL
+- [ ] TRANSFORM NET
+### 🚀 May 04
+
+### 🚀 May 05
+
+### 🚀 May 06
+- [ ] Postpone QE
+
+
+### 🚀 May 07
+- [ ] Exam Invigilation
+
+
+### 🚀 May 08
+- [ ] Standby Exam Invigilation
 
 ### 🚀 May 15
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
