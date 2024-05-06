@@ -1424,6 +1424,20 @@ IDEAS:
 
 ### 🚀 May 03
 - [x] Manuscript Revision
+
+### 🚀 May 04
+
+### 🚀 May 05
+- [ ] RL for SATM
+- [ ] PROTECT - CONTENTS - SETUP
+
+### 🚀 May 06 Mon
+- [x] Weekly Meeting 9:30
+- [ ] Review Paper Drafting
+
+### 🚀 May 07
+- [ ] Exam Invigilation ! Dress Properly !
+- [ ] Postpone QE
 - [ ] PROTECT Preparation
 - [ ] PROTECT - ABSTRACT & FULL PAPER
 - [ ] PROTECT - Notification of Acceptance - Full Paper 
@@ -1431,17 +1445,6 @@ idea: transfer learning for SATM
 - [ ] FL
 - [ ] RL
 - [ ] TRANSFORM NET
-### 🚀 May 04
-
-### 🚀 May 05
-
-### 🚀 May 06
-- [ ] Postpone QE
-
-
-### 🚀 May 07
-- [ ] Exam Invigilation
-
 
 ### 🚀 May 08
 - [ ] Standby Exam Invigilation
