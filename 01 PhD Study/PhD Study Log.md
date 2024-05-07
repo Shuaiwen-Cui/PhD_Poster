@@ -73,6 +73,9 @@ This file is for PhD study plan and progress log.
       - [1] Quiz Invigilation - Feb 7 2024 - 12:15 PM report Hall C - 12:30 PM ~ 1:30 PM [✅]
       - [2] Quiz Invigilation - Feb 27 2024 - 11:10 AM - 12:20 HALL C [✅] - Prof Yang En-Hua
       - [3] Quiz Invigilation - Apr 08 2024 - 16:30 AM - 17:30 HALL C [✅] - Prof Qian Shunzhi
+    - Exam Invigilation
+      - [1] Exam Invigilation - May 07 2024 - 9:00 AM - 11:00 AM Hall A [✅] - Prof Zhu Feng (8:30 AM - 11:00 AM)
+      - [2] Exam Invigilation - May 08 2024 - 8:30 AM - 9:00 AM report to Soo Ching
 
 - AY24/25 S1
 
@@ -91,8 +94,11 @@ This file is for PhD study plan and progress log.
   3. Investigation of Membrane Fouling during Se-Closed Reverse Osmosis (SCRO) Desalination - [✅] - Mr Xiao Yifu - CEE GSU - Nov 29, 2023
   4. ‘Setting Effective KPIs to Achieve Maximum Results’ by Mr Jeffrey Williams - [✅] - Graduate College – Transferable Skills Series - Nov 29, 2023
   5. Effect of Shear Deformation on Behaviors of Reinforced Concrete Structural Members - Mr Lin Haoran - [✅] -  4 December 2023, Monday - Time: 2.00pm - CEE Seminar Room B (N1-B1b-16)
-  6. Integrating Workforce Planning and Scheduling for Intelligent  Manufacture of Prefabricated Bathroom Unit - Han Jinchi, Dec 13, 2023
-  7. preparing for an Academic Career - Dr Elaine Walsh - Dec 27, 2023
+  6. Integrating Workforce Planning and Scheduling for Intelligent  Manufacture of Prefabricated Bathroom Unit - Han Jinchi - [✅]  Dec 13, 2023
+  7. preparing for an Academic Career - Dr Elaine Walsh - [✅] - Dec 27, 2023
+  8. Development of Seawater Reverse Osmosis Membranes for Efficient Desalination and Boron Removal - Mr Li Can - [✅] - March 26, 2024
+  9. Impact of Connected and Autonomous Vehicle Platooning Characteristics in Mixed Traffic Environment - Mr Zhao Peilin - [✅] - March 27, 2024
+  10. Structural Behaviour of Recycled Aggregate Concrete-Filled Stainless Steel Tube Members after Exposure to Fire - Mr Wang Ziyi - [✅] - April 24, 2024
 
 > AY24/25
 
@@ -108,12 +114,6 @@ This file is for PhD study plan and progress log.
 > PE CT to be done if required
 
 ## 1.6 3MT
-
-
-
-
-
-
 
 # 📚 II Coursework
 ## 2.1 Necessary
@@ -135,8 +135,8 @@ This file is for PhD study plan and progress log.
 ## 2.3 HWG702
 > ~Passed
 
-## 2.4 HWG704
-> to check the curriculum
+## 2.4 HWG704 / MS8001
+> Finished
 
 # 🏛  III Research
 ## 3.1 Literature Review - Computing in IoT-based SHM
@@ -150,11 +150,18 @@ This file is for PhD study plan and progress log.
     - 2.3 Actuation - [✅]
     - 2.4 Network and Communication - [✅]
     - 2.5 Computing and Cognition - [✅]
-  - View 1
-  - View 2
-  - VIew 3
+  - Temporal-Spatial Perspective
+  - Driving Force Perspective
+  - Application Perspective
   - Discussion
+    - Challenges
+    - Potential Enablers
   - Conclusions
+- Coauthor Writing
+  - Feedback From Fu Hao [✅]
+  - Feedback From Dr Shen [ ]
+  - Feedback From Yu Xiao [ ]
+  - Feedback From Prof Fu [ ]
 
 ## 3.2 Smart Adaptive Triggering Mechanism
 - Smart
