@@ -75,7 +75,7 @@ This file is for PhD study plan and progress log.
       - [3] Quiz Invigilation - Apr 08 2024 - 16:30 AM - 17:30 HALL C [✅] - Prof Qian Shunzhi
     - Exam Invigilation
       - [1] Exam Invigilation - May 07 2024 - 9:00 AM - 11:00 AM Hall A [✅] - Prof Zhu Feng (8:30 AM - 11:00 AM)
-      - [2] Exam Invigilation - May 08 2024 - 8:30 AM - 9:00 AM report to Soo Ching
+      - [2] Exam Invigilation - May 08 2024 - 8:30 AM - 9:00 AM report to Soo Ching - [✅]
 
 - AY24/25 S1
 
