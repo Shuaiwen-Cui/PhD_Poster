@@ -159,8 +159,8 @@ This file is for PhD study plan and progress log.
   - Conclusions
 - Coauthor Writing
   - Feedback From Fu Hao [✅]
-  - Feedback From Dr Shen [ ]
-  - Feedback From Yu Xiao [ ]
+  - Feedback From Dr Shen [✅]
+  - Feedback From Yu Xiao [✅]
   - Feedback From Prof Fu [ ]
 
 ## 3.2 Smart Adaptive Triggering Mechanism
