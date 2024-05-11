@@ -1456,6 +1456,20 @@ idea: transfer learning for SATM
 ### 🚀 May 08
 - [ ] Standby Exam Invigilation
 
+### 🚀 May 09
+
+### 🚀 May 10
+
+### 🚀 May 11
+- [x] Data Preparation - EarthQuake OK
+
+### 🚀 May 12
+
+### 🚀 May 13 Mon
+
+### 🚀 May 14
+
+
 ### 🚀 May 15
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
 
