@@ -1466,12 +1466,15 @@ idea: transfer learning for SATM
 ### 🚀 May 12
 
 ### 🚀 May 13 Mon
+- [x] Weekly Meeting 9:30
+- [ ]  
 
 ### 🚀 May 14
-
+- [ ] Postpone QE
 
 ### 🚀 May 15
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
+- [ ] Xiangyu QE 1:30 pm
 
 
 ## 6️⃣ June
