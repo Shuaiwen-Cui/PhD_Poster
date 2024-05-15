@@ -1470,11 +1470,13 @@ idea: transfer learning for SATM
 - [ ]  
 
 ### 🚀 May 14
-- [ ] Postpone QE
+- [2/4] load simulation
+- [x] model simulation
+
 
 ### 🚀 May 15
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
-- [ ] Xiangyu QE 1:30 pm
+- [x] Xiangyu QE 1:30 pm
 
 
 ## 6️⃣ June
