@@ -1467,7 +1467,6 @@ idea: transfer learning for SATM
 
 ### 🚀 May 13 Mon
 - [x] Weekly Meeting 9:30
-- [ ]  
 
 ### 🚀 May 14
 - [2/4] load simulation
@@ -1475,8 +1474,20 @@ idea: transfer learning for SATM
 
 
 ### 🚀 May 15
-- [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
 - [x] Xiangyu QE 1:30 pm
+
+### 🚀 May 16
+- [x] Meeting with Prof Fu - canceled
+- [x] Sensor Prototyping - 3:30 pm
+  - [x] confirm ddl
+  - [x] confirm Yuqing's Progress 
+
+### 🚀 May 17
+- [ ] Response Calculation ODE
+- [ ] postpone QE - Soo Ching 
+- [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
+
+### 🚀 May 18
 
 
 ## 6️⃣ June
