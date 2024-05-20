@@ -44,9 +44,10 @@ This file is for PhD study plan and progress log.
       - [1] EG0001 & EG1001 - Prof Lum Kit Meng - Endorsed by Ong Shu Wen - [✅]
         - 1 walk through - 1 hr
         - 4 classes - 4 x 2 hrs
+        - additional 0.5 hr
     - Quiz Invigilation
       - [1] Captain Tan Kim Hock - [✅] 
-        - time - 2 hrs
+        - time - 1.5 hrs
   - Exam Invigilation
     - Standard Exam Invigilation
       - [1] Nov 25 2023 - N1-B4C-09a - Report at 8:30  - duration 9:00-11:35 - [✅]
@@ -69,13 +70,15 @@ This file is for PhD study plan and progress log.
         - 1 walk through - 1 hr - [✅]
         - week 1 - 2 hrs - [✅]
         - week 2 - 2 hrs - [✅]
+        - additional 1.5 hrs - [✅]
     - Quiz Invigilation
       - [1] Quiz Invigilation - Feb 7 2024 - 12:15 PM report Hall C - 12:30 PM ~ 1:30 PM [✅]
       - [2] Quiz Invigilation - Feb 27 2024 - 11:10 AM - 12:20 HALL C [✅] - Prof Yang En-Hua
       - [3] Quiz Invigilation - Apr 08 2024 - 16:30 AM - 17:30 HALL C [✅] - Prof Qian Shunzhi
     - Exam Invigilation
       - [1] Exam Invigilation - May 07 2024 - 9:00 AM - 11:00 AM Hall A [✅] - Prof Zhu Feng (8:30 AM - 11:00 AM)
-      - [2] Exam Invigilation - May 08 2024 - 8:30 AM - 9:00 AM report to Soo Ching - [✅]
+    - Standby Exam Invigilation
+      - [1] Exam Invigilation - May 08 2024 - 8:30 AM - 9:00 AM report to Soo Ching - [✅]
 
 - AY24/25 S1
 
@@ -1440,7 +1443,6 @@ IDEAS:
 
 ### 🚀 May 06 Mon
 - [x] Weekly Meeting 9:30
-- [ ] Review Paper Drafting
 
 ### 🚀 May 07
 - [ ] Exam Invigilation ! Dress Properly !
@@ -1486,15 +1488,16 @@ idea: transfer learning for SATM
 - [x] Response Calculation - newmark-beta
 
 ### 🚀 May 18
-- [ ] PSO / RL
-- [ ] postpone QE - Soo Ching 
-- [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
 
 ### 🚀 May 19
 
 ### 🚀 May 20 Mon
+- [x] Weekly Meeting 9:30
 
 ### 🚀 May 21
+- [ ] postpone QE - Soo Ching - ask Soo Ching how to operate
+- [ ] PSO / RL
+- [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
 
 ### 🚀 May 22
 
