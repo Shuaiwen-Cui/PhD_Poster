@@ -1495,11 +1495,13 @@ idea: transfer learning for SATM
 - [x] Weekly Meeting 9:30
 
 ### 🚀 May 21
-- [ ] postpone QE - Soo Ching - ask Soo Ching how to operate
-- [ ] PSO / RL
-- [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
+- [x] PSO
+- [x] https://www.youtube.com/watch?v=crJcDqIUbP4 (CUBEAI)
 
 ### 🚀 May 22
+- [ ] postpone QE - Soo Ching - ask Soo Ching how to operate - determine QE Report submission date
+- [ ] Annual Report Files
+- [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
 
 ### 🚀 May 23
 
