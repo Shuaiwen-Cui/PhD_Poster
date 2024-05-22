@@ -193,25 +193,30 @@ This file is for PhD study plan and progress log.
   - CMSIS
   - Mind the Error
 
-## 3.4 Data Saturation Recovery
+## 3.4 Federated Learning
 
 
 
 # 💼 IV - Project
-## 4.1 Facade Inspection
+
 
 
 
 # 👔 V - Conference
 ## 5.1 EMI2023 [Finished]
 
+## 5.2 PROTECT2024 [To be continued]
+
 
 # 📜 VI - Paper
-## 6.1 [Literature Review] - Computing in IoT-based Structural Health Monitoring.docx
+## 6.1 [Technical Paper] - Onboard Reference-Free Dynamic Displacement Estimation on Wireless Smart Sensors and its Application in Rapid Condition Assessment of Railroad Bridges
+- [x] Handed to Prof Fu
+- [ ] Comments from Coauthors
 
-## 6.2 [Technical Paper] - Smart Adaptive Triggering Mechanism for MEMS-based Sensors in SHM
+## 6.3 [Literature Review] - Computing in IoT-based Structural Health Monitoring.docx
+- [ ] Handed to Prof Fu
 
-## 6.3 [Technical Paper] - Onboard Reference-Free Dynamic Displacement Estimation on Wireless Smart Sensors and its Application in Rapid Condition Assessment of Railroad Bridges
+## 6.4 [Technical Paper] - Smart Adaptive Triggering Mechanism for MEMS-based Sensors in SHM
 
 
 # 👨‍🎓 VII - Thesis and Defence
@@ -1499,11 +1504,15 @@ idea: transfer learning for SATM
 - [x] https://www.youtube.com/watch?v=crJcDqIUbP4 (CUBEAI)
 
 ### 🚀 May 22
+- [x] PSO Optimization
+  - [x] treat is as a continuous problem, and map the final results to a discrete one. Rather than treat it as a discrete problem at the beginning. -- the convergence performance is much better
+  - [x] for each particle, if it is outside the boundary, or the it is selected to mutate, then its position will be randomly set to a new one within the boundary. -- avoid invalid solutions
+  - [x] properly set the inertia weight (0.9 to 0.5), cognitive weight (0.5 to 1), and social weight (0.5 to 1). -- highly related to the convergence performance  
+
+### 🚀 May 23
 - [ ] postpone QE - Soo Ching - ask Soo Ching how to operate - determine QE Report submission date
 - [ ] Annual Report Files
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
-
-### 🚀 May 23
 
 ### 🚀 May 24
 
