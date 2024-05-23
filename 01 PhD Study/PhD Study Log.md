@@ -1510,11 +1510,16 @@ idea: transfer learning for SATM
   - [x] properly set the inertia weight (0.9 to 0.5), cognitive weight (0.5 to 1), and social weight (0.5 to 1). -- highly related to the convergence performance  
 
 ### 🚀 May 23
-- [ ] postpone QE - Soo Ching - ask Soo Ching how to operate - determine QE Report submission date
 - [ ] Annual Report Files
+- [x] postpone QE - Soo Ching - ask Soo Ching how to operate - determine QE Report submission date
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
+- [x] Sensor Prototyping 3:30 pm
 
 ### 🚀 May 24
+- [ ] Finish the QE Extension Request Form and hand it to Prof Fu 
+- [ ] 
+
+
 
 ### 🚀 May 25
 
