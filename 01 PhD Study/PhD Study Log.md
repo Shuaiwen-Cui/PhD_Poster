@@ -1516,8 +1516,9 @@ idea: transfer learning for SATM
 - [x] Sensor Prototyping 3:30 pm
 
 ### 🚀 May 24
+- [ ] Try RL
+- [ ] QE REPORT / ANNUAL REPORT
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu 
-- [ ] 
 
 
 
