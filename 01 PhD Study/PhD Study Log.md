@@ -1515,19 +1515,24 @@ idea: transfer learning for SATM
 
 ### 🚀 May 24
 
-
 ### 🚀 May 25
 
 ### 🚀 May 26
 
 ### 🚀 May 27 Mon
-- [ ] Finish the QE Extension Request Form and hand it to Prof Fu
-- [ ] Try RL
-- [ ] QE REPORT / ANNUAL REPORT
-- [ ] Annual Report Files
-- [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
+- [x] Progress Report
+- [x] STM32 TRANSFORMER NET
+- [x] Validate on Target
+- [x] More Data for CNN Event Classification - onboard implementation failed -CASCADING IDENTIFICATION 
 
 ### 🚀 May 28
+- [ ] Annual Report Files
+- [ ] Young Talk for CUBEIDE use
+- [ ] Try RL
+- [ ] QE REPORT / ANNUAL REPORT
+- [ ] Finish the QE Extension Request Form and hand it to Prof Fu
+- [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
+
 
 ### 🚀 May 29
 
