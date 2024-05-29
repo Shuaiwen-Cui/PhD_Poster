@@ -1526,6 +1526,8 @@ idea: transfer learning for SATM
 - [x] More Data for CNN Event Classification - onboard implementation failed -CASCADING IDENTIFICATION 
 
 ### 🚀 May 28
+
+### 🚀 May 29
 - [ ] Annual Report Files
 - [ ] Young Talk for CUBEIDE use
 - [ ] Try RL
@@ -1534,7 +1536,7 @@ idea: transfer learning for SATM
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
 
 
-### 🚀 May 29
+- [ ] Scholarly Communication & Impact seminar, if requried.
 
 ### 🚀 May 30
 
