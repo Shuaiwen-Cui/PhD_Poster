@@ -1528,6 +1528,11 @@ idea: transfer learning for SATM
 ### 🚀 May 28
 
 ### 🚀 May 29
+
+### 🚀 May 30
+- [x] Manuscript Revision
+
+### 🚀 May 31
 - [ ] Annual Report Files
 - [ ] Young Talk for CUBEIDE use
 - [ ] Try RL
@@ -1535,12 +1540,8 @@ idea: transfer learning for SATM
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
 
-
 - [ ] Scholarly Communication & Impact seminar, if requried.
 
-### 🚀 May 30
-
-### 🚀 May 31
 
 ## 6️⃣ June
 
