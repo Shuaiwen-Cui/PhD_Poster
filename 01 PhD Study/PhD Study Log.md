@@ -1540,7 +1540,6 @@ idea: transfer learning for SATM
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
 
-- [ ] Scholarly Communication & Impact seminar, if requried.
 
 
 ## 6️⃣ June
