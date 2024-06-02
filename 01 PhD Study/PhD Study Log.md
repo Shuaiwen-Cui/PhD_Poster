@@ -1533,16 +1533,106 @@ idea: transfer learning for SATM
 - [x] Manuscript Revision
 
 ### 🚀 May 31
+
+
+## 6️⃣ June
+
+### 🚀 June 01
+- [x] Young Talk for CUBEIDE use
+
+
+### 🚀 June 02
+- [x] Website Reorganize - Infrastructure & Algorithm - Dev & Research
+- [x] Learn RL
+
+### 🚀 June 03 Mon
+- [ ] Try RL - Keras Examples
+- [ ] Release Assumptions PSO
+- [ ] Weekly Meeting 9:30
+- [ ] Adi Meeting
+
+### 🚀 June 04
 - [ ] Annual Report Files
-- [ ] Young Talk for CUBEIDE use
 - [ ] Try RL
 - [ ] QE REPORT / ANNUAL REPORT
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
 
+### 🚀 June 05
+
+### 🚀 June 06
+
+### 🚀 June 07
+
+### 🚀 June 08
+
+### 🚀 June 09
+
+### 🚀 June 10 Mon
+
+### 🚀 June 11 
+
+### 🚀 June 12
+
+### 🚀 June 13
+
+### 🚀 June 14
+
+### 🚀 June 15
+
+### 🚀 June 16
+
+### 🚀 June 17 Mon
+
+### 🚀 June 18
+
+### 🚀 June 19
+
+### 🚀 June 20
+
+### 🚀 June 21
+
+### 🚀 June 22
+
+### 🚀 June 23
+
+### 🚀 June 24 Mon
+
+### 🚀 June 25
+
+### 🚀 June 26
+
+### 🚀 June 27
+
+### 🚀 June 28
+
+### 🚀 June 29
+
+### 🚀 June 30
 
 
-## 6️⃣ June
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 7️⃣ July
 
