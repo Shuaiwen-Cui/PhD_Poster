@@ -1546,12 +1546,19 @@ idea: transfer learning for SATM
 - [x] Learn RL
 
 ### 🚀 June 03 Mon
-- [ ] Try RL - Keras Examples
-- [ ] Release Assumptions PSO
-- [ ] Weekly Meeting 9:30
-- [ ] Adi Meeting
+- [x] RL study - Easy RL
+- [x] RL Projects
+- [x] Release Assumptions PSO
+- [x] Weekly Meeting 9:30
+
 
 ### 🚀 June 04
+- [ ] Try Bayesian Optimization - the innovation lies in how you deal with the challenges in the optimization process
+  - [ ] observability
+  - [ ] imbalanced data
+  - [ ] real ground truth
+  - [ ] offline training
+- [ ] Adi Meeting
 - [ ] Annual Report Files
 - [ ] Try RL
 - [ ] QE REPORT / ANNUAL REPORT
