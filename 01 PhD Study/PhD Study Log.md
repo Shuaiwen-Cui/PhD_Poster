@@ -1551,8 +1551,11 @@ idea: transfer learning for SATM
 - [x] Release Assumptions PSO
 - [x] Weekly Meeting 9:30
 
-
 ### 🚀 June 04
+- [x] papre revision 
+- [x] Bayesian Optimization Test
+
+### 🚀 June 05
 - [ ] Try Bayesian Optimization - the innovation lies in how you deal with the challenges in the optimization process
   - [ ] observability
   - [ ] imbalanced data
@@ -1560,12 +1563,9 @@ idea: transfer learning for SATM
   - [ ] offline training
 - [ ] Adi Meeting
 - [ ] Annual Report Files
-- [ ] Try RL
 - [ ] QE REPORT / ANNUAL REPORT
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
-
-### 🚀 June 05
 
 ### 🚀 June 06
 
