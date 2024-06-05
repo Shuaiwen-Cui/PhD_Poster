@@ -1540,7 +1540,6 @@ idea: transfer learning for SATM
 ### 🚀 June 01
 - [x] Young Talk for CUBEIDE use
 
-
 ### 🚀 June 02
 - [x] Website Reorganize - Infrastructure & Algorithm - Dev & Research
 - [x] Learn RL
@@ -1556,18 +1555,19 @@ idea: transfer learning for SATM
 - [x] Bayesian Optimization Test
 
 ### 🚀 June 05
-- [ ] Try Bayesian Optimization - the innovation lies in how you deal with the challenges in the optimization process
+- [x] Try Bayesian Optimization - the innovation lies in how you deal with the challenges in the optimization process
   - [ ] observability
   - [ ] imbalanced data
   - [ ] real ground truth
   - [ ] offline training
+
+### 🚀 June 06
+- [ ] 9:30 Prof Fu Meeting
 - [ ] Adi Meeting
 - [ ] Annual Report Files
 - [ ] QE REPORT / ANNUAL REPORT
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
-
-### 🚀 June 06
 
 ### 🚀 June 07
 
