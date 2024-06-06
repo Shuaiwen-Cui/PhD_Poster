@@ -1562,14 +1562,19 @@ idea: transfer learning for SATM
   - [ ] offline training
 
 ### 🚀 June 06
-- [ ] 9:30 Prof Fu Meeting
-- [ ] Adi Meeting
+- [x] 9:30 Prof Fu Meeting
+
+### 🚀 June 07
+- [ ] Bayesian Optimization
+- [ ] Zhou Xin - Equipment Training
+- [ ] Adi Meeting 3:30 PM MATERIAL LAB
+  - Share Code
+
 - [ ] Annual Report Files
 - [ ] QE REPORT / ANNUAL REPORT
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
 
-### 🚀 June 07
 
 ### 🚀 June 08
 
