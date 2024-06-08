@@ -1565,20 +1565,27 @@ idea: transfer learning for SATM
 - [x] 9:30 Prof Fu Meeting
 
 ### 🚀 June 07
-- [ ] Bayesian Optimization
-- [ ] Zhou Xin - Equipment Training
-- [ ] Adi Meeting 3:30 PM MATERIAL LAB
+- [x] STM32 setup using CUBEMX + KEIL
+- [x] Zhou Xin - Equipment Training
+- [x] Adi Meeting 3:30 PM MATERIAL LAB
   - Share Code
 
+### 🚀 June 08
+- [x] LED
+- [x] PRINTF
+- [x] FMC-SDRAM
+- [x] SD
+- [x] FATFS
+- [x] CMSIS-DSP
+- [x] CMSIS-NN / CUBEAI
+
+### 🚀 June 09
+- [ ] Bayesian Optimization
 - [ ] Annual Report Files
 - [ ] QE REPORT / ANNUAL REPORT
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
 
-
-### 🚀 June 08
-
-### 🚀 June 09
 
 ### 🚀 June 10 Mon
 
