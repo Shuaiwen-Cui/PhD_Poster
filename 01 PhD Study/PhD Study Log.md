@@ -1580,14 +1580,18 @@ idea: transfer learning for SATM
 - [x] CMSIS-NN / CUBEAI
 
 ### 🚀 June 09
-- [ ] Bayesian Optimization
+- SDRAM
+  not easy to setup 
+- [x] Bayesian Optimization Theory
+- [ ] Bayesian Optimization Practice
+
+### 🚀 June 10 Mon
 - [ ] Annual Report Files
 - [ ] QE REPORT / ANNUAL REPORT
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
 
 
-### 🚀 June 10 Mon
 
 ### 🚀 June 11 
 
