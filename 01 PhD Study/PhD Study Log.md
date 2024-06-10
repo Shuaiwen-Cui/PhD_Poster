@@ -1582,15 +1582,14 @@ idea: transfer learning for SATM
 ### 🚀 June 09
 - SDRAM
   not easy to setup 
-- [x] Bayesian Optimization Theory
-- [ ] Bayesian Optimization Practice
 
 ### 🚀 June 10 Mon
+- [ ] Bayesian Optimization Theory
+- [ ] Bayesian Optimization Practice
 - [ ] Annual Report Files
 - [ ] QE REPORT / ANNUAL REPORT
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
-
 
 
 ### 🚀 June 11 
