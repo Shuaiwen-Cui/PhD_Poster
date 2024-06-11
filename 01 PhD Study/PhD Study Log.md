@@ -1584,15 +1584,19 @@ idea: transfer learning for SATM
   not easy to setup 
 
 ### 🚀 June 10 Mon
-- [ ] Bayesian Optimization Theory
-- [ ] Bayesian Optimization Practice
+- [x] Bayesian Optimization Theory
+- [x] Bayesian Optimization Practice
+
+### 🚀 June 11 
+- [x] Customized Bayesian Optimization
+- [x] Acquisition Function - Upper Confidence Bound - easy but not the best
+- [ ] Acquisition Function - Expected Improvement - better but not easy
+
 - [ ] Annual Report Files
 - [ ] QE REPORT / ANNUAL REPORT
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
 
-
-### 🚀 June 11 
 
 ### 🚀 June 12
 
