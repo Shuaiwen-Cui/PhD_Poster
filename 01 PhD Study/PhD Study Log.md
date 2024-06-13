@@ -1590,6 +1590,8 @@ idea: transfer learning for SATM
 ### 🚀 June 11 
 - [x] Customized Bayesian Optimization
 - [x] Acquisition Function - Upper Confidence Bound - easy but not the best
+
+### 🚀 June 12
 - [ ] Acquisition Function - Expected Improvement - better but not easy
 
 - [ ] Annual Report Files
@@ -1598,7 +1600,7 @@ idea: transfer learning for SATM
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
 
 
-### 🚀 June 12
+
 
 ### 🚀 June 13
 
