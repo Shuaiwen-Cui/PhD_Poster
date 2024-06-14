@@ -1592,21 +1592,19 @@ idea: transfer learning for SATM
 - [x] Acquisition Function - Upper Confidence Bound - easy but not the best
 
 ### 🚀 June 12
-- [ ] Acquisition Function - Expected Improvement - better but not easy
-
-- [ ] Annual Report Files
-- [ ] QE REPORT / ANNUAL REPORT
-- [ ] Finish the QE Extension Request Form and hand it to Prof Fu
-- [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
-
-
-
+- [x] Acquisition Function - Expected Improvement - better but not easy
 
 ### 🚀 June 13
+- [x] Xnode Test - failed
 
 ### 🚀 June 14
 
 ### 🚀 June 15
+- [ ] MEET WITH ADI 4PM MATERIAL LAB
+- [ ] Annual Report Files
+- [ ] QE REPORT / ANNUAL REPORT
+- [ ] Finish the QE Extension Request Form and hand it to Prof Fu
+- [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
 
 ### 🚀 June 16
 
