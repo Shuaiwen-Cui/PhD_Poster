@@ -1607,6 +1607,7 @@ idea: transfer learning for SATM
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
 
 ### 🚀 June 16
+- City of Tomorrow Proposal Preparation
 
 ### 🚀 June 17 Mon
 
