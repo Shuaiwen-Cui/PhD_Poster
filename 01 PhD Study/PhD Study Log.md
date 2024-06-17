@@ -1600,16 +1600,18 @@ idea: transfer learning for SATM
 ### 🚀 June 14
 
 ### 🚀 June 15
-- [ ] MEET WITH ADI 4PM MATERIAL LAB
+
+### 🚀 June 16
+- [x] City of Tomorrow Proposal Preparation
+- [ ] SATM
+
 - [ ] Annual Report Files
 - [ ] QE REPORT / ANNUAL REPORT
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
 
-### 🚀 June 16
-- City of Tomorrow Proposal Preparation
-
 ### 🚀 June 17 Mon
+- [ ] MEET WITH ADI 330 PM MATERIAL LAB
 
 ### 🚀 June 18
 
@@ -1636,30 +1638,6 @@ idea: transfer learning for SATM
 ### 🚀 June 29
 
 ### 🚀 June 30
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## 7️⃣ July
 
