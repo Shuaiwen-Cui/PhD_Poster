@@ -1609,18 +1609,25 @@ idea: transfer learning for SATM
 - [x] MEET WITH ADI 330 PM MATERIAL LAB
 
 ### 🚀 June 18
+- [x] NN trained for Recall Estimation
+- [x] SATM - PHASE I
+- [x] SATM - PHASE II 
+  - [x] The Partially Observability Issue is addressed by the estimation NN
+
+### 🚀 June 19
+- [ ] 11 am Hao Jie Luckin Coffee
 - [ ] Annual Report Files
 - [ ] QE REPORT / ANNUAL REPORT
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
 
-### 🚀 June 19
 
 ### 🚀 June 20
 
 ### 🚀 June 21
 
 ### 🚀 June 22
+- [ ] Xu Jinfeng Proj
 
 ### 🚀 June 23
 
