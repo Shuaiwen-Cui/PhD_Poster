@@ -1615,16 +1615,19 @@ idea: transfer learning for SATM
   - [x] The Partially Observability Issue is addressed by the estimation NN
 
 ### 🚀 June 19
-- [ ] 11 am Hao Jie Luckin Coffee
+- [x] 11 am Hao Jie Luckin Coffee
+
+### 🚀 June 20
+- [ ] Hao Jie Code Testing
+- [ ] 3:30 IoT sensor meeting
+- [ ] Adi Meeting
 - [ ] Annual Report Files
 - [ ] QE REPORT / ANNUAL REPORT
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
 
-
-### 🚀 June 20
-
 ### 🚀 June 21
+
 
 ### 🚀 June 22
 - [ ] Xu Jinfeng Proj
