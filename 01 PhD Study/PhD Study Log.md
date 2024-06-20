@@ -1618,16 +1618,18 @@ idea: transfer learning for SATM
 - [x] 11 am Hao Jie Luckin Coffee
 
 ### 🚀 June 20
+- [x] Prof Fu Meeting
+- [x] Slides for Prof Ivan Au
 - [ ] Hao Jie Code Testing
-- [ ] 3:30 IoT sensor meeting
-- [ ] Adi Meeting
+- [x] 3:30 IoT sensor meeting
 - [ ] Annual Report Files
 - [ ] QE REPORT / ANNUAL REPORT
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
 
 ### 🚀 June 21
-
+- onboard implementation 
+- [ ] Adi Meeting
 
 ### 🚀 June 22
 - [ ] Xu Jinfeng Proj
