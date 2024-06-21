@@ -1623,8 +1623,10 @@ idea: transfer learning for SATM
 - [x] 3:30 IoT sensor meeting
 
 ### 🚀 June 21
+- [ ] STM32H743 SETUP 
+  - [ ] for PROTECT
+  - [ ] for SATM
 - [ ] Hao Jie Code Testing
-- onboard implementation 
 - [ ] Adi Meeting
 - [ ] Annual Report Files
 - [ ] QE REPORT / ANNUAL REPORT
