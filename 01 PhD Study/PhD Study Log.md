@@ -1623,20 +1623,26 @@ idea: transfer learning for SATM
 - [x] 3:30 IoT sensor meeting
 
 ### 🚀 June 21
+- [x] Hao Jie Code Testing
+
+
+### 🚀 June 22
+- [x] Xu Jinfeng Proj
 - [ ] STM32H743 SETUP 
   - [ ] for PROTECT
   - [ ] for SATM
-- [ ] Hao Jie Code Testing
 - [ ] Adi Meeting
 - [ ] Annual Report Files
 - [ ] QE REPORT / ANNUAL REPORT
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
 
-### 🚀 June 22
-- [ ] Xu Jinfeng Proj
 
 ### 🚀 June 23
+- [x] XJF Result on LIFT SERVER + ORGANIZE
+
+
+
 
 ### 🚀 June 24 Mon
 
