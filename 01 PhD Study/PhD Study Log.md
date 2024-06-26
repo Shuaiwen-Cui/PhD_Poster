@@ -1632,11 +1632,13 @@ idea: transfer learning for SATM
 
 ### 🚀 June 24 Mon
 - [x] Engineering Structures - Paper Submit
-- [ ] USART IO
+
+### 🚀 June 25
+- [x] USART IO
 - [x] progress report
 - [ ] STM32H743 SETUP 
   - [x] LED
-  - [ ] USART
+  - [x] USART
   - [ ] FMC-SDRAM
   - [ ] SDMMC SD
   - [ ] FATFS
@@ -1644,15 +1646,15 @@ idea: transfer learning for SATM
   - [ ] CMSIS-NN / CUBEAI
 - [ ] XJF Result on LIFT SERVER + ORGANIZE
 
+### 🚀 June 26、
+- [ ] meeting with HAOJIE DR SHEN WEI
+- [ ] gatewat node to Prof Fu
 - [ ] Adi Meeting
 - [ ] Annual Report Files
 - [ ] QE REPORT / ANNUAL REPORT
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
 
-### 🚀 June 25
-
-### 🚀 June 26
 
 ### 🚀 June 27
 
