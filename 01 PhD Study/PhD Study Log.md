@@ -1647,18 +1647,21 @@ idea: transfer learning for SATM
 - [ ] XJF Result on LIFT SERVER + ORGANIZE
 
 ### 🚀 June 26、
-- [ ] meeting with HAOJIE DR SHEN WEI
-- [ ] gatewat node to Prof Fu
-- [ ] Adi Meeting
-- [ ] Annual Report Files
-- [ ] QE REPORT / ANNUAL REPORT
-- [ ] Finish the QE Extension Request Form and hand it to Prof Fu
-- [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
+- [x] meeting with HAOJIE DR SHEN WEI
+- [x] gatewat node to Prof Fu
+
+
+
 
 
 ### 🚀 June 27
 
 ### 🚀 June 28
+- [ ] Fu Hao Manuscript
+- [ ] Annual Report Files
+- [ ] QE REPORT / ANNUAL REPORT
+- [ ] Finish the QE Extension Request Form and hand it to Prof Fu
+- [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
 
 ### 🚀 June 29
 
