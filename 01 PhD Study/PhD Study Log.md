@@ -1651,31 +1651,106 @@ idea: transfer learning for SATM
 - [x] FSMC
 - [x] FMC
 - [x] SDRAM
-- [ ] SCT
-- [ ] SDMMC
-- [ ] SD
-- [ ] FATFS
-- [ ] CMSIS-DSP
-- [ ] CMSIS-NN / CUBEAI
+- [x] Memory Management
+- [x] SDMMC
+- [x] SD
+- [x] FATFS
+- [x] CMSIS-DSP
+- [x] CMSIS-NN / CUBEAI
 
-- [ ] STM32H743 SETUP 
+
+### 🚀 June 30
+- [x] STM32H743 SETUP 
   - [x] LED
   - [x] USART
-  - [ ] FMC-SDRAM
-  - [ ] SDMMC SD
-  - [ ] FATFS
-  - [ ] CMSIS-DSP
-  - [ ] CMSIS-NN / CUBEAI
+  - [x] FMC-SDRAM
+  - [x] SDMMC SD
+  - [x] FATFS
+  - [x] CMSIS-DSP
+  - [x] CMSIS-NN
+
+## 7️⃣ July
+
+### 🚀 July 01 Mon
+- [x] Meeting with Prof Fu - 9:30 AM
+- [x] ZHIHU - log the development process
+- [ ] ADC
+
+### 🚀 July 02
+
+6-STORY MODEL
+
+LAB TEST
+
+- [ ] & Task 1 Plan Writing & Paper Writing
+- [ ] Replicate Adi Work & PROTECT Paper Writing
+- [ ] SATM - REORGANIZATION
+
+- [ ] CUBEAI
 - [ ] XJF Result on LIFT SERVER + ORGANIZE
 - [ ] Annual Report Files
 - [ ] QE REPORT / ANNUAL REPORT
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
+### 🚀 July 03
+
+### 🚀 July 04
+
+### 🚀 July 05
+
+### 🚀 July 06
+
+### 🚀 July 07 
+
+### 🚀 July 08 Mon
+
+### 🚀 July 09 
+
+### 🚀 July 10 
+
+### 🚀 July 11 
+
+### 🚀 July 12
+
+### 🚀 July 13
+
+### 🚀 July 14
+
+### 🚀 July 15 Mon
+
+### 🚀 July 16
+
+### 🚀 July 17
+
+### 🚀 July 18 
+
+### 🚀 July 19
+
+### 🚀 July 20
+
+### 🚀 July 21
+
+### 🚀 July 22 Mon
+
+### 🚀 July 23 
+
+### 🚀 July 24
+
+### 🚀 July 25
+
+### 🚀 July 26
+
+### 🚀 July 27
+
+### 🚀 July 28 
+
+### 🚀 July 29 Mon
+
+### 🚀 July 30
+
+### 🚀 July 31
 
 
-### 🚀 June 30
-
-## 7️⃣ July
 
 # 📅 AY24/25
 
