@@ -1,7 +1,7 @@
 # 🏫 I Administrative Stuff
 ## 1.1 Thesis Advisory Committee (TAC)
 > Research Topic and Supervisor
-- Proposed Research Topic: Distributed Intelligence Enabling IoT-framework for Structural Health Monitoring
+- Proposed Research Topic: **Distributed Intelligence Enabling IoT-framework for Structural Health Monitoring**
 - Supervisor: Asst Prof Fu Yuguang
 
 > Determine the TAC Members

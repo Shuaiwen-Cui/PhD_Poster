@@ -1,6 +1,4 @@
 # PhD Study Log
-
-========================== LOG ==========================
 ✅ for finished
 ❎ for to be finished
 
@@ -1454,9 +1452,13 @@ idea: transfer learning for SATM
 - [x] Meeting with Prof Fu - 9:30 AM
 - [x] ZHIHU - log the development process
 
-
-
 ### 🚀 July 02
+
+### 🚀 July 03
+
+### 🚀 July 04
+- [ ] Paper -> Zhang Qi
+- [ ] Report To Prof Fu - 9:30 AM
 - [ ] ADC
 
 6-STORY MODEL
@@ -1473,10 +1475,6 @@ LAB TEST
 - [ ] QE REPORT / ANNUAL REPORT
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
-### 🚀 July 03
-
-### 🚀 July 04
-
 ### 🚀 July 05
 
 ### 🚀 July 06
