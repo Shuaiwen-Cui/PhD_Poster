@@ -1457,7 +1457,6 @@ idea: transfer learning for SATM
 ### 🚀 July 03
 
 ### 🚀 July 04
-- [ ] Paper -> Zhang Qi
 - [ ] Report To Prof Fu - 9:30 AM
 - [ ] ADC
 
