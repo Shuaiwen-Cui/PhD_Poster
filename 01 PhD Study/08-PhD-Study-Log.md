@@ -1462,14 +1462,22 @@ idea: transfer learning for SATM
 ### 🚀 July 05
 
 ### 🚀 July 06
-- [ ] Review to Zhang Qi
-- [ ] Meet with Adi
+- [x] Review to Zhang Qi
+- [x] Meet with Adi
+  - [x] Contract Duration
+  - [x] Meeting Time
+  - [x] Project DDL
+  - [x] Focus ICA
+  - [x] AI -> Yuqing
+  - [x] Replicate WT
+- [x] EmbedFire
+
+
+### 🚀 July 07 
 - [ ] Xnode Code Decyphering
 - [ ] STM32 AI development
 - [ ] SATM Reorganizing & Planing
 - [ ] Annual Report
-
-### 🚀 July 07 
 LAB TEST
 
 - [ ] & Task 1 Plan Writing & Paper Writing
