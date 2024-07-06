@@ -1457,11 +1457,19 @@ idea: transfer learning for SATM
 ### 🚀 July 03
 
 ### 🚀 July 04
-- [ ] Report To Prof Fu - 9:30 AM
-- [ ] ADC
+- [x] Report To Prof Fu - 9:30 AM
 
-6-STORY MODEL
+### 🚀 July 05
 
+### 🚀 July 06
+- [ ] Review to Zhang Qi
+- [ ] Meet with Adi
+- [ ] Xnode Code Decyphering
+- [ ] STM32 AI development
+- [ ] SATM Reorganizing & Planing
+- [ ] Annual Report
+
+### 🚀 July 07 
 LAB TEST
 
 - [ ] & Task 1 Plan Writing & Paper Writing
@@ -1474,13 +1482,10 @@ LAB TEST
 - [ ] QE REPORT / ANNUAL REPORT
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
-### 🚀 July 05
-
-### 🚀 July 06
-
-### 🚀 July 07 
 
 ### 🚀 July 08 Mon
+- Hafdiz -> key to the lab
+
 
 ### 🚀 July 09 
 
