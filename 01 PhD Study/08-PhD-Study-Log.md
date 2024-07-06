@@ -1472,12 +1472,16 @@ idea: transfer learning for SATM
   - [x] Replicate WT
 - [x] EmbedFire
 
-
-### 🚀 July 07 
-- [ ] Xnode Code Decyphering
-- [ ] STM32 AI development
+### 🚀 July 07
 - [ ] SATM Reorganizing & Planing
+- [ ] EmbedFire
+  - [ ] ACC Function
+  - [ ] Program For SATM 
+  - [ ] CubeAI 
+  - [ ] STM32 AI development
+- [ ] Xnode Code Decyphering
 - [ ] Annual Report
+
 LAB TEST
 
 - [ ] & Task 1 Plan Writing & Paper Writing
