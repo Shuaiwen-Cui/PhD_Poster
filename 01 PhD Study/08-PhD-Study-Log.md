@@ -1496,7 +1496,9 @@ LAB TEST
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
 
 ### 🚀 July 08 Mon
-- Hafdiz -> key to the lab
+- [ ] Weekly Meeting 9:30 AM
+- [ ] Prof Fu Slides - Sensing Node - at noon
+- Hafdiz -> key to the lab 
 
 
 ### 🚀 July 09 
