@@ -1460,6 +1460,8 @@ idea: transfer learning for SATM
 - [x] Report To Prof Fu - 9:30 AM
 
 ### 🚀 July 05
+- [x] clean up the material lab
+- [x] purchase components 
 
 ### 🚀 July 06
 - [x] Review to Zhang Qi
@@ -1473,7 +1475,12 @@ idea: transfer learning for SATM
 - [x] EmbedFire
 
 ### 🚀 July 07
-- [ ] SATM Reorganizing & Planing
+- [x] SATM Reorganizing & Planing
+
+### 🚀 July 08 Mon
+- [x] Weekly Meeting 9:30 AM
+- [ ] Prof Fu Slides - Sensing Node - 19:00 
+- [x] Hafdiz -> key to the lab 
 - [ ] EmbedFire
   - [ ] ACC Function
   - [ ] Program For SATM 
@@ -1494,12 +1501,6 @@ LAB TEST
 - [ ] QE REPORT / ANNUAL REPORT
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
-
-### 🚀 July 08 Mon
-- [ ] Weekly Meeting 9:30 AM
-- [ ] Prof Fu Slides - Sensing Node - at noon
-- Hafdiz -> key to the lab 
-
 
 ### 🚀 July 09 
 
