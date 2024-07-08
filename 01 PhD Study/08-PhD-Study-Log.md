@@ -1479,8 +1479,10 @@ idea: transfer learning for SATM
 
 ### 🚀 July 08 Mon
 - [x] Weekly Meeting 9:30 AM
-- [ ] Prof Fu Slides - Sensing Node - 19:00 
+- [x] Prof Fu Slides - Sensing Node - 19:00 
 - [x] Hafdiz -> key to the lab 
+
+### 🚀 July 09 
 - [ ] EmbedFire
   - [ ] ACC Function
   - [ ] Program For SATM 
@@ -1501,8 +1503,6 @@ LAB TEST
 - [ ] QE REPORT / ANNUAL REPORT
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
-
-### 🚀 July 09 
 
 ### 🚀 July 10 
 
