@@ -1488,9 +1488,6 @@ idea: transfer learning for SATM
 - [ ] LAB test planning
 - [ ] Connect with Dr Zhao Chaoyang & Prof Yang
 
-
-
-
 - [ ] EmbedFire
   - [ ] ACC Function
   - [ ] Program For SATM
