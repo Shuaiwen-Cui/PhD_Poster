@@ -1483,7 +1483,7 @@ idea: transfer learning for SATM
 - [x] Hafdiz -> key to the lab 
 
 ### 🚀 July 09 
-- [ ] EmbedFire - ACC driver and program
+- [x] EmbedFire - ACC driver and program
 - [ ] QE Extension Request Form
 - [ ] LAB test planning
 - [ ] Connect with Dr Zhao Chaoyang & Prof Yang
