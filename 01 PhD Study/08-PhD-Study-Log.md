@@ -1483,13 +1483,20 @@ idea: transfer learning for SATM
 - [x] Hafdiz -> key to the lab 
 
 ### 🚀 July 09 
+- [ ] EmbedFire - ACC driver and program
+- [ ] QE Extension Request Form
+- [ ] LAB test planning
+- [ ] Connect with Dr Zhao Chaoyang & Prof Yang
+
+
+
+
 - [ ] EmbedFire
   - [ ] ACC Function
-  - [ ] Program For SATM 
-  - [ ] CubeAI 
+  - [ ] Program For SATM
+  - [ ] CubeAI
   - [ ] STM32 AI development
 - [ ] Xnode Code Decyphering
-- [ ] Annual Report
 
 LAB TEST
 
@@ -1497,7 +1504,6 @@ LAB TEST
 - [ ] Replicate Adi Work & PROTECT Paper Writing
 - [ ] SATM - REORGANIZATION
 
-- [ ] CUBEAI
 - [ ] XJF Result on LIFT SERVER + ORGANIZE
 - [ ] Annual Report Files
 - [ ] QE REPORT / ANNUAL REPORT
