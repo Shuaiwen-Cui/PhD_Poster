@@ -1487,7 +1487,7 @@ idea: transfer learning for SATM
 
 
 ### 🚀 July 10
-- [ ] Planning 
+- [x] Planning 
 - [ ] EmbedFire - ACC rescale / reprogram
 - [ ] QE Extension Request Form
 - [ ] LAB test planning
