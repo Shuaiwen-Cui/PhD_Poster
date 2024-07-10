@@ -77,6 +77,8 @@
 - [x] Expensive Cost - Bayesian Optimization
 - [ ] Comparison - Particle Swarm Optimization / Grid Search
 
+![SATM-PHASE](./Research02-SATM/SATM-PHASE.png)
+
 ### 3.2.3 Algorithm Development
 
 ### 3.2.4 Algorithm Implementation
