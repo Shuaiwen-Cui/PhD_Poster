@@ -1485,9 +1485,11 @@ idea: transfer learning for SATM
 ### 🚀 July 09 
 - [x] EmbedFire - ACC driver and program
 
-
 ### 🚀 July 10
 - [x] Planning 
+
+### 🚀 July 11 
+- [ ] 4:30 pm Adi Meeting
 - [ ] EmbedFire - ACC rescale / reprogram
 - [ ] QE Extension Request Form
 - [ ] LAB test planning
@@ -1511,9 +1513,6 @@ LAB TEST
 - [ ] QE REPORT / ANNUAL REPORT
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
-### 🚀 July 11 
-- [ ] 3:30 pm Adi Meeting
-
 
 ### 🚀 July 12
 
