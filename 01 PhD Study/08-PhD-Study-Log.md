@@ -1489,7 +1489,9 @@ idea: transfer learning for SATM
 - [x] Planning 
 
 ### 🚀 July 11 
-- [ ] 4:30 pm Adi Meeting
+- [ ] WT replication
+- [ ] 7:30 pm Adi Meeting
+
 - [ ] EmbedFire - ACC rescale / reprogram
 - [ ] QE Extension Request Form
 - [ ] LAB test planning
