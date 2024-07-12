@@ -1489,9 +1489,21 @@ idea: transfer learning for SATM
 - [x] Planning 
 
 ### 🚀 July 11 
-- [ ] WT replication
-- [ ] 7:30 pm Adi Meeting
+- [x] 9 pm Adi Meeting
 
+### 🚀 July 12
+- [x] ARMFLY
+  - [x] DOC READING
+  - [x] PROJ SETUP
+  - [ ] SD Card + DSP + NN
+
+### 🚀 July 13
+- [ ] SD Card + DSP + NN
+- [ ] FREERTOS
+- [ ] XNODE
+
+
+- [ ] WT replication
 - [ ] EmbedFire - ACC rescale / reprogram
 - [ ] QE Extension Request Form
 - [ ] LAB test planning
@@ -1516,9 +1528,8 @@ LAB TEST
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
 
-### 🚀 July 12
 
-### 🚀 July 13
+
 
 ### 🚀 July 14
 
