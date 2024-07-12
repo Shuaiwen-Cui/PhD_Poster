@@ -1495,7 +1495,6 @@ idea: transfer learning for SATM
 - [x] ARMFLY
   - [x] DOC READING
   - [x] PROJ SETUP
-  - [ ] SD Card + DSP + NN
 
 ### 🚀 July 13
 - [ ] SD Card + DSP + NN
