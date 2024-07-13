@@ -1497,22 +1497,16 @@ idea: transfer learning for SATM
   - [x] PROJ SETUP
 
 ### 🚀 July 13
-- [ ] SD Card + DSP + NN
-- [ ] FREERTOS
+- [ ] GEEK STM32 DEV-BOARD
 - [ ] XNODE
 
-
 - [ ] WT replication
-- [ ] EmbedFire - ACC rescale / reprogram
+
+
 - [ ] QE Extension Request Form
 - [ ] LAB test planning
 - [ ] Connect with Dr Zhao Chaoyang & Prof Yang
 
-- [ ] EmbedFire
-  - [ ] ACC Function
-  - [ ] Program For SATM
-  - [ ] CubeAI
-  - [ ] STM32 AI development
 - [ ] Xnode Code Decyphering
 
 LAB TEST
