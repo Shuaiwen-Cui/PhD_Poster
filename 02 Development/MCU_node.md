@@ -35,7 +35,13 @@
 ## Software
 - [x] SOFTWARE FRAMEWORK
   - [x] LED
+  - [x] KEY
+    - [x] POLLING MODE
+    - [x] INTERRUPT MODE
   - [x] USART
+    - [x] TX
+    - [x] RX
+      - [ ] BUFFER CANNOT BE CLEARED, TO BE MODIFIED
   - [x] FMC-SDRAM
   - [x] SDMMC SD
   - [x] FATFS
