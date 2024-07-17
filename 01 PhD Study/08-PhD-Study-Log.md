@@ -1497,7 +1497,7 @@ idea: transfer learning for SATM
   - [x] PROJ SETUP
 
 ### 🚀 July 13
-- [ ] GEEK STM32 DEV-BOARD
+- [x] GEEK STM32 DEV-BOARD - faulty
 - [ ] XNODE
 
 - [ ] WT replication
