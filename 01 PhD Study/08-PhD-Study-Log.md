@@ -1498,10 +1498,39 @@ idea: transfer learning for SATM
 
 ### 🚀 July 13
 - [x] GEEK STM32 DEV-BOARD - faulty
-- [ ] XNODE
 
+### 🚀 July 14
+- [X] STM32 ALIENTEK
+### 🚀 July 15 Mon
+- [X] STM32 ALIENTEK
+### 🚀 July 16
+- [X] STM32 ALIENTEK
+### 🚀 July 17
+- [X] STM32 ALIENTEK
+### 🚀 July 18 
+- [X] STM32 FANKE
+
+### 🚀 July 19
+- [x] FATFS
+
+### 🚀 July 20
+- [x] MCU-Node Main Control Setup Finished
+- [x] Shared with Adi
+
+### 🚀 July 21
+- [ ] PROTECT2024 - Preparation
+  - [x] STM32 SETUP
+  - [x] Paper Reading
+  - [ ] Algo Reorganization
+  - [ ] Adi-Code Replication
+  - [ ] WT on MCU-Node
+  - [ ] ICA on MCU-Node
+  - [ ] NN and Data Preparation
+  - [ ] NN on MCU-Node
+  - [ ] DRAFT
+
+### 🚀 July 22 Mon
 - [ ] WT replication
-
 
 - [ ] QE Extension Request Form
 - [ ] LAB test planning
@@ -1520,28 +1549,6 @@ LAB TEST
 - [ ] QE REPORT / ANNUAL REPORT
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
-
-
-
-
-### 🚀 July 14
-
-### 🚀 July 15 Mon
-
-### 🚀 July 16
-
-### 🚀 July 17
-
-### 🚀 July 18 
-
-### 🚀 July 19
-
-### 🚀 July 20
-
-### 🚀 July 21
-
-### 🚀 July 22 Mon
-
 ### 🚀 July 23 
 
 ### 🚀 July 24

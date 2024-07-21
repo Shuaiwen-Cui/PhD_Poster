@@ -13,8 +13,8 @@ SETTINGUP:
 - [x] LED
 - [x] KEY
 - [x] USART - OUTPUT OK; INPUT BUGGY
-- [ ] SDRAM
-- [ ] SD CARD
+- [x] SDRAM
+- [x] SD CARD
 - [x] DSP
 - [x] NN
 
