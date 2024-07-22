@@ -1523,15 +1523,16 @@ idea: transfer learning for SATM
   - [x] Paper Reading
   - [x] Algo Reorganization
 
-
 ### 🚀 July 22 Mon
-- [ ] Meeting Preparation
-- [ ] Weekly Meeting Prof Fu 9:30 AM
+- [x] Meeting Preparation
+- [x] Weekly Meeting Prof Fu 9:30 AM
+- [x] WT on MCU-Node
+- [x] Sensor Prototyping 7:00 PM
+- [ ] Extention Form
+- [ ] Annual Report
 
+### 🚀 July 23 
 
-- [ ] Adi-Code Replication
-- [ ] WT on MCU-Node
-- [ ] ICA on MCU-Node
 - [ ] NN and Data Preparation
 - [ ] NN on MCU-Node
 - [ ] DRAFT
@@ -1554,8 +1555,6 @@ LAB TEST
 - [ ] QE REPORT / ANNUAL REPORT
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
-### 🚀 July 23 
-
 ### 🚀 July 24
 
 ### 🚀 July 25
