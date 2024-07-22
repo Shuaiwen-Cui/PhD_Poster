@@ -1521,15 +1521,20 @@ idea: transfer learning for SATM
 - [ ] PROTECT2024 - Preparation
   - [x] STM32 SETUP
   - [x] Paper Reading
-  - [ ] Algo Reorganization
-  - [ ] Adi-Code Replication
-  - [ ] WT on MCU-Node
-  - [ ] ICA on MCU-Node
-  - [ ] NN and Data Preparation
-  - [ ] NN on MCU-Node
-  - [ ] DRAFT
+  - [x] Algo Reorganization
+
 
 ### 🚀 July 22 Mon
+- [ ] Meeting Preparation
+- [ ] Weekly Meeting Prof Fu 9:30 AM
+
+
+- [ ] Adi-Code Replication
+- [ ] WT on MCU-Node
+- [ ] ICA on MCU-Node
+- [ ] NN and Data Preparation
+- [ ] NN on MCU-Node
+- [ ] DRAFT
 - [ ] WT replication
 
 - [ ] QE Extension Request Form
