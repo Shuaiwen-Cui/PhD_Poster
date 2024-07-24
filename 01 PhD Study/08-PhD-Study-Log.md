@@ -1533,7 +1533,10 @@ idea: transfer learning for SATM
 - [x] Extention Form filled
 
 ### 🚀 July 24
+- [ ] PROTECT - 2024 
+
 - [ ] Annual Report
+- [ ] PPT
 - [ ] Extension Form
 
 - [ ] NN and Data Preparation
