@@ -1533,6 +1533,11 @@ idea: transfer learning for SATM
 - [x] Extention Form filled
 
 ### 🚀 July 24
+- [x] Sudden Damage Detection
+  - [x] WT algo
+  - [x] ICA algo
+
+### 🚀 July 25
 - [ ] PROTECT - 2024 
 
 - [ ] Annual Report
@@ -1561,9 +1566,6 @@ LAB TEST
 - [ ] QE REPORT / ANNUAL REPORT
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
-
-### 🚀 July 25
-
 ### 🚀 July 26
 
 ### 🚀 July 27
