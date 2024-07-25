@@ -1584,6 +1584,9 @@ LAB TEST
 
 ## 8️⃣ August
 
+### 🚀 Aug 13
+- [ ] PROTECT 2024
+
 ### 🚀 Aug 14
 - [ ] PROTECT 2024
 
