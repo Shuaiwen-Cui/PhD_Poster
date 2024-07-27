@@ -1541,6 +1541,17 @@ idea: transfer learning for SATM
 - [x] sudden damage data
 
 ### 🚀 July 26
+
+### 🚀 July 27
+- [ ] WT python & C implementation
+
+
+
+
+
+
+
+### 🚀 July 28 
 - [ ] PROTECT - 2024 
 
 - [ ] Annual Report
@@ -1572,10 +1583,6 @@ LAB TEST
 
 
 
-
-### 🚀 July 27
-
-### 🚀 July 28 
 
 ### 🚀 July 29 Mon
 
