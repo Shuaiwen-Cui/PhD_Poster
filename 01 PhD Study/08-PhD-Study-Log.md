@@ -1543,15 +1543,14 @@ idea: transfer learning for SATM
 ### 🚀 July 26
 
 ### 🚀 July 27
-- [ ] WT python & C implementation
-
-
-
-
-
-
+- [x] WT python & C implementation
 
 ### 🚀 July 28 
+- [ ] ICA 
+
+### 🚀 July 29 Mon
+- [ ] ICA programming
+
 - [ ] PROTECT - 2024 
 
 - [ ] Annual Report
@@ -1580,11 +1579,6 @@ LAB TEST
 - [ ] QE REPORT / ANNUAL REPORT
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
-
-
-
-
-### 🚀 July 29 Mon
 
 ### 🚀 July 30
 
