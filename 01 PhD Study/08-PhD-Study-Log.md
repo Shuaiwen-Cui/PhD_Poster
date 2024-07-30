@@ -1549,6 +1549,15 @@ idea: transfer learning for SATM
 - [ ] ICA 
 
 ### 🚀 July 29 Mon
+
+
+### 🚀 July 30
+- [ ] 10 am seminar
+- [ ] yuqing ppt
+- [ ] annual report
+
+
+### 🚀 July 31
 - [ ] ICA programming
 
 - [ ] PROTECT - 2024 
@@ -1579,11 +1588,6 @@ LAB TEST
 - [ ] QE REPORT / ANNUAL REPORT
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
-
-### 🚀 July 30
-
-### 🚀 July 31
-
 
 
 # 📅 AY24/25
