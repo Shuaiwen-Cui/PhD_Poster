@@ -1552,12 +1552,23 @@ idea: transfer learning for SATM
 
 
 ### 🚀 July 30
-- [ ] 10 am seminar
-- [ ] yuqing ppt
-- [ ] annual report
-
+- [x] 10 am seminar
+- [x] yuqing ppt
 
 ### 🚀 July 31
+
+
+# 📅 AY24/25
+
+## 8️⃣ August
+
+### 🚀 Aug 01
+- [x] Rent Payment
+- [x] ICA algorithm
+
+### 🚀 Aug 02
+- [ ] annual report
+
 - [ ] ICA programming
 
 - [ ] PROTECT - 2024 
@@ -1575,8 +1586,6 @@ idea: transfer learning for SATM
 - [ ] LAB test planning
 - [ ] Connect with Dr Zhao Chaoyang & Prof Yang
 
-- [ ] Xnode Code Decyphering
-
 LAB TEST
 
 - [ ] & Task 1 Plan Writing & Paper Writing
@@ -1590,9 +1599,7 @@ LAB TEST
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
 
 
-# 📅 AY24/25
 
-## 8️⃣ August
 
 ### 🚀 Aug 13
 - [ ] PROTECT 2024
