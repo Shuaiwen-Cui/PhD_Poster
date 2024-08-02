@@ -1567,11 +1567,20 @@ idea: transfer learning for SATM
 - [x] ICA algorithm
 
 ### 🚀 Aug 02
+- [ ] PROTECT - Extended Abstract
+
+### 🚀 Aug 03
+
+### 🚀 Aug 04
+
+### 🚀 Aug 05 Mon
+
+
 - [ ] annual report
 
 - [ ] ICA programming
 
-- [ ] PROTECT - 2024 
+
 
 - [ ] Annual Report
 - [ ] PPT
