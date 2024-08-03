@@ -1570,6 +1570,7 @@ idea: transfer learning for SATM
 - [ ] PROTECT - Extended Abstract
 
 ### 🚀 Aug 03
+- [x] Adi Meeting
 
 ### 🚀 Aug 04
 
