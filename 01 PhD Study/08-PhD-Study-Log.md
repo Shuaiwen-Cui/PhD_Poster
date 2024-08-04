@@ -1573,15 +1573,12 @@ idea: transfer learning for SATM
 - [x] Adi Meeting
 
 ### 🚀 Aug 04
+- [ ] Extended Abstract & Slides
 
 ### 🚀 Aug 05 Mon
 
 
 - [ ] annual report
-
-- [ ] ICA programming
-
-
 
 - [ ] Annual Report
 - [ ] PPT
