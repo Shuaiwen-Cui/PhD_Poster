@@ -1576,6 +1576,34 @@ idea: transfer learning for SATM
 - [ ] Extended Abstract & Slides
 
 ### 🚀 Aug 05 Mon
+#### Meeting
+- [x] Meeting with Prof Fu 9:30 AM
+
+#### Progress Report
+- [ ] Annual Report
+
+#### QE Extension Form
+- [ ] Extention Form + Gantt Chart (QE / Submission)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 - [ ] annual report
@@ -1605,7 +1633,7 @@ LAB TEST
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
 
-
+- [ ] DEMO
 
 
 ### 🚀 Aug 13
@@ -1620,3 +1648,6 @@ LAB TEST
 ### 🚀 Aug 16
 - [ ] PROTECT 2024
 
+
+### 🚀 Aug 17
+- [ ] CONCISE-RESERACH INTEGRITY COURSES
