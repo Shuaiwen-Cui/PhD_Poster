@@ -1579,16 +1579,30 @@ idea: transfer learning for SATM
 #### Meeting
 - [x] Meeting with Prof Fu 9:30 AM
 
-#### Progress Report
-- [ ] Annual Report
+
 
 #### QE Extension Form
-- [ ] Extention Form + Gantt Chart (QE / Submission)
+- [x] Extention Form + Gantt Chart (QE / Submission) (only request form submitted)
+
+### 🚀 Aug 06
+- [x] QE Extension Request Form
 
 
 
 
+### 🚀 Aug 07
+- [ ] WT replication
+- [ ] PC training + SIM DATA FOR NN
+- [ ] WT
+- [ ] ICA
+- [ ] NN
+- [ ] SLIDES
+- [ ] ABSTRACT
 
+- [ ] Annual Report
+- [ ] Slides
+
+### 🚀 Aug 08
 
 
 
