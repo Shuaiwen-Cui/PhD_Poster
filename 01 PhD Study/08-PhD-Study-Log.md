@@ -1573,13 +1573,11 @@ idea: transfer learning for SATM
 - [x] Adi Meeting
 
 ### 🚀 Aug 04
-- [ ] Extended Abstract & Slides
+
 
 ### 🚀 Aug 05 Mon
 #### Meeting
 - [x] Meeting with Prof Fu 9:30 AM
-
-
 
 #### QE Extension Form
 - [x] Extention Form + Gantt Chart (QE / Submission) (only request form submitted)
@@ -1588,36 +1586,36 @@ idea: transfer learning for SATM
 - [x] QE Extension Request Form
 
 
-
-
 ### 🚀 Aug 07
-- [ ] WT replication
-- [ ] PC training + SIM DATA FOR NN
-- [ ] WT
-- [ ] ICA
-- [ ] NN
-- [ ] SLIDES
-- [ ] ABSTRACT
-
-- [ ] Annual Report
-- [ ] Slides
+- WT
 
 ### 🚀 Aug 08
+- WT
+
+### 🚀 Aug 09
+- [x] SLIDES
+- [ ] PC pipeline going through
+- [ ] Onboard pipeline - WT
+- [ ] Onboard pipeline - ICA
+- [ ] Onboard pipeline - NN
+- [ ] Extended Abstract
+- [ ] Slides for Presentation - Practice
+- [ ] Slides for Student Competition - Practice
+
+### 🚀 Aug 10
+- [ ] WT replication
+- [ ] ICA
+- [ ] PC training + SIM DATA FOR NN
+- [ ] Annual Report
+- [ ] Slides
+- [ ] Extended Abstract & Slides
+
+### 🚀 Aug 11 
+- [ ] DEMO
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+### 🚀 Aug 12 Mon
+- [ ] 
 
 
 - [ ] annual report
@@ -1647,21 +1645,21 @@ LAB TEST
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
 
-- [ ] DEMO
-
 
 ### 🚀 Aug 13
-- [ ] PROTECT 2024
+- [ ] PROTECT 2024 - Registration
 
 ### 🚀 Aug 14
-- [ ] PROTECT 2024
+- [ ] PROTECT 2024 - Check whether this day
+- [ ] Presentation Preparation
 
 ### 🚀 Aug 15
-- [ ] PROTECT 2024
+- [ ] PROTECT 2024 - Presentation
+- [ ] PROTECT 2024 - Student Competition
 
 ### 🚀 Aug 16
-- [ ] PROTECT 2024
-
+- [ ] PROTECT 2024 - School Visit Demo
 
 ### 🚀 Aug 17
 - [ ] CONCISE-RESERACH INTEGRITY COURSES
+- [ ] QE Contents Preparation
