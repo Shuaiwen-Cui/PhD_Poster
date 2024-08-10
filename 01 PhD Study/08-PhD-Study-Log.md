@@ -1593,8 +1593,9 @@ idea: transfer learning for SATM
 - WT
 
 ### 🚀 Aug 09
-- [x] SLIDES
-- [ ] PC pipeline going through
+- [x] SLIDES Submission
+- [x] PC pipeline
+- [ ] NN training dataset prepare
 - [ ] Onboard pipeline - WT
 - [ ] Onboard pipeline - ICA
 - [ ] Onboard pipeline - NN
@@ -1605,7 +1606,8 @@ idea: transfer learning for SATM
 ### 🚀 Aug 10
 - [ ] WT replication
 - [ ] ICA
-- [ ] PC training + SIM DATA FOR NN
+- [x] PC training + SIM DATA FOR NN
+
 - [ ] Annual Report
 - [ ] Slides
 - [ ] Extended Abstract & Slides
