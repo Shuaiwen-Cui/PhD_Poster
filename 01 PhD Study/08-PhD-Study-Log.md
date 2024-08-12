@@ -1585,7 +1585,6 @@ idea: transfer learning for SATM
 ### 🚀 Aug 06
 - [x] QE Extension Request Form
 
-
 ### 🚀 Aug 07
 - WT
 
@@ -1595,43 +1594,43 @@ idea: transfer learning for SATM
 ### 🚀 Aug 09
 - [x] SLIDES Submission
 - [x] PC pipeline
-- [ ] NN training dataset prepare
-- [ ] Onboard pipeline - WT
-- [ ] Onboard pipeline - ICA
-- [ ] Onboard pipeline - NN
-- [ ] Extended Abstract
-- [ ] Slides for Presentation - Practice
-- [ ] Slides for Student Competition - Practice
+- [x] NN training dataset prepare
+- [x] Onboard pipeline - WT
+- [x] Onboard pipeline - NN
+
 
 ### 🚀 Aug 10
-- [ ] WT replication
-- [ ] ICA
+- [x] WT replication
 - [x] PC training + SIM DATA FOR NN
 
-- [ ] Annual Report
-- [ ] Slides
-- [ ] Extended Abstract & Slides
-
 ### 🚀 Aug 11 
-- [ ] DEMO
-
+- [x] WT
+- [x] NN
 
 ### 🚀 Aug 12 Mon
-- [ ] 
+- [ ] Regular Presentation Slides
+- [ ] Student Competition Slides
+- [ ] Slides for Presentation - Practice
+- [ ] Slides for Student Competition - Practice
+- [ ] Extended Abstract
 
+### 🚀 Aug 13
+- [ ] Rehearsal
+- [ ] PROTECT 2024 - Registration
 
-- [ ] annual report
+### 🚀 Aug 14
+- [ ] PROTECT 2024 - Check whether this day
+- [ ] Presentation Preparation
+- [ ] DEMO
 
+### 🚀 Aug 15
+- [ ] PROTECT 2024 - Presentation
+- [ ] PROTECT 2024 - Student Competition
+- [ ] DEMO PREPARATION
+
+### 🚀 Aug 16
+- [ ] PROTECT 2024 - School Visit Demo
 - [ ] Annual Report
-- [ ] PPT
-- [ ] Extension Form
-
-- [ ] NN and Data Preparation
-- [ ] NN on MCU-Node
-- [ ] DRAFT
-- [ ] WT replication
-
-- [ ] QE Extension Request Form
 - [ ] LAB test planning
 - [ ] Connect with Dr Zhao Chaoyang & Prof Yang
 
@@ -1646,21 +1645,6 @@ LAB TEST
 - [ ] QE REPORT / ANNUAL REPORT
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
-
-
-### 🚀 Aug 13
-- [ ] PROTECT 2024 - Registration
-
-### 🚀 Aug 14
-- [ ] PROTECT 2024 - Check whether this day
-- [ ] Presentation Preparation
-
-### 🚀 Aug 15
-- [ ] PROTECT 2024 - Presentation
-- [ ] PROTECT 2024 - Student Competition
-
-### 🚀 Aug 16
-- [ ] PROTECT 2024 - School Visit Demo
 
 ### 🚀 Aug 17
 - [ ] CONCISE-RESERACH INTEGRITY COURSES
