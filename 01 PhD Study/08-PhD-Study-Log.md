@@ -1608,28 +1608,31 @@ idea: transfer learning for SATM
 - [x] NN
 
 ### 🚀 Aug 12 Mon
-- [ ] Regular Presentation Slides
-- [ ] Student Competition Slides
-- [ ] Slides for Presentation - Practice
-- [ ] Slides for Student Competition - Practice
-- [ ] Extended Abstract
+- [x] Regular Presentation Slides
+- [x] Student Competition Slides
+- [x] Slides for Presentation - Practice
+- [x] Slides for Student Competition - Practice
+- [x] Extended Abstract
 
 ### 🚀 Aug 13
-- [ ] Rehearsal
-- [ ] PROTECT 2024 - Registration
+- [x] Rehearsal
+- [x] PROTECT 2024 - Registration
 
 ### 🚀 Aug 14
-- [ ] PROTECT 2024 - Check whether this day
-- [ ] Presentation Preparation
-- [ ] DEMO
+- [x] PROTECT 2024 - Check whether this day
+- [x] Presentation Preparation
+- [x] DEMO
 
 ### 🚀 Aug 15
-- [ ] PROTECT 2024 - Presentation
-- [ ] PROTECT 2024 - Student Competition
-- [ ] DEMO PREPARATION
+- [x] PROTECT 2024 - Presentation
+- [x] PROTECT 2024 - Student Competition
+- [x] DEMO PREPARATION
 
 ### 🚀 Aug 16
-- [ ] PROTECT 2024 - School Visit Demo
+- [x] PROTECT 2024 - School Visit Demo
+- [ ] STM32 EDGE INTELLIGENCE IOT SENSING NODE
+
+### 🚀 Aug 17
 - [ ] Annual Report
 - [ ] LAB test planning
 - [ ] Connect with Dr Zhao Chaoyang & Prof Yang
@@ -1645,7 +1648,5 @@ LAB TEST
 - [ ] QE REPORT / ANNUAL REPORT
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
-
-### 🚀 Aug 17
 - [ ] CONCISE-RESERACH INTEGRITY COURSES
 - [ ] QE Contents Preparation
