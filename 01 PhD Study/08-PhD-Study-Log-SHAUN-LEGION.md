@@ -1633,11 +1633,6 @@ idea: transfer learning for SATM
 - [ ] STM32 EDGE INTELLIGENCE IOT SENSING NODE
 
 ### 🚀 Aug 17
-
-### 🚀 Aug 18
-- [x] STM32 / ESP32 REPO
-
-### 🚀 Aug 19 Mon
 - [ ] Annual Report
 - [ ] LAB test planning
 - [ ] Connect with Dr Zhao Chaoyang & Prof Yang
