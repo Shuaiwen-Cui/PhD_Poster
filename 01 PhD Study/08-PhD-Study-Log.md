@@ -1638,6 +1638,12 @@ idea: transfer learning for SATM
 - [x] STM32 / ESP32 REPO
 
 ### 🚀 Aug 19 Mon
+- [x] MCU_SYS
+- [x] MCU_NODE_STM32
+
+### 🚀 Aug 20
+- [ ] ACC DEV
+- [ ] cmake study
 - [ ] Annual Report
 - [ ] LAB test planning
 - [ ] Connect with Dr Zhao Chaoyang & Prof Yang
