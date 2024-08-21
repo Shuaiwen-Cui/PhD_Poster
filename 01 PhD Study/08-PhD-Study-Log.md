@@ -1640,8 +1640,16 @@ idea: transfer learning for SATM
 ### 🚀 Aug 19 Mon
 - [x] MCU_SYS
 - [x] MCU_NODE_STM32
-
+- [x] CONCISE-RESERACH INTEGRITY COURSES
+  
 ### 🚀 Aug 20
+- [x] KEVIN_WWW 
+
+### 🚀 Aug 21
+- [ ] Micropython - ESP32 入门
+
+### 🚀 Aug 22
+
 - [ ] ACC DEV
 - [ ] cmake study
 - [ ] Annual Report
@@ -1659,5 +1667,7 @@ LAB TEST
 - [ ] QE REPORT / ANNUAL REPORT
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
-- [ ] CONCISE-RESERACH INTEGRITY COURSES
+
 - [ ] QE Contents Preparation
+
+
