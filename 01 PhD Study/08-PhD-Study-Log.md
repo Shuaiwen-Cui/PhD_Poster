@@ -1646,9 +1646,12 @@ idea: transfer learning for SATM
 - [x] KEVIN_WWW 
 
 ### 🚀 Aug 21
-- [ ] Micropython - ESP32 入门
+- [x] Micropython - ESP32 入门
 
 ### 🚀 Aug 22
+- QE REPORT - REFERENCE
+- GERMANY HUMBERG
+- QE REPORT - ALGORITHM INVESTIGATION
 
 - [ ] ACC DEV
 - [ ] cmake study
