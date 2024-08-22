@@ -1653,11 +1653,7 @@ idea: transfer learning for SATM
 - GERMANY HUMBERG
 - QE REPORT - ALGORITHM INVESTIGATION
 
-
 ### 🚀 Aug 23
-
-
-
 - [ ] ACC DEV
 - [ ] cmake study
 - [ ] Annual Report
