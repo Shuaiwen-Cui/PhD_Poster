@@ -1654,7 +1654,17 @@ idea: transfer learning for SATM
 - QE REPORT - ALGORITHM INVESTIGATION
 
 ### 🚀 Aug 23
+- [x] OLED Driver Transplant - SUCCESS
+- [ ] WIFI
+  - [x] ESP8266 - FIRMWARE FLASH
+
+### 🚀 Aug 24
+- [ ] YU XIAO PAPER
+  - [ ] STM32 - ESP8266 - AT COMMAND
 - [ ] ACC DEV
+
+
+
 - [ ] cmake study
 - [ ] Annual Report
 - [ ] LAB test planning
