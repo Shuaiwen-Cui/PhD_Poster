@@ -1659,12 +1659,18 @@ idea: transfer learning for SATM
   - [x] ESP8266 - FIRMWARE FLASH
 
 ### 🚀 Aug 24
-- [ ] YU XIAO PAPER
-  - [ ] STM32 - ESP8266 - AT COMMAND
-- [ ] ACC DEV
+- [x] STM32 OLED
 
+### 🚀 Aug 25
+- [x] YU XIAO PAPER
+- [x] STM32 - ESP8266 - AT COMMAND TX 
+- [x] MPU6050
 
+### 🚀 Aug 26 Mon
+- [ ] Resume
+- [ ] SATM
 
+### 🚀 Aug 27
 - [ ] cmake study
 - [ ] Annual Report
 - [ ] LAB test planning
@@ -1684,4 +1690,20 @@ LAB TEST
 
 - [ ] QE Contents Preparation
 
+### 🚀 Aug 28
 
+
+### 🚀 Aug 29
+
+
+### 🚀 Aug 30
+
+
+### 🚀 Aug 31
+
+## 9️⃣ September
+
+### 🚀 Sep 01
+- [ ] WIFI - MODULE - ESP8266
+  - [ ] USART
+- [ ] MQTT
