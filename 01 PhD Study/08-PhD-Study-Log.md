@@ -1667,7 +1667,8 @@ idea: transfer learning for SATM
 - [x] MPU6050
 
 ### 🚀 Aug 26 Mon
-- [ ] Resume
+- [x] Resume
+- [ ] QE Report - SATM
 - [ ] SATM
 
 ### 🚀 Aug 27
