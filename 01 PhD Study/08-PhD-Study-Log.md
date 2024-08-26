@@ -1668,10 +1668,14 @@ idea: transfer learning for SATM
 
 ### 🚀 Aug 26 Mon
 - [x] Resume
-- [ ] QE Report - SATM
-- [ ] SATM
+- [x] QE Report - LATEX TEMPLATE
+- [ ] Suite
 
 ### 🚀 Aug 27
+- [ ] QE Report
+
+- [ ] SATM
+
 - [ ] cmake study
 - [ ] Annual Report
 - [ ] LAB test planning
