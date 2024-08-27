@@ -1672,12 +1672,19 @@ idea: transfer learning for SATM
 - [ ] Suite
 
 ### 🚀 Aug 27
-- [ ] QE Report
+- [x] Job-in Fair
+- [x] QE Report Template & Introduction
 
+### 🚀 Aug 28
+- [ ] Group Meeting
 - [ ] SATM
+- [ ] Annual Report & QE Report
+- [ ] XJF Result on LIFT SERVER + ORGANIZE
+
+
 
 - [ ] cmake study
-- [ ] Annual Report
+
 - [ ] LAB test planning
 - [ ] Connect with Dr Zhao Chaoyang & Prof Yang
 
@@ -1687,16 +1694,13 @@ LAB TEST
 - [ ] Replicate Adi Work & PROTECT Paper Writing
 - [ ] SATM - REORGANIZATION
 
-- [ ] XJF Result on LIFT SERVER + ORGANIZE
+
 - [ ] Annual Report Files
 - [ ] QE REPORT / ANNUAL REPORT
 - [ ] Finish the QE Extension Request Form and hand it to Prof Fu
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
 
 - [ ] QE Contents Preparation
-
-### 🚀 Aug 28
-
 
 ### 🚀 Aug 29
 
