@@ -1676,14 +1676,16 @@ idea: transfer learning for SATM
 - [x] QE Report Template & Introduction
 
 ### 🚀 Aug 28
-- [ ] Group Meeting
+- [x] 11:30 AM Group Meeting
+- [x] QE Report - introduction 
+- [x] Discussion with Prof Fu
+
+### 🚀 Aug 29
 - [ ] SATM
 - [ ] Annual Report & QE Report
 - [ ] XJF Result on LIFT SERVER + ORGANIZE
 
-
-
-- [ ] cmake study
+- [ ] cmake stu
 
 - [ ] LAB test planning
 - [ ] Connect with Dr Zhao Chaoyang & Prof Yang
@@ -1701,9 +1703,6 @@ LAB TEST
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
 
 - [ ] QE Contents Preparation
-
-### 🚀 Aug 29
-
 
 ### 🚀 Aug 30
 
