@@ -1681,6 +1681,14 @@ idea: transfer learning for SATM
 - [x] Discussion with Prof Fu
 
 ### 🚀 Aug 29
+- [x] QE Report Chapter 1
+
+### 🚀 Aug 30
+- [ ] QE Report Literature Review
+
+
+### 🚀 Aug 31
+- [ ] STM32 UART
 - [ ] SATM
 - [ ] Annual Report & QE Report
 - [ ] XJF Result on LIFT SERVER + ORGANIZE
@@ -1703,11 +1711,6 @@ LAB TEST
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
 
 - [ ] QE Contents Preparation
-
-### 🚀 Aug 30
-
-
-### 🚀 Aug 31
 
 ## 9️⃣ September
 
