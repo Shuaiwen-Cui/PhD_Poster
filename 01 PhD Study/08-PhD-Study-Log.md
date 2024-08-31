@@ -1684,10 +1684,12 @@ idea: transfer learning for SATM
 - [x] QE Report Chapter 1
 
 ### 🚀 Aug 30
-- [ ] QE Report Literature Review
+- [x] QE Report Chapter 1 Revision
 
 
 ### 🚀 Aug 31
+- [x] NODE_BUILT can support scanf & idle input: timing is important: can be improved using global status flag
+- [ ] QE Report Literature Review
 - [ ] STM32 UART
 - [ ] SATM
 - [ ] Annual Report & QE Report
