@@ -1689,7 +1689,19 @@ idea: transfer learning for SATM
 
 ### 🚀 Aug 31
 - [x] NODE_BUILT can support scanf & idle input: timing is important: can be improved using global status flag
-- [ ] QE Report Literature Review
+- [x] QE Report Literature Review - Section 1
+
+
+## 9️⃣ September
+
+### 🚀 Sep 01
+- [x] QE report - Literature Review - Edge
+
+### 🚀 Sep 02 Mon
+- [ ] WIFI - MODULE - ESP8266
+  - [ ] USART
+- [ ] MQTT
+
 - [ ] STM32 UART
 - [ ] SATM
 - [ ] Annual Report & QE Report
@@ -1713,10 +1725,3 @@ LAB TEST
 - [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
 
 - [ ] QE Contents Preparation
-
-## 9️⃣ September
-
-### 🚀 Sep 01
-- [ ] WIFI - MODULE - ESP8266
-  - [ ] USART
-- [ ] MQTT
