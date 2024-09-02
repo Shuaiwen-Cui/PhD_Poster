@@ -1698,11 +1698,15 @@ idea: transfer learning for SATM
 - [x] QE report - Literature Review - Edge
 
 ### 🚀 Sep 02 Mon
+- [x] QE Report - Literature Review 2.1 - Edge
+
+### 🚀 Sep 03
+- [x] QE Report - Literature Review 2.2-2.5 - Edge
+
 - [ ] WIFI - MODULE - ESP8266
   - [ ] USART
 - [ ] MQTT
 
-- [ ] STM32 UART
 - [ ] SATM
 - [ ] Annual Report & QE Report
 - [ ] XJF Result on LIFT SERVER + ORGANIZE
@@ -1721,7 +1725,4 @@ LAB TEST
 
 - [ ] Annual Report Files
 - [ ] QE REPORT / ANNUAL REPORT
-- [ ] Finish the QE Extension Request Form and hand it to Prof Fu
-- [ ] PROTECT - Submission of Final Paper - for Conference (8-10 pgs)
-
 - [ ] QE Contents Preparation
