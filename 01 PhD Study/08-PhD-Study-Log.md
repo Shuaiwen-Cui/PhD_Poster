@@ -1702,7 +1702,9 @@ idea: transfer learning for SATM
 
 ### 🚀 Sep 03
 - [x] QE Report - Literature Review 2.2-2.5 - Edge
+- [x] STM32CUBE DEV - CHAPTER I
 
+### 🚀 Sep 04
 - [ ] WIFI - MODULE - ESP8266
   - [ ] USART
 - [ ] MQTT
