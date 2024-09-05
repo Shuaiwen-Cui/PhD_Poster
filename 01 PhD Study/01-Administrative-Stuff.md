@@ -76,6 +76,10 @@
       - [1] Exam Invigilation - May 08 2024 - 8:30 AM - 9:00 AM report to Soo Ching - [✅]
 
 - AY24/25 S1
+  - Teaching Assistance
+    - Quiz Invigilation
+      - [1] Quiz Invigilation - Sep 16 2024 - 4:30 PM REPORT - 4:40 PM - 5:25 PM - LT 2A [ ]
+      - [2] Quiz Invigilation - Sep 23 2024 - 12:15 PM REPORT - 12:30 PM - 13:30 PM - LT 8 [ ]
 
 - AY24/25 S2
 
