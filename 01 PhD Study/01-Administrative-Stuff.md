@@ -103,6 +103,7 @@
   10. Structural Behaviour of Recycled Aggregate Concrete-Filled Stainless Steel Tube Members after Exposure to Fire - Mr Wang Ziyi - [✅] - April 24, 2024
 
 > AY24/25
+  1. Real-Time Non-Contact Building Element Dimension Quantification for Digital Construction Using Optical See-Through Mixed Reality and Deep Learning - [✅] - Mr. Zhang Ziheng - CEE GSU - Aug 28, 2024
 
 > AY25/26
 
