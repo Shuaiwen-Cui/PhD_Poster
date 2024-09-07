@@ -1705,6 +1705,19 @@ idea: transfer learning for SATM
 - [x] STM32CUBE DEV - CHAPTER I
 
 ### 🚀 Sep 04
+
+### 🚀 Sep 05
+
+### 🚀 Sep 06
+- [x] QE CHAPTER 3
+### 🚀 Sep 07
+- [x] QE CHAPTER 3 - REFINEMENT
+### 🚀 Sep 08
+
+
+
+
+
 - [ ] WIFI - MODULE - ESP8266
   - [ ] USART
 - [ ] MQTT
