@@ -1713,9 +1713,10 @@ idea: transfer learning for SATM
 ### 🚀 Sep 07
 - [x] QE CHAPTER 3 - REFINEMENT
 ### 🚀 Sep 08
+- [x] QE CHAPTER 4 - BEGINNING
 
-
-
+### 🚀 Sep 09 Mon
+- [ ] QE CHAPTER 4 - REFINEMENT
 
 
 - [ ] WIFI - MODULE - ESP8266
