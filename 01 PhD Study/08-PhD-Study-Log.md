@@ -1719,8 +1719,15 @@ idea: transfer learning for SATM
 - [x] QE CHAPTER 4 - SYSTEM & ENVIRONMENT
 
 ### 🚀 Sep 10
+- [x] QE CHAPTER 4 - ENVIRONMENT - response calculation write-up finished
+- [x] QE CHAPTER 4 - EVALUATOR
+- [x] QE CHAPTER 4 - CONTROLLER
 
 ### 🚀 Sep 11
+- [ ] 9:30 AM MEETING
+- [ ] QE CHAPTER 4 - CONTROLLER - FINISHED
+
+
 
 
 - [ ] WIFI - MODULE - ESP8266
