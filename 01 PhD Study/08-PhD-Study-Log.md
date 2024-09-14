@@ -1724,8 +1724,24 @@ idea: transfer learning for SATM
 - [x] QE CHAPTER 4 - CONTROLLER
 
 ### 🚀 Sep 11
-- [ ] 9:30 AM MEETING
-- [ ] QE CHAPTER 4 - CONTROLLER - FINISHED
+- [x] 9:30 AM MEETING
+- [x] QE Report Reorganization
+
+### 🚀 Sep 12
+- [x] QE CHAPTER 4 - CONTROLLER - FINISHED
+
+### 🚀 Sep 13
+- [x] QE CHAPTER 4 - BO
+
+
+### 🚀 Sep 14
+- [x] QE CHAPTER 4 - MULTI-STAGE DEPLOYMENT
+
+### 🚀 Sep 15
+- [ ] QE CHAPTER 4 - Deployment 
+
+
+
 
 
 
