@@ -1738,34 +1738,36 @@ idea: transfer learning for SATM
 - [x] QE CHAPTER 4 - MULTI-STAGE DEPLOYMENT
 
 ### 🚀 Sep 15
-- [ ] QE CHAPTER 4 - Deployment 
+- [x] QE CHAPTER 4 - Deployment 
 
+### 🚀 Sep 16 Mon
+- [x] QUIZ Invigilation
 
+### 🚀 Sep 17
+- [x] ZAW & SI HUI FYP
+- [x] Meeting on Sensor Prototyping
+- [x] Edge Intelligence Meeting
 
+### 🚀 Sep 18
+- [ ] QE SATM - DEPLOYMENT
+- [ ] QE FL 
 
+### 🚀 Sep 19
 
+### 🚀 Sep 20
+- [ ] Meeting With Aditya 4pm Material Lab
 
+### 🚀 Sep 21
+
+### 🚀 Sep 22
 
 - [ ] WIFI - MODULE - ESP8266
   - [ ] USART
 - [ ] MQTT
 
-- [ ] SATM
-- [ ] Annual Report & QE Report
 - [ ] XJF Result on LIFT SERVER + ORGANIZE
-
-- [ ] cmake stu
 
 - [ ] LAB test planning
 - [ ] Connect with Dr Zhao Chaoyang & Prof Yang
 
 LAB TEST
-
-- [ ] & Task 1 Plan Writing & Paper Writing
-- [ ] Replicate Adi Work & PROTECT Paper Writing
-- [ ] SATM - REORGANIZATION
-
-
-- [ ] Annual Report Files
-- [ ] QE REPORT / ANNUAL REPORT
-- [ ] QE Contents Preparation
