@@ -1733,7 +1733,6 @@ idea: transfer learning for SATM
 ### 🚀 Sep 13
 - [x] QE CHAPTER 4 - BO
 
-
 ### 🚀 Sep 14
 - [x] QE CHAPTER 4 - MULTI-STAGE DEPLOYMENT
 
@@ -1753,6 +1752,7 @@ idea: transfer learning for SATM
 - [ ] QE FL 
 
 ### 🚀 Sep 19
+- [x] LOC 13:45 ONESTOP Lounge
 
 ### 🚀 Sep 20
 - [ ] Meeting With Aditya 4pm Material Lab
