@@ -1755,9 +1755,11 @@ idea: transfer learning for SATM
 - [x] LOC 13:45 ONESTOP Lounge
 
 ### 🚀 Sep 20
-- [ ] Meeting With Aditya 4pm Material Lab
+- [x] Meeting With Aditya 4pm Material Lab
 
 ### 🚀 Sep 21
+- [ ] TinySHM Sensing Library
+- [ ] Meeting With Aditya 8pm Material Lab
 
 ### 🚀 Sep 22
 
@@ -1771,3 +1773,8 @@ idea: transfer learning for SATM
 - [ ] Connect with Dr Zhao Chaoyang & Prof Yang
 
 LAB TEST
+
+
+
+- [ ] ADXL355 SPI Driver
+- [ ] ADXL3355 SPI DMA IT - REAL-TIME PROCESSING
