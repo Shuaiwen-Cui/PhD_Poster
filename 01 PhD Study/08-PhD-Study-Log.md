@@ -1758,10 +1758,20 @@ idea: transfer learning for SATM
 - [x] Meeting With Aditya 4pm Material Lab
 
 ### 🚀 Sep 21
+- [x] MPU6050 Calibration
+- [ ] Haircut
+- [ ] Internaltion Standards for Assessing Sensor Performance - List & Links
 - [ ] TinySHM Sensing Library
 - [ ] Meeting With Aditya 8pm Material Lab
 
 ### 🚀 Sep 22
+- [ ] CubeAI
+- [ ] Lab Test
+
+### 🚀 Sep 23 Mon
+- [ ] Federated Learning
+
+### 🚀 Sep 23
 
 - [ ] WIFI - MODULE - ESP8266
   - [ ] USART
