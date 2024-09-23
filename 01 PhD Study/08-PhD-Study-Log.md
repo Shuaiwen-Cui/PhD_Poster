@@ -1817,13 +1817,12 @@ STANDARDS:
       https://webstore.iec.ch/en/publication/6789
       
 ### 🚀 Sep 22
-- [ ] Internaltion Standards for Assessing Sensor Performance - List & Links
-- [ ] Haircut
-- [ ] CubeAI
-- [ ] Lab Test
+- [x] Internaltion Standards for Assessing Sensor Performance - List & Links
 
 ### 🚀 Sep 23 Mon
-- [ ] QUIZ INVIGILATION SEP 23 12:15 REPORT 12:30 - 1:30 PM LT 8  
+- [ ] CubeAI
+- [ ] Lab Test
+- [ ] QUIZ INVIGILATION SEP 23 12:15 REPORT 12:30 - 1:30 PM LT 8
 - [ ] Federated Learning
 - [ ] Meeting With Aditya Time TBD
 
