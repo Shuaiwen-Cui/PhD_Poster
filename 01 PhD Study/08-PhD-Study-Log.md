@@ -1825,9 +1825,11 @@ STANDARDS:
 ### 🚀 Sep 24
 - [x] Buzzer Added
 - [x] Trigger Sensing
-- [ ] Button External Interruption
+- [x] Button External Interruption
 
 ### 🚀 Sep 25 
+- [ ] FILE
+- [ ] AI
 - [ ] NN
 - [ ] CUBEAI
 
