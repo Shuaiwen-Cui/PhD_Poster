@@ -1820,19 +1820,38 @@ STANDARDS:
 - [x] Internaltion Standards for Assessing Sensor Performance - List & Links
 
 ### 🚀 Sep 23 Mon
+- [x] QUIZ INVIGILATION SEP 23 12:15 REPORT 12:30 - 1:30 PM LT 8
+
+### 🚀 Sep 24
+- [x] Buzzer Added
+- [x] Trigger Sensing
+- [ ] Button External Interruption
+
+### 🚀 Sep 25 
+- [ ] NN
+- [ ] CUBEAI
+
+### 🚀 Sep 26
+
+### 🚀 Sep 27
+
+### 🚀 Sep 28
+- [ ] Fly to Thailand Chiang Mai
+
+### 🚀 Sep 29
+
+### 🚀 Sep 30
+
 - [ ] CubeAI
 - [ ] Lab Test
-- [ ] QUIZ INVIGILATION SEP 23 12:15 REPORT 12:30 - 1:30 PM LT 8
 - [ ] Federated Learning
 - [ ] Meeting With Aditya Time TBD
-
-### 🚀 Sep 23
 
 - [ ] WIFI - MODULE - ESP8266
   - [ ] USART
 - [ ] MQTT
 
-- [ ] XJF Result on LIFT SERVER + ORGANIZE
+- [ ] XJF Result on LIFT SERVER + ORGANIZE 
 
 - [ ] LAB test planning
 - [ ] Connect with Dr Zhao Chaoyang & Prof Yang
@@ -1843,3 +1862,12 @@ LAB TEST
 
 - [ ] ADXL355 SPI Driver
 - [ ] ADXL3355 SPI DMA IT - REAL-TIME PROCESSING
+
+## 🔟 Octomber
+### 🚀 Oct 1 
+
+### 🚀 Oct 2
+
+### 🚀 Oct 3
+
+### 🚀 Oct 4
