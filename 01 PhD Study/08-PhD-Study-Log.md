@@ -1828,14 +1828,21 @@ STANDARDS:
 - [x] Button External Interruption
 
 ### 🚀 Sep 25 
-- [ ] FILE
-- [ ] AI
-- [ ] NN
-- [ ] CUBEAI
+- [x] FS
+  - [x] Foler
+  - [x] File
+- [x] Record
 
 ### 🚀 Sep 26
+- [ ] Data Collection
+- [ ] AI Model
+- [ ] NN Implementation
+- [ ] LAB test planning
 
 ### 🚀 Sep 27
+- [ ] Lab Test
+- [ ] Report
+- [ ] FL
 
 ### 🚀 Sep 28
 - [ ] Fly to Thailand Chiang Mai
@@ -1844,8 +1851,6 @@ STANDARDS:
 
 ### 🚀 Sep 30
 
-- [ ] CubeAI
-- [ ] Lab Test
 - [ ] Federated Learning
 - [ ] Meeting With Aditya Time TBD
 
@@ -1853,17 +1858,10 @@ STANDARDS:
   - [ ] USART
 - [ ] MQTT
 
-- [ ] XJF Result on LIFT SERVER + ORGANIZE 
 
-- [ ] LAB test planning
 - [ ] Connect with Dr Zhao Chaoyang & Prof Yang
 
 LAB TEST
-
-
-
-- [ ] ADXL355 SPI Driver
-- [ ] ADXL3355 SPI DMA IT - REAL-TIME PROCESSING
 
 ## 🔟 Octomber
 ### 🚀 Oct 1 
@@ -1873,3 +1871,7 @@ LAB TEST
 ### 🚀 Oct 3
 
 ### 🚀 Oct 4
+
+- [ ] ADXL355 SPI Driver
+- [ ] ADXL3355 SPI DMA IT - REAL-TIME PROCESSING
+- [ ] XJF Result on LIFT SERVER + ORGANIZE 
