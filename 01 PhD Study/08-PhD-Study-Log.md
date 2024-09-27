@@ -1787,12 +1787,11 @@ idea: transfer learning for SATM
 ### 🚀 Sep 27
 - [x] Data Collection - STRONG WIND - 100
 
+### 🚀 Sep 28
 - [ ] AI Model
 - [ ] NN Implementation
 - [ ] Report
 - [ ] FL
-
-### 🚀 Sep 28
 - [ ] Fly to Thailand Chiang Mai
 
 ### 🚀 Sep 29
