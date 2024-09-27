@@ -1762,59 +1762,6 @@ idea: transfer learning for SATM
 - [ ] Internaltion Standards for Assessing Sensor Performance - List & Links
 - [x] Meeting With Aditya 8pm Material Lab
 - [x] TinySHM Sensing Library
-
-STANDARDS:
-
-1. **Long-term durability**:  
-   - **IEC 60068-2**: *Environmental Testing* – Defines multiple environmental tests to evaluate sensor durability in harsh conditions:
-     - **IEC 60068-2-1**: Cold Test – Tests sensor resistance to low temperatures.  
-       https://webstore.iec.ch/en/publication/502
-     - **IEC 60068-2-2**: Dry Heat Test – Assesses performance in high-temperature conditions.  
-       https://webstore.iec.ch/en/publication/510
-     - **IEC 60068-2-6**: Vibration Test – Evaluates sensor response to vibrations.  
-       https://webstore.iec.ch/en/publication/544
-     - **IEC 60068-2-14**: Temperature Changes – Tests resilience to rapid temperature variations.  
-       https://webstore.iec.ch/en/publication/87380
-     - **IEC 60068-2-30**: Humidity Test – Assesses performance in humid environments.  
-       https://webstore.iec.ch/en/publication/515
-
-2. **Climate resilience**:  
-   - **IEC 60529**: *Degrees of Protection (IP Code)* – Assesses the sensor's resistance to dust and water.  
-     https://webstore.iec.ch/en/publication/2452
-
-3. **Measurement accuracy**:  
-   - **ISO 16063-21**: *Methods for the Calibration of Vibration and Shock Transducers* – Focuses on the calibration of accelerometers, including MEMS types, ensuring accuracy in measuring vibrations and shock.  
-     https://www.iso.org/standard/27053.html
-
-4. **Measurement sensitivity**:  
-   - **ISO 13373-1**: *Vibration Condition Monitoring and Diagnostics of Machines* – Evaluates vibration sensor sensitivity in dynamic environments.  
-     https://www.iso.org/standard/21831.html
-
-5. **Measurement reliability**:  
-   - **IEC 61508**: *Functional Safety of Electrical/Electronic Systems* – Addresses the reliability of sensors in safety-critical applications.  
-     https://webstore.iec.ch/en/publication/22273
-
-6. **ICT performance**:  
-   - **ISO/IEC 27001**: *Information Security Management* – Ensures data security in sensor communications.  
-     https://webstore.iec.ch/en/publication/79694
-
-7. **Electromagnetic compatibility**:  
-   - **IEC 61000-4**: *Electromagnetic Compatibility Testing and Measurement Techniques* – Covers electromagnetic interference and compatibility testing for sensors.  
-     https://webstore.iec.ch/publication/5576
-     - **IEC 61000-4-2**: Electrostatic Discharge (ESD) Immunity Test – Evaluates sensor immunity to static discharges.  
-       https://webstore.iec.ch/en/publication/4189
-     - **IEC 61000-4-3**: Radiated, Radio-Frequency Electromagnetic Field Immunity Test – Assesses sensor performance in the presence of electromagnetic fields.  
-       https://webstore.iec.ch/en/publication/59849
-     - **IEC 61000-4-6**: Immunity to Conducted Disturbances – Focuses on how well sensors withstand conducted electromagnetic disturbances via cables.  
-       https://webstore.iec.ch/en/publication/86093
-
-8. **Data integrity**:  
-   - **ISO/IEC 25012**: *Data Quality Model* – Ensures sensor data integrity and quality management.  
-     https://webstore.iec.ch/en/publication/11246
-
-9.  **Energy efficiency**:  
-    - **IEC 62301**: *Household Electrical Appliances – Measurement of Standby Power* – Assesses sensor power consumption in standby modes.  
-      https://webstore.iec.ch/en/publication/6789
       
 ### 🚀 Sep 22
 - [x] Internaltion Standards for Assessing Sensor Performance - List & Links
@@ -1834,13 +1781,14 @@ STANDARDS:
 - [x] Record
 
 ### 🚀 Sep 26
-- [ ] Data Collection
-- [ ] AI Model
-- [ ] NN Implementation
-- [ ] LAB test planning
+- [x] Data Collection - IMPACT - 100
+- [x] Data Collection - AMBIENT VIBRATION - 300
 
 ### 🚀 Sep 27
-- [ ] Lab Test
+- [x] Data Collection - STRONG WIND - 100
+
+- [ ] AI Model
+- [ ] NN Implementation
 - [ ] Report
 - [ ] FL
 

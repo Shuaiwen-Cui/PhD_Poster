@@ -80,7 +80,8 @@
     - Quiz Invigilation
       - [1] Quiz Invigilation - Sep 16 2024 - 4:30 PM REPORT - 4:40 PM - 5:25 PM - LT 2A [✅]
       - [2] Quiz Invigilation - Sep 23 2024 - 12:15 PM REPORT - 12:30 PM - 13:30 PM - LT 8 [✅]
-      - [3] Quiz Invigilation - Nov 07 2024 - 9:30 AM REPORT - 9:40 PM - 10:35 PM - LT19 [ ]
+      - [3] Quiz Invigilation - Sep 27 2024 - 8:15 AM REPORT - 8:30 AM - 9:30 AM - LT 3 [✅]
+      - [4] Quiz Invigilation - Nov 07 2024 - 9:30 AM REPORT - 9:40 PM - 10:35 PM - LT19 [ ]
 
 - AY24/25 S2
 
