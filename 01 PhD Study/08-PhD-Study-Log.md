@@ -1788,13 +1788,13 @@ idea: transfer learning for SATM
 - [x] Data Collection - STRONG WIND - 100
 
 ### 🚀 Sep 28
-- [ ] AI Model
-- [ ] NN Implementation
-- [ ] Report
-- [ ] FL
+- [x] AI Model
+- [ ] Stage II - Bayesian Optimization
 - [ ] Fly to Thailand Chiang Mai
 
 ### 🚀 Sep 29
+- [ ] FL
+- [ ] Report
 
 ### 🚀 Sep 30
 
