@@ -1789,26 +1789,15 @@ idea: transfer learning for SATM
 
 ### 🚀 Sep 28
 - [x] AI Model
-- [ ] Stage II - Bayesian Optimization
-- [ ] Fly to Thailand Chiang Mai
+- [x] Stage II - Bayesian Optimization
+- [x] Fly to Thailand Chiang Mai
 
 ### 🚀 Sep 29
-- [ ] FL
-- [ ] Report
+- [x] SATM
 
 ### 🚀 Sep 30
 
-- [ ] Federated Learning
-- [ ] Meeting With Aditya Time TBD
 
-- [ ] WIFI - MODULE - ESP8266
-  - [ ] USART
-- [ ] MQTT
-
-
-- [ ] Connect with Dr Zhao Chaoyang & Prof Yang
-
-LAB TEST
 
 ## 🔟 Octomber
 ### 🚀 Oct 1 
@@ -1818,7 +1807,35 @@ LAB TEST
 ### 🚀 Oct 3
 
 ### 🚀 Oct 4
+- [ ] LIFTNODE DEBUG
+
+### 🚀 Oct 5
+- [ ] QE REPORT - SATM 
+- [ ] FL
+
+
+
+
+
+
+
+
+
+
+
+
 
 - [ ] ADXL355 SPI Driver
 - [ ] ADXL3355 SPI DMA IT - REAL-TIME PROCESSING
 - [ ] XJF Result on LIFT SERVER + ORGANIZE 
+
+- [ ] Federated Learning
+
+- [ ] WIFI - MODULE - ESP8266
+  - [ ] USART
+- [ ] MQTT
+
+
+- [ ] Connect with Dr Zhao Chaoyang & Prof Yang
+
+LAB TEST
