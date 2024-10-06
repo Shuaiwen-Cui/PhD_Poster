@@ -1814,9 +1814,11 @@ idea: transfer learning for SATM
 - [ ] FL
 
 
+### 🚀 Oct 6
+- [x] BCA PPT
+- [x] QE REPORT - CHAPTER 4 - STAGE 2
 
-
-
+### 🚀 Oct 7
 
 
 
