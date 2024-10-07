@@ -1818,13 +1818,71 @@ idea: transfer learning for SATM
 - [x] BCA PPT
 - [x] QE REPORT - CHAPTER 4 - STAGE 2
 
-### 🚀 Oct 7
+### 🚀 Oct 7 Mon
+- [x] QE REPORT - CHAPTER 4 - Finished
 
 
+### 🚀 Oct 8
+- [ ] QE REPORT - CHAPTER 1 REVIEW
+- [ ] QE REPORT - CHAPTER 5 
+- [ ] QE REPORT - CHAPTER 6
+- [ ] QE REPORT - SUMMARY 
+- [ ] QE REPORT - REVIEW 
+- [ ] TAC + QE REPORT SUBMISSION
+- [ ] Research Poster Preparation
+- [ ] ENGINEERING STRUCTURES - PAPER REVISING
 
+### 🚀 Oct 9
 
+### 🚀 Oct 10
 
+### 🚀 Oct 11
 
+### 🚀 Oct 12
+
+### 🚀 Oct 13
+
+### 🚀 Oct 14 Mon
+
+### 🚀 Oct 15 
+
+### 🚀 Oct 16
+
+### 🚀 Oct 17
+
+### 🚀 Oct 18
+
+### 🚀 Oct 19
+
+### 🚀 Oct 20
+
+### 🚀 Oct 21 Mon
+
+### 🚀 Oct 22
+
+### 🚀 Oct 23
+
+### 🚀 Oct 24
+
+### 🚀 Oct 25
+
+### 🚀 Oct 26
+
+### 🚀 Oct 27
+
+### 🚀 Oct 28 Mon
+
+### 🚀 Oct 29
+
+### 🚀 Oct 30
+
+### 🚀 Oct 31
+
+- [ ] Academic Research Poster - Compulsory
+
+## 1️⃣1️⃣ November
+
+### 🚀 Nov 1
 
 
 - [ ] ADXL355 SPI Driver
