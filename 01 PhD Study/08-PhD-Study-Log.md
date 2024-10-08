@@ -1821,9 +1821,12 @@ idea: transfer learning for SATM
 ### 🚀 Oct 7 Mon
 - [x] QE REPORT - CHAPTER 4 - Finished
 
-
 ### 🚀 Oct 8
-- [ ] QE REPORT - CHAPTER 1 REVIEW
+- [x] AISG Acoustic Triggering Talk with Dr Yu Xuewen
+- [x] QE REPORT - CHAPTER 1 REVIEW
+
+
+### 🚀 Oct 9
 - [ ] QE REPORT - CHAPTER 5 
 - [ ] QE REPORT - CHAPTER 6
 - [ ] QE REPORT - SUMMARY 
@@ -1831,8 +1834,6 @@ idea: transfer learning for SATM
 - [ ] TAC + QE REPORT SUBMISSION
 - [ ] Research Poster Preparation
 - [ ] ENGINEERING STRUCTURES - PAPER REVISING
-
-### 🚀 Oct 9
 
 ### 🚀 Oct 10
 
