@@ -1827,17 +1827,19 @@ idea: transfer learning for SATM
 
 
 ### 🚀 Oct 9
-- [ ] QE REPORT - CHAPTER 5 
+- [x] Weekly Meeting 9:30 AM: Reviewers' Comments; QE Report
+- [ ] QE REPORT - CHAPTER 5
 - [ ] QE REPORT - CHAPTER 6
 - [ ] QE REPORT - SUMMARY 
 - [ ] QE REPORT - REVIEW 
+
+### 🚀 Oct 10
 - [ ] TAC + QE REPORT SUBMISSION
 - [ ] Research Poster Preparation
 - [ ] ENGINEERING STRUCTURES - PAPER REVISING
 
-### 🚀 Oct 10
-
 ### 🚀 Oct 11
+- [ ] Audio Triggering
 
 ### 🚀 Oct 12
 
