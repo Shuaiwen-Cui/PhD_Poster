@@ -1831,18 +1831,18 @@ idea: transfer learning for SATM
 
 
 ### 🚀 Oct 10
-- [ ] QE REPORT - CHAPTER 5
-- [ ] QE REPORT - CHAPTER 6
+- [x] QE REPORT - CHAPTER 5
+- [x] QE REPORT - CHAPTER 6
+
+### 🚀 Oct 11
 - [ ] QE REPORT - SUMMARY 
 - [ ] QE REPORT - REVIEW 
 - [ ] TAC + QE REPORT SUBMISSION
 - [ ] Research Poster Preparation
 - [ ] ENGINEERING STRUCTURES - PAPER REVISING
 
-### 🚀 Oct 11
-- [ ] Audio Triggering
-
 ### 🚀 Oct 12
+- [ ] Audio Triggering
 
 ### 🚀 Oct 13
 
@@ -1852,6 +1852,7 @@ idea: transfer learning for SATM
 - [ ] Yuqing Coding
 
 ### 🚀 Oct 16
+- [ ] XJF Result on LIFT SERVER + ORGANIZE 
 
 ### 🚀 Oct 17
 
@@ -1892,7 +1893,7 @@ idea: transfer learning for SATM
 
 - [ ] ADXL355 SPI Driver
 - [ ] ADXL3355 SPI DMA IT - REAL-TIME PROCESSING
-- [ ] XJF Result on LIFT SERVER + ORGANIZE 
+
 
 - [ ] Federated Learning
 
@@ -1904,3 +1905,17 @@ idea: transfer learning for SATM
 - [ ] Connect with Dr Zhao Chaoyang & Prof Yang
 
 LAB TEST
+
+### 🚀 Nov 2
+
+### 🚀 Nov 3
+
+### 🚀 Nov 4
+- [ ] Quiz Invigilation - Nov 04 2024 - 1:40 PM REPORT - 2:00 PM - 3:00 PM - LT 1A
+
+### 🚀 Nov 5
+
+### 🚀 Nov 6
+
+### 🚀 Nov 7
+- [ ] Quiz Invigilation - Nov 07 2024 - 9:30 AM REPORT - 9:40 PM - 10:35 PM - LT19 
