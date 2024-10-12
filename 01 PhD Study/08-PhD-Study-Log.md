@@ -1835,13 +1835,14 @@ idea: transfer learning for SATM
 - [x] QE REPORT - CHAPTER 6
 
 ### 🚀 Oct 11
-- [ ] QE REPORT - SUMMARY 
-- [ ] QE REPORT - REVIEW 
+- [x] QE REPORT - SUMMARY 
+- [x] QE REPORT - REVIEW 
+
+
+### 🚀 Oct 12
 - [ ] TAC + QE REPORT SUBMISSION
 - [ ] Research Poster Preparation
 - [ ] ENGINEERING STRUCTURES - PAPER REVISING
-
-### 🚀 Oct 12
 - [ ] Audio Triggering
 
 ### 🚀 Oct 13
