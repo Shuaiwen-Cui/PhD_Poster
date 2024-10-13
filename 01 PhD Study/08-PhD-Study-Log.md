@@ -1842,14 +1842,14 @@ idea: transfer learning for SATM
 
 ### 🚀 Oct 13
 - [x] TAC form 
-- [ ] Annual Report Forms to Prof Fu
-
+- [x] Annual Report Forms to Prof Fu
 
 ### 🚀 Oct 14 Mon
 - [ ] Check TAC Feedback
   - [ ] Fu 
   - [ ] Yang
   - [ ] Yuen
+- [ ] Check Forms from Prof Fu
 - [ ] Annual Report + QE Report Submission to Soo Ching
 - [ ] Research Poster Preparation
 - [ ] ENGINEERING STRUCTURES - PAPER REVISING
