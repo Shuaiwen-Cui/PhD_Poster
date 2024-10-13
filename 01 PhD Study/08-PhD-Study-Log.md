@@ -1832,22 +1832,28 @@ idea: transfer learning for SATM
 
 ### 🚀 Oct 10
 - [x] QE REPORT - CHAPTER 5
-- [x] QE REPORT - CHAPTER 6
 
 ### 🚀 Oct 11
+- [x] QE REPORT - CHAPTER 6
+
+### 🚀 Oct 12
 - [x] QE REPORT - SUMMARY 
 - [x] QE REPORT - REVIEW 
 
+### 🚀 Oct 13
+- [x] TAC form 
+- [ ] Annual Report Forms to Prof Fu
 
-### 🚀 Oct 12
-- [ ] TAC + QE REPORT SUBMISSION
+
+### 🚀 Oct 14 Mon
+- [ ] Check TAC Feedback
+  - [ ] Fu 
+  - [ ] Yang
+  - [ ] Yuen
+- [ ] Annual Report + QE Report Submission to Soo Ching
 - [ ] Research Poster Preparation
 - [ ] ENGINEERING STRUCTURES - PAPER REVISING
 - [ ] Audio Triggering
-
-### 🚀 Oct 13
-
-### 🚀 Oct 14 Mon
 
 ### 🚀 Oct 15 
 - [ ] Yuqing Coding
