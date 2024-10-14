@@ -1829,7 +1829,6 @@ idea: transfer learning for SATM
 ### 🚀 Oct 9
 - [x] Weekly Meeting 9:30 AM: Reviewers' Comments; QE Report
 
-
 ### 🚀 Oct 10
 - [x] QE REPORT - CHAPTER 5
 
@@ -1845,18 +1844,19 @@ idea: transfer learning for SATM
 - [x] Annual Report Forms to Prof Fu
 
 ### 🚀 Oct 14 Mon
+- [x] ESP32 - ESP-IDF Kickstart
+- [x] Check Forms from Prof Fu
+
+### 🚀 Oct 15 
+- [ ] Yuqing Coding
 - [ ] Check TAC Feedback
   - [ ] Fu 
   - [ ] Yang
   - [ ] Yuen
-- [ ] Check Forms from Prof Fu
 - [ ] Annual Report + QE Report Submission to Soo Ching
 - [ ] Research Poster Preparation
 - [ ] ENGINEERING STRUCTURES - PAPER REVISING
 - [ ] Audio Triggering
-
-### 🚀 Oct 15 
-- [ ] Yuqing Coding
 
 ### 🚀 Oct 16
 - [ ] XJF Result on LIFT SERVER + ORGANIZE 
