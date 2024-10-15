@@ -1,7 +1,7 @@
 # 🏫 I Administrative Stuff
 ## 1.1 Thesis Advisory Committee (TAC)
 > Research Topic and Supervisor
-- Proposed Research Topic: **Distributed Intelligence Enabling IoT-framework for Structural Health Monitoring**
+- Proposed Research Topic: **Distributed Intelligence Enabling Framework for IoT-based Structural Health Monitoring: TinySHM**
 - Supervisor: Asst Prof Fu Yuguang
 
 > Determine the TAC Members
@@ -10,23 +10,23 @@
 
 > Annual Report
 - First Time: Sep 22nd 2023 - For AY22/23
-- QE: Feb 2024
+- QE: Nov 2024
   - contact TAC members in advance
 
 > Qualification Examination - to make a list
-- Time Feb 2024
+- Time Nov 2024
 - Requirements:
-  - 1 paper submitted
+  - [x] 1 paper submitted
   - ...
 
 > Thesis & Defense
 - Estimated Time: May 2026
 
-## 1.2 Progress Report
+## 1.2 Annual Progress Report
 > Overview
-- AY22/23 - Submitted - Passed
-- AY23/24 - [] - []
-- AY24/25 - [] - []
+- [x] AY22/23 - Submitted - Passed
+- [ ] AY23/24 - [] - []
+- [ ] AY24/25 - [] - []
 
 > GAP
 - AY22/23 S1
@@ -113,6 +113,7 @@
 > AY25/26
 
 ## 1.4 Poster (Year 3)
+> Submission Data DDL: Nov 1, 2024
 
 ## 1.5 Lab Access
 > Online Study - [✅]

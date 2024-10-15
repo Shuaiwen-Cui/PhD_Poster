@@ -3,14 +3,14 @@
 ## 3.0 Research Roadmap
 
 ### 3.0.1 Overview
-- Hardware & Software Framework 
-- Algorithm Development & Implementation
+- Engineering Development
+- Algorithm Development
 
 ### 3.0.2 
 - Infrastructure
-  - Frontend - Edge
-  - Backend - Cloud
-  - Interface - Middleware
+  - Frontend - Edge - LiftNode
+  - Backend - Cloud - LiftHub
+  - Interface - Middleware - TinySHM
 - Perspective - Distributed Intelligence (AI)
 - Application (Math/AI view) 
   - Classification

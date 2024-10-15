@@ -1851,15 +1851,17 @@ idea: transfer learning for SATM
 - [x] Fu Feedback
 - [x] Yuen Feedback
 - [x] ESP32 minimal system devboard kickstart
+- [x] Check TAC Feedback
+  - [x] Fu 
+  - [x] Yang
+  - [x] Yuen
 
 ### 🚀 Oct 16
 - [ ] Weekly Meeting 9:30 AM 
+- [ ] CYY - ECMO
+- [ ] Fu Reply
+- [ ] QE & Annual Report to School to Soo Ching
 
-- [ ] Check TAC Feedback
-  - [x] Fu 
-  - [ ] Yang
-  - [x] Yuen
-- [ ] Annual Report + QE Report Submission to Soo Ching
 - [ ] Research Poster Preparation
 - [ ] ENGINEERING STRUCTURES - PAPER REVISING
 - [ ] Audio Triggering
