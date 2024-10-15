@@ -1926,3 +1926,41 @@ LAB TEST
 
 ### 🚀 Nov 7
 - [ ] Quiz Invigilation - Nov 07 2024 - 9:30 AM REPORT - 9:40 PM - 10:35 PM - LT19 
+
+### 🚀 Nov 8
+
+### 🚀 Nov 9
+
+### 🚀 Nov 10
+
+### 🚀 Nov 11 Mon
+
+### 🚀 Nov 12
+
+### 🚀 Nov 13
+
+### 🚀 Nov 14
+
+### 🚀 Nov 15
+
+### 🚀 Nov 16
+
+### 🚀 Nov 17
+
+### 🚀 Nov 18 Mon
+
+### 🚀 Nov 19
+
+### 🚀 Nov 20
+
+### 🚀 Nov 21
+
+### 🚀 Nov 22
+
+### 🚀 Nov 23
+
+### 🚀 Nov 24
+
+### 🚀 Nov 25 Mon
+
+- [ ] Exam Invigilation - Nov 25 2024 - 16:30 PM REPORT - 17:00 PM - 19:40 PM - N1-01a-11
