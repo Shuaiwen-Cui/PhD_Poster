@@ -1884,9 +1884,9 @@ idea: transfer learning for SATM
 ### 🚀 Oct 24
 
 ### 🚀 Oct 25
-- [ ] Yuqing Coding
 
 ### 🚀 Oct 26
+- [ ] Yuqing Coding
 
 ### 🚀 Oct 27
 
