@@ -1848,17 +1848,21 @@ idea: transfer learning for SATM
 - [x] Check Forms from Prof Fu
 
 ### 🚀 Oct 15 
-- [ ] Yuqing Coding
+- [x] Fu Feedback
+- [x] Yuen Feedback
+- [x] ESP32 minimal system devboard kickstart
+
+### 🚀 Oct 16
+- [ ] Weekly Meeting 9:30 AM 
+
 - [ ] Check TAC Feedback
-  - [ ] Fu 
+  - [x] Fu 
   - [ ] Yang
-  - [ ] Yuen
+  - [x] Yuen
 - [ ] Annual Report + QE Report Submission to Soo Ching
 - [ ] Research Poster Preparation
 - [ ] ENGINEERING STRUCTURES - PAPER REVISING
 - [ ] Audio Triggering
-
-### 🚀 Oct 16
 - [ ] XJF Result on LIFT SERVER + ORGANIZE 
 
 ### 🚀 Oct 17
@@ -1878,6 +1882,7 @@ idea: transfer learning for SATM
 ### 🚀 Oct 24
 
 ### 🚀 Oct 25
+- [ ] Yuqing Coding
 
 ### 🚀 Oct 26
 
@@ -1897,7 +1902,6 @@ idea: transfer learning for SATM
 
 ### 🚀 Nov 1
 
-
 - [ ] ADXL355 SPI Driver
 - [ ] ADXL3355 SPI DMA IT - REAL-TIME PROCESSING
 
@@ -1907,7 +1911,6 @@ idea: transfer learning for SATM
 - [ ] WIFI - MODULE - ESP8266
   - [ ] USART
 - [ ] MQTT
-
 
 - [ ] Connect with Dr Zhao Chaoyang & Prof Yang
 
