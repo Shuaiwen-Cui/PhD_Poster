@@ -1857,19 +1857,24 @@ idea: transfer learning for SATM
   - [x] Yuen
 
 ### 🚀 Oct 16
-- [ ] Weekly Meeting 9:30 AM 
-- [ ] CYY - ECMO
-- [ ] Fu Reply
-- [ ] QE & Annual Report to School to Soo Ching
+- [x] Weekly Meeting 9:30 AM 
+- [x] Fu Reply
+- [x] QE & Annual Report to School to Soo Ching
+- [x] CYY - ECMO
 
+### 🚀 Oct 17
+- [x] ESP32 - Study
+
+### 🚀 Oct 18
+- [ ] ESP32 - Study
+- [ ] OpenSees
+- [ ] Review Paper
 - [ ] Research Poster Preparation
 - [ ] ENGINEERING STRUCTURES - PAPER REVISING
 - [ ] Audio Triggering
 - [ ] XJF Result on LIFT SERVER + ORGANIZE 
+- [ ] Zhang Fan - OpenSees - Bridge Model - Pier Damage
 
-### 🚀 Oct 17
-
-### 🚀 Oct 18
 
 ### 🚀 Oct 19
 
