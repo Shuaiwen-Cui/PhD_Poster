@@ -1877,10 +1877,14 @@ idea: transfer learning for SATM
 
 ### 🚀 Oct 21 Mon
 - [x] OpenSees OpenSees - Bridge Model - Pier Damage + Sensitivity Analyses
-- [ ] XJF Result on LIFT SERVER + ORGANIZE
 
 
 ### 🚀 Oct 22
+- [ ] OpenSees Baseline
+- [ ] OpenSees Pier Damage Simulation & Analysis
+
+- [ ] XJF Result on LIFT SERVER + ORGANIZE
+
 - [ ] Review Paper
 - [ ] Research Poster Preparation
 - [ ] ENGINEERING STRUCTURES - PAPER REVISING
