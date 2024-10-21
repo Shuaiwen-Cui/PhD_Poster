@@ -1872,16 +1872,20 @@ idea: transfer learning for SATM
 - [x] ESP32 - Study - minimal dev board - advanced part
 
 ### 🚀 Oct 20
-- [ ] OpenSees OpenSees - Bridge Model - Pier Damage
+- [x] ESP32 - LonglyBinary
+
+
+### 🚀 Oct 21 Mon
+- [x] OpenSees OpenSees - Bridge Model - Pier Damage + Sensitivity Analyses
+- [ ] XJF Result on LIFT SERVER + ORGANIZE
+
+
+### 🚀 Oct 22
 - [ ] Review Paper
 - [ ] Research Poster Preparation
 - [ ] ENGINEERING STRUCTURES - PAPER REVISING
 - [ ] Audio Triggering
-- [ ] XJF Result on LIFT SERVER + ORGANIZE
 
-### 🚀 Oct 21 Mon
-
-### 🚀 Oct 22
 
 ### 🚀 Oct 23
 
