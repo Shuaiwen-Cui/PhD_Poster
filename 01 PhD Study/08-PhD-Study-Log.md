@@ -1880,8 +1880,13 @@ idea: transfer learning for SATM
 
 
 ### 🚀 Oct 22
-- [ ] OpenSees Baseline
-- [ ] OpenSees Pier Damage Simulation & Analysis
+- [x] OpenSees Truss Bridge Model
+- [x] OpenSees Baseline
+- [x] Adi Handover
+- [x] XJF - primitive model
+
+### 🚀 Oct 23
+- [ ] OpenSees Simple Bridge Model
 
 - [ ] XJF Result on LIFT SERVER + ORGANIZE
 
@@ -1890,8 +1895,6 @@ idea: transfer learning for SATM
 - [ ] ENGINEERING STRUCTURES - PAPER REVISING
 - [ ] Audio Triggering
 
-
-### 🚀 Oct 23
 
 ### 🚀 Oct 24
 
