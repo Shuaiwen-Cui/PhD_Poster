@@ -1895,8 +1895,9 @@ idea: transfer learning for SATM
 - [ ] ENGINEERING STRUCTURES - PAPER REVISING
 - [ ] Audio Triggering
 
-
 ### 🚀 Oct 24
+- [ ] Weekly Meeting 9:00 AM
+- [ ] Patent Discussion 10:00 AM
 
 ### 🚀 Oct 25
 
