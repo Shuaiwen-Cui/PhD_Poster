@@ -1886,18 +1886,18 @@ idea: transfer learning for SATM
 - [x] XJF - primitive model
 
 ### 🚀 Oct 23
-- [ ] OpenSees Simple Bridge Model
-
-- [ ] XJF Result on LIFT SERVER + ORGANIZE
-
-- [ ] Review Paper
-- [ ] Research Poster Preparation
-- [ ] ENGINEERING STRUCTURES - PAPER REVISING
-- [ ] Audio Triggering
+- [x] OpenSees Simple Bridge Model
 
 ### 🚀 Oct 24
-- [ ] Weekly Meeting 9:00 AM
+- [x] Weekly Meeting 9:00 AM
 - [ ] Patent Discussion 10:00 AM
+- [ ] TIMBER TRESTLE BRIDGE MODELING - USE BEAM ELEMENTS
+- [ ] XJF Task
+
+- [ ] Hair Cut
+
+- [ ] Research Poster Preparation
+- [ ] ENGINEERING STRUCTURES - PAPER REVISING
 
 ### 🚀 Oct 25
 

@@ -32,3 +32,6 @@ try to combine them in future
 - simple
 - loading and analyzing
 - train-pass loading simulation is quite complex, maybe impact
+
+
+- TIMBER TRESTLE BRIDGE MODELING - USE BEAM ELEMENTS
