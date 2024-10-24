@@ -1890,16 +1890,15 @@ idea: transfer learning for SATM
 
 ### 🚀 Oct 24
 - [x] Weekly Meeting 9:00 AM
-- [ ] Patent Discussion 10:00 AM
-- [ ] TIMBER TRESTLE BRIDGE MODELING - USE BEAM ELEMENTS
+- [x] Patent Discussion 10:00 AM
+- [x] TIMBER TRESTLE BRIDGE MODELING
+- [x] Hair Cut
+
+### 🚀 Oct 25
 - [ ] XJF Task
-
-- [ ] Hair Cut
-
 - [ ] Research Poster Preparation
 - [ ] ENGINEERING STRUCTURES - PAPER REVISING
 
-### 🚀 Oct 25
 
 ### 🚀 Oct 26
 - [ ] Yuqing Coding
