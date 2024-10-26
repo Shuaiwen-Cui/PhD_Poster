@@ -1895,14 +1895,15 @@ idea: transfer learning for SATM
 - [x] Hair Cut
 
 ### 🚀 Oct 25
-- [ ] OpenSees Modeling
+- [x] OpenSees Modeling
+
+
+### 🚀 Oct 26
 - [ ] Research Poster Preparation
 - [ ] ENGINEERING STRUCTURES - PAPER REVISING
 - [ ] XJF Task
 - [ ] QE Preparation
 - [ ] PhD Study Reorganization
-
-### 🚀 Oct 26
 - [ ] Yuqing Coding
 
 ### 🚀 Oct 27
