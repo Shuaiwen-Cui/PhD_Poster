@@ -1899,9 +1899,10 @@ idea: transfer learning for SATM
 
 
 ### 🚀 Oct 26
-- [ ] Research Poster Preparation
 - [ ] ENGINEERING STRUCTURES - PAPER REVISING
+- [ ] Research Poster Preparation
 - [ ] XJF Task
+
 - [ ] QE Preparation
 - [ ] PhD Study Reorganization
 - [ ] Yuqing Coding
