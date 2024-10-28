@@ -1899,17 +1899,20 @@ idea: transfer learning for SATM
 
 
 ### 🚀 Oct 26
-- [ ] ENGINEERING STRUCTURES - PAPER REVISING
+- [x] ENGINEERING STRUCTURES - PAPER REVISING
+
+
+### 🚀 Oct 27
+- [x] ENGINEERING STRUCTURES - PAPER REVISING
+
+### 🚀 Oct 28 Mon
+- [x] ENGINEERING STRUCTURES - PAPER REVISING
 - [ ] Research Poster Preparation
 - [ ] XJF Task
 
 - [ ] QE Preparation
 - [ ] PhD Study Reorganization
 - [ ] Yuqing Coding
-
-### 🚀 Oct 27
-
-### 🚀 Oct 28 Mon
 
 ### 🚀 Oct 29
 
