@@ -1907,16 +1907,20 @@ idea: transfer learning for SATM
 
 ### 🚀 Oct 28 Mon
 - [x] ENGINEERING STRUCTURES - PAPER REVISING
+
+
+### 🚀 Oct 29
+- [x] Paper Revision
+
+
+### 🚀 Oct 30
+- [ ] Group Meeting
 - [ ] Research Poster Preparation
 - [ ] XJF Task
 
 - [ ] QE Preparation
 - [ ] PhD Study Reorganization
 - [ ] Yuqing Coding
-
-### 🚀 Oct 29
-
-### 🚀 Oct 30
 
 ### 🚀 Oct 31
 
