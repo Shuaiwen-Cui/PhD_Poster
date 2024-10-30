@@ -1912,7 +1912,7 @@ idea: transfer learning for SATM
 - [x] Paper Revision
 
 ### 🚀 Oct 30
-- [ ] Group Meeting 9:30 AM
+- [x] Group Meeting 9:30 AM
 - [ ] Research Poster Preparation
 - [ ] XJF Task
 
@@ -1945,6 +1945,7 @@ LAB TEST
 ### 🚀 Nov 2
 
 ### 🚀 Nov 3
+- [ ] YuQing Talk
 
 ### 🚀 Nov 4
 - [ ] Quiz Invigilation - Nov 04 2024 - 1:40 PM REPORT - 2:00 PM - 3:00 PM - LT 1A
