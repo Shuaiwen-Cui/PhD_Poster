@@ -1913,16 +1913,15 @@ idea: transfer learning for SATM
 
 ### 🚀 Oct 30
 - [x] Group Meeting 9:30 AM
-- [ ] Research Poster Preparation
-- [ ] XJF Task
-
-- [ ] QE Preparation
-- [ ] PhD Study Reorganization
-- [ ] Yuqing Coding
 
 ### 🚀 Oct 31
-
 - [ ] Academic Research Poster - Compulsory
+- [ ] Research Poster Preparation
+- [ ] XJF Task
+- [ ] QE Preparation
+- [ ] PhD Study Reorganization
+
+
 
 ## 1️⃣1️⃣ November
 
