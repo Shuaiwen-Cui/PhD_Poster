@@ -1915,17 +1915,19 @@ idea: transfer learning for SATM
 - [x] Group Meeting 9:30 AM
 
 ### 🚀 Oct 31
-- [ ] Academic Research Poster - Compulsory
-- [ ] Research Poster Preparation
-- [ ] XJF Task
-- [ ] QE Preparation
-- [ ] PhD Study Reorganization
-
-
 
 ## 1️⃣1️⃣ November
 
 ### 🚀 Nov 1
+- [ ] Rent Payment
+- [ ] Academic Research Poster - Compulsory : completed, to be revised and sent out to the school
+- [ ] Patent 9:30 AM
+- [ ] Xing Zijie Dinner 17:00
+
+- [ ] Research Poster Preparation
+- [ ] XJF Task
+- [ ] QE Preparation
+- [ ] PhD Study Reorganization
 
 - [ ] ADXL355 SPI Driver
 - [ ] ADXL3355 SPI DMA IT - REAL-TIME PROCESSING

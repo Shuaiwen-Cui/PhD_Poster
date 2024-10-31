@@ -12,8 +12,8 @@ git status
 git commit -m 'auto update DevControl'
 echo '--------commit successfully--------'
 
-# git push -f https://github.com/Shuaiwen-Cui/DevControl.git main
-git push -u https://github.com/Shuaiwen-Cui/DevControl.git main
-# git remote add origin https://github.com/Shuaiwen-Cui/DevControl.git
+# git push -f https://github.com/Shuaiwen-Cui/PhD_Poster.git main
+git push -u https://github.com/Shuaiwen-Cui/PhD_Poster.git main
+# git remote add origin https://github.com/Shuaiwen-Cui/PhD_Poster.git
 # git push -u origin main
 echo '--------push to GitHub successfully--------'

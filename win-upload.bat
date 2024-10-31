@@ -11,9 +11,9 @@ git status
 git commit -m "auto commit by win-upload.bat"
 echo '--------commit successfully--------'
 
-@REM git push -f https://github.com/Shuaiwen-Cui/DevControl.git main
-git push -f https://github.com/Shuaiwen-Cui/DevControl.git main
-@REM git remote add origin https://github.com/Shuaiwen-Cui/DevControl.git
+@REM git push -f https://github.com/Shuaiwen-Cui/PhD_Poster.git main
+git push -f https://github.com/Shuaiwen-Cui/PhD_Poster.git main
+@REM git remote add origin https://github.com/Shuaiwen-Cui/PhD_Poster.git
 @REM git push -u origin main
 echo '--------push to GitHub successfully--------'
 
