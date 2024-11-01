@@ -1922,7 +1922,7 @@ idea: transfer learning for SATM
 - [x] Rent Payment
 - [x] Academic Research Poster - Compulsory : completed, to be revised and sent out to the school
 - [x] Patent 9:30
-
+- [ ] Engineering Structures - Paper Revision
 - [ ] Xing Zijie Dinner 17:00
 
 - [ ] XJF Task
