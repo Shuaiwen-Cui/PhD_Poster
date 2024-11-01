@@ -1919,19 +1919,18 @@ idea: transfer learning for SATM
 ## 1️⃣1️⃣ November
 
 ### 🚀 Nov 1
-- [ ] Rent Payment
-- [ ] Academic Research Poster - Compulsory : completed, to be revised and sent out to the school
-- [ ] Patent 9:30 AM
+- [x] Rent Payment
+- [x] Academic Research Poster - Compulsory : completed, to be revised and sent out to the school
+- [x] Patent 9:30
+
 - [ ] Xing Zijie Dinner 17:00
 
-- [ ] Research Poster Preparation
 - [ ] XJF Task
-- [ ] QE Preparation
+- [ ] QE Preparation - LAB TEST
 - [ ] PhD Study Reorganization
 
 - [ ] ADXL355 SPI Driver
 - [ ] ADXL3355 SPI DMA IT - REAL-TIME PROCESSING
-
 
 - [ ] Federated Learning
 
@@ -1940,8 +1939,6 @@ idea: transfer learning for SATM
 - [ ] MQTT
 
 - [ ] Connect with Dr Zhao Chaoyang & Prof Yang
-
-LAB TEST
 
 ### 🚀 Nov 2
 
